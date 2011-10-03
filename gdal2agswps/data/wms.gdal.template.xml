@@ -1,0 +1,126 @@
+<GDAL_WMS>
+	<!-- Define what mini-driver to use, currently supported are: WMS, WorldWind, 
+		TileService, TMS, TiledWMS or VirtualEarth. (required) -->
+	<Service name="WMS">
+		<!-- WMS version. (optional, defaults to 1.1.1) -->
+		<Version>1.1.1</Version>
+		<!-- WMS server URL. (required) -->
+		<ServerUrl>http://onearth.jpl.nasa.gov/wms.cgi?</ServerUrl>
+		<!-- Image projection (optional, defaults to EPSG:4326, WMS version 1.1.1 
+			or below only) -->
+		<SRS>EPSG:4326</SRS>
+		<!-- Image projection (optional, defaults to EPSG:4326, WMS version 1.3.0 
+			or above only) -->
+		<CRS>CRS:83</CRS>
+		<!-- Format in which to request data. Paletted formats like image/gif will 
+			be converted to RGB. (optional, defaults to image/jpeg) -->
+		<ImageFormat>image/jpeg</ImageFormat>
+		<!-- Set to TRUE to include "transparent=TRUE" in the WMS GetMap request 
+			(optional defaults to FALSE). The request format and BandsCount need to support 
+			alpha. -->
+		<Transparent>FALSE</Transparent>
+		<!-- Comma separated list of layers. (required, except for TiledWMS) -->
+		<Layers>modis,global_mosaic</Layers>
+		<!-- Comma separated list of layers. (required for TiledWMS) -->
+		<TiledGroupName>Clementine</TiledGroupName>
+		<!-- Comma separated list of styles. (optional) -->
+		<Styles></Styles>
+		<!-- Reorder bbox coordinates arbitrarly. May be required for version 1.3 
+			servers. (optional) -->
+		<!-- x - low X coordinate, y - low Y coordinate, X - high X coordinate, 
+			Y - high Y coordinate -->
+		<BBoxOrder>xyXY</BBoxOrder>
+	</Service>
+	<!-- Define size and extents of the data. (required, except for TiledWMS 
+		and VirtualEarth) -->
+	<DataWindow>
+		<!-- X (longitude) coordinate of upper-left corner. (optional, defaults 
+			to -180.0, except for VirtualEarth) -->
+		<UpperLeftX>-180.0</UpperLeftX>
+		<!-- Y (latitude) coordinate of upper-left corner. (optional, defaults 
+			to 90.0, except for VirtualEarth) -->
+		<UpperLeftY>90.0</UpperLeftY>
+		<!-- X (longitude) coordinate of lower-right corner. (optional, defaults 
+			to 180.0, except for VirtualEarth) -->
+		<LowerRightX>180.0</LowerRightX>
+		<!-- Y (latitude) coordinate of lower-right corner. (optional, defaults 
+			to -90.0, except for VirtualEarth) -->
+		<LowerRightY>-90.0</LowerRightY>
+		<!-- Image size in pixels. -->
+		<SizeX>2666666</SizeX>
+		<!-- Image size in pixels. -->
+		<SizeY>1333333</SizeY>
+		<!-- Added to tile X value at highest resolution. (ignored for WMS, tiled 
+			image sources only, optional, defaults to 0) -->
+		<TileX>0</TileX>
+		<!-- Added to tile Y value at highest resolution. (ignored for WMS, tiled 
+			image sources only, optional, defaults to 0) -->
+		<TileY>0</TileY>
+		<!-- Tile level at highest resolution. (tiled image sources only, optional, 
+			defaults to 0) -->
+		<TileLevel>0</TileLevel>
+		<!-- Can be used to define image size, SizeX = TileCountX * BlockSizeX 
+			* 2TileLevel. (tiled image sources only, optional, defaults to 0) -->
+		<TileCountX>0</TileCountX>
+		<!-- Can be used to define image size, SizeY = TileCountY * BlockSizeY 
+			* 2TileLevel. (tiled image sources only, optional, defaults to 0) -->
+		<TileCountY>0</TileCountY>
+		<!-- Can be used to define the position of the Y origin with respect to 
+			the tile grid. Possible values are 'top', 'bottom', and 'default', where 
+			the default behavior is mini-driver-specific. (TMS mini-driver only, optional, 
+			defaults to 'bottom' for TMS) -->
+		<YOrigin>top</YOrigin>
+	</DataWindow>
+	<!-- Image projection (optional, defaults to value reported by mini-driver 
+		or EPSG:4326) -->
+	<Projection>EPSG:4326</Projection>
+	<!-- Number of bands/channels, 1 for grayscale data, 3 for RGB. (optional, 
+		defaults to 3) -->
+	<BandsCount>3</BandsCount>
+	<!-- Block size in pixels. (optional, defaults to 1024, except for VirtualEarth) -->
+	<BlockSizeX>1024</BlockSizeX>
+	<!-- Block size in pixels. (optional, defaults to 1024, except for VirtualEarth) -->
+	<BlockSizeY>1024</BlockSizeY>
+	<!-- Count of reduced resolution layers each having 2 times lower resolution. 
+		(optional, default is calculated at runtime) -->
+	<OverviewCount>10</OverviewCount>
+	<!-- Enable local disk cache. Allows for offline operation. (optional, defaults 
+		to no cache) -->
+	<Cache>
+		<!-- Location where to store cache files. It is safe to use same cache 
+			path for different data sources. (optional, defaults to ./gdalwmscache) -->
+		<Path>./gdalwmscache</Path>
+		<!-- Number of directory layers. 2 will result in files being written as 
+			cache_path/A/B/ABCDEF... (optional, defaults to 2) -->
+		<Depth>2</Depth>
+		<!-- Append to cache files. (optional, defaults to none) -->
+		<Extension>.jpg</Extension>
+	</Cache>
+	<!-- Maximum number of simultaneous connections. (optional, defaults to 
+		2) -->
+	<MaxConnections>2</MaxConnections>
+	<!-- Connection timeout in seconds. (optional, defaults to 300) -->
+	<Timeout>300</Timeout>
+	<!-- Do not download any new images, use only what is in cache. Usefull 
+		only with cache enabled. (optional, defaults to false) -->
+	<OfflineMode>true</OfflineMode>
+	<!-- Enable AdviseRead API call - download images into cache. (optional, 
+		defaults to false) -->
+	<AdviseRead>true</AdviseRead>
+	<!-- Open each downloaded image and do some basic checks before writing 
+		into cache. Disabling can save some CPU cycles if server is trusted to always 
+		return correct images. (optional, defaults to true) -->
+	<VerifyAdviseRead>true</VerifyAdviseRead>
+	<!-- Should requests, that otherwise would be partially outside of defined 
+		data window, be clipped resulting in smaller than block size request. (optional, 
+		defaults to true) -->
+	<ClampRequests>false</ClampRequests>
+	<!-- HTTP User-agent string. Some servers might require a well-known user-agent 
+		such as "Mozilla/5.0" (optional, defaults to "GDAL WMS driver (http://www.gdal.org/frmt_wms.html)"). 
+		Added in GDAL 1.8.0 -->
+	<UserAgent>GDAL WMS driver (http://www.gdal.org/frmt_wms.html)
+	</UserAgent>
+	<!-- HTTP Referer string. Some servers might require it (optional). Added 
+		in GDAL 1.9.0 -->
+	<Referer>http://example.foo/</Referer>
+</GDAL_WMS>

@@ -1,0 +1,866 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cm="http://cloudmade.com/" width="800" height="600">
+  <rect width="100%" height="100%" fill="#eae8dd" opacity="1"/>
+  <g transform="scale(0.141189042691)">
+    <g transform="translate(10018, 6712007)" flood-opacity="0.1" flood-color="grey">
+      <path d="M -8147.029999999999745 -6709869.860000000335276 L -8063.170000000000073 -6709882.330000000074506" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>-14</cm:z_order>
+        <cm:layer>-1</cm:layer>
+        <cm:name>Abbey Street</cm:name>
+        <cm:tunnel>yes</cm:tunnel>
+        <cm:timestamp>2010-03-18 23:52:45+00:00</cm:timestamp>
+        <cm:cm_id>52336848</cm:cm_id>
+        <cm:ref>B202</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8692.170000000000073 -6710440.049999999813735 L -8722.319999999999709 -6710355.110000000335276" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>-12</cm:z_order>
+        <cm:layer>-1</cm:layer>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:tunnel>yes</cm:tunnel>
+        <cm:timestamp>2010-11-09 17:43:22+00:00</cm:timestamp>
+        <cm:cm_id>60273941</cm:cm_id>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -4942.300000000000182 -6709295.419999999925494 L -4949.619999999999891 -6709302.200000000186265 -4947.260000000000218 -6709311.75" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Redriff Road</cm:name>
+        <cm:timestamp>2010-09-13 09:54:15+01:00</cm:timestamp>
+        <cm:cm_id>11291029</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8499.549999999999272 -6708074.28000000026077 L -8491.110000000000582 -6708082.71999999973923 -8418.680000000000291 -6708149.419999999925494 -8392.840000000000146 -6708182.150000000372529 -8357.729999999999563 -6708239.360000000335276 -8338.729999999999563 -6708281.019999999552965" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Humphrey Street</cm:name>
+        <cm:timestamp>2011-04-19 19:22:19+01:00</cm:timestamp>
+        <cm:cm_id>109283608</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8333.969999999999345 -6708308.009999999776483 L -8358.290000000000873 -6708375.580000000074506 -8383.639999999999418 -6708396.330000000074506 -8396.549999999999272 -6708406.990000000223517 -8494.920000000000073 -6708488.320000000298023" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Mandela Way</cm:name>
+        <cm:timestamp>2010-04-27 21:53:30+01:00</cm:timestamp>
+        <cm:cm_id>11660452</cm:cm_id>
+        <cm:ref>B203</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8227.049999999999272 -6708982.120000000111759 L -8258.889999999999418 -6708924.190000000409782 -8314.280000000000655 -6708807.21999999973923 -8380.049999999999272 -6708670.450000000186265 -8384.479999999999563 -6708661.490000000223517 -8494.920000000000073 -6708488.320000000298023" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Dunton Road</cm:name>
+        <cm:timestamp>2011-04-19 19:22:19+01:00</cm:timestamp>
+        <cm:cm_id>109283606</cm:cm_id>
+        <cm:ref>B203</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4947.260000000000218 -6709311.75 L -4936.829999999999927 -6709314.059999999590218 -4930.6899999999996 -6709306.650000000372529 -4934.1899999999996 -6709297.360000000335276 -4942.300000000000182 -6709295.419999999925494" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Redriff Road</cm:name>
+        <cm:timestamp>2010-09-13 09:53:47+01:00</cm:timestamp>
+        <cm:cm_id>77342445</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8457.770000000000437 -6708099.629999999888241 L -8482.090000000000146 -6708075.299999999813735 -8490.219999999999345 -6708066.589999999850988" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Humphrey Street</cm:name>
+        <cm:timestamp>2011-04-19 19:22:20+01:00</cm:timestamp>
+        <cm:cm_id>109283612</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8457.770000000000437 -6708099.629999999888241 L -8460.409999999999854 -6708070.78000000026077 -8458.010000000000218 -6708054.759999999776483" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Humphrey Street</cm:name>
+        <cm:timestamp>2011-04-19 19:22:22+01:00</cm:timestamp>
+        <cm:cm_id>109283620</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4963.850000000000364 -6708415.679999999701977 L -4961.649999999999636 -6708459.78000000026077" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Trundleys Road</cm:name>
+        <cm:timestamp>2010-04-28 00:47:37+01:00</cm:timestamp>
+        <cm:cm_id>7998621</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B207</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8333.969999999999345 -6708279.929999999701977 L -8352.569999999999709 -6708238.129999999888241 -8384.559999999999491 -6708181.169999999925494 -8413.139999999999418 -6708144.230000000447035 -8457.770000000000437 -6708099.629999999888241" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Humphrey Street</cm:name>
+        <cm:timestamp>2011-04-19 19:23:15+01:00</cm:timestamp>
+        <cm:cm_id>8653437</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4923.850000000000364 -6708445.459999999962747 L -4943.100000000000364 -6708434 -4963.850000000000364 -6708415.679999999701977" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Trundleys Road</cm:name>
+        <cm:timestamp>2010-04-28 00:47:44+01:00</cm:timestamp>
+        <cm:cm_id>11152969</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B207</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4726.029999999999745 -6708465.629999999888241 L -4721.239999999999782 -6708441.740000000223517 -4734.979999999999563 -6708427.400000000372529 -4787.680000000000291 -6708430.78000000026077 -4820.149999999999636 -6708433.389999999664724 -4846.770000000000437 -6708436.379999999888241 -4923.850000000000364 -6708445.459999999962747 -4948.729999999999563 -6708451.040000000037253 -4961.649999999999636 -6708459.78000000026077" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Bestwood Street</cm:name>
+        <cm:timestamp>2011-02-21 12:55:12+00:00</cm:timestamp>
+        <cm:cm_id>4488835</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8613.069999999999709 -6709797.709999999962747 L -8565.149999999999636 -6709803.96999999973923 -8501.850000000000364 -6709813.769999999552965 -8491.790000000000873 -6709815.360000000335276 -8421.979999999999563 -6709825.429999999701977 -8383.760000000000218 -6709832.120000000111759 -8368.479999999999563 -6709836.009999999776483 -8309.239999999999782 -6709843.580000000074506 -8230.8799999999992 -6709856.009999999776483 -8225.690000000000509 -6709856.740000000223517 -8210.6200000000008 -6709858.959999999962747 -8169.449999999999818 -6709864.089999999850988 -8147.029999999999745 -6709869.860000000335276" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Abbey Street</cm:name>
+        <cm:timestamp>2010-03-18 23:52:44+00:00</cm:timestamp>
+        <cm:cm_id>7998478</cm:cm_id>
+        <cm:ref>B202</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -7967 -6708189.049999999813735 L -8077.869999999999891 -6708218.339999999850988" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Rolls Road</cm:name>
+        <cm:timestamp>2008-07-09 01:07:26+01:00</cm:timestamp>
+        <cm:cm_id>22326295</cm:cm_id>
+        <cm:ref>B204</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8063.170000000000073 -6709882.330000000074506 L -8049.270000000000437 -6709884.099999999627471" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Abbey Street</cm:name>
+        <cm:timestamp>2010-03-18 23:52:45+00:00</cm:timestamp>
+        <cm:cm_id>52336849</cm:cm_id>
+        <cm:ref>B202</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -5752.149999999999636 -6710366.700000000186265 L -5744.369999999999891 -6710372.620000000111759" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Brunel Road</cm:name>
+        <cm:timestamp>2010-03-18 23:52:51+00:00</cm:timestamp>
+        <cm:cm_id>32621781</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -5744.369999999999891 -6710372.620000000111759 L -5654.100000000000364 -6710456.71999999973923 -5619.079999999999927 -6710495.21999999973923 -5582.619999999999891 -6710535.299999999813735 -5458.409999999999854 -6710644.870000000111759 -5428.210000000000036 -6710679.379999999888241" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Brunel Road</cm:name>
+        <cm:timestamp>2011-02-21 21:09:08+00:00</cm:timestamp>
+        <cm:cm_id>32621783</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -5428.210000000000036 -6710679.379999999888241 L -5411.079999999999927 -6710695.21999999973923 -5300.1899999999996 -6710807.070000000298023" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Salter Road</cm:name>
+        <cm:timestamp>2010-03-18 23:52:51+00:00</cm:timestamp>
+        <cm:cm_id>4485999</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8879.159999999999854 -6709805.509999999776483 L -8893.040000000000873 -6709810.28000000026077 -9009.489999999999782 -6709833.330000000074506 -9021.940000000000509 -6709836.070000000298023 -9050.389999999999418 -6709841.929999999701977 -9066.270000000000437 -6709844.950000000186265" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Abbey Street</cm:name>
+        <cm:timestamp>2010-09-20 08:51:18+01:00</cm:timestamp>
+        <cm:cm_id>34433569</cm:cm_id>
+        <cm:ref>B202</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8333.969999999999345 -6708279.929999999701977 L -8338.729999999999563 -6708281.019999999552965 -8343.8799999999992 -6708284.75 -8346.389999999999418 -6708288.959999999962747 -8347.309999999999491 -6708294.339999999850988 -8346.340000000000146 -6708299.129999999888241 -8343.479999999999563 -6708303.620000000111759 -8339.569999999999709 -6708306.53000000026077 -8333.969999999999345 -6708308.009999999776483 -8329.1299999999992 -6708307.410000000149012 -8323.299999999999272 -6708303.900000000372529 -8320.5 -6708299.900000000372529 -8319.200000000000728 -6708294.320000000298023 -8319.940000000000509 -6708289.490000000223517 -8322.450000000000728 -6708284.990000000223517 -8326.180000000000291 -6708281.820000000298023 -8330.760000000000218 -6708280.139999999664724 -8333.969999999999345 -6708279.929999999701977" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Rolls Road</cm:name>
+        <cm:timestamp>2010-06-12 21:46:15+01:00</cm:timestamp>
+        <cm:cm_id>11660458</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B204</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -5245.729999999999563 -6710861.150000000372529 L -5197.210000000000036 -6710904.78000000026077 -5107.770000000000437 -6710978.299999999813735 -5091.609999999999673 -6710991.589999999850988 -5023.319999999999709 -6711047.160000000149012 -4878.130000000000109 -6711129.080000000074506 -4846.5600000000004 -6711144.610000000335276 -4783.770000000000437 -6711167.299999999813735 -4741.460000000000036 -6711182.830000000074506 -4682.25 -6711198.349999999627471 -4568.789999999999964 -6711221.049999999813735 -4471.539999999999964 -6711228.740000000223517 -4408.960000000000036 -6711226.790000000037253 -4380.090000000000146 -6711225.980000000447035 -4338.159999999999854 -6711224.799999999813735 -4285.079999999999927 -6711212.509999999776483 -4264.869999999999891 -6711204.879999999888241 -4221.6899999999996 -6711188.570000000298023 -4170.300000000000182 -6711161.669999999925494 -4134.210000000000036 -6711132.5 -4082.179999999999836 -6711079.629999999888241 -4062.559999999999945 -6711041.700000000186265 -4039.190000000000055 -6710996.509999999776483 -4027.389999999999873 -6710957.809999999590218 -4011.039999999999964 -6710904.209999999962747 -3999.059999999999945 -6710805.419999999925494 -3994.320000000000164 -6710762.070000000298023 -3985.989999999999782 -6710677.790000000037253 -3981.860000000000127 -6710647.759999999776483 -3970.349999999999909 -6710567 -3949.329999999999927 -6710414.820000000298023 -3943.599999999999909 -6710373.309999999590218 -3934.599999999999909 -6710308.240000000223517 -3934.639999999999873 -6710303.179999999701977 -3929.760000000000218 -6710228.910000000149012 -3935.800000000000182 -6710142.21999999973923" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Salter Road</cm:name>
+        <cm:timestamp>2011-06-10 23:54:44+01:00</cm:timestamp>
+        <cm:cm_id>39373566</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -6979.260000000000218 -6707954.040000000037253 L -6955.210000000000036 -6707956.950000000186265 -6902.449999999999818 -6707963.240000000223517 -6883.449999999999818 -6707962.559999999590218 -6869.550000000000182 -6707955.71999999973923 -6850.489999999999782 -6707937.269999999552965" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Catlin Street</cm:name>
+        <cm:timestamp>2010-09-21 18:10:00+01:00</cm:timestamp>
+        <cm:cm_id>24831931</cm:cm_id>
+        <cm:ref>B204</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4936.829999999999927 -6709314.059999999590218 L -4916.210000000000036 -6709319.580000000074506 -4752.979999999999563 -6709469.419999999925494 -4596.119999999999891 -6709529.929999999701977" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Redriff Road</cm:name>
+        <cm:timestamp>2010-03-18 23:52:40+00:00</cm:timestamp>
+        <cm:cm_id>11291028</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -6184.6899999999996 -6710064.830000000074506 L -6180.010000000000218 -6710099.71999999973923 -6163.25 -6710125.040000000037253" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Brunel Road</cm:name>
+        <cm:timestamp>2010-05-31 19:36:13+01:00</cm:timestamp>
+        <cm:cm_id>24811629</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -6163.25 -6710125.040000000037253 L -6161.890000000000327 -6710096.820000000298023 -6155.850000000000364 -6710071.860000000335276" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Brunel Road</cm:name>
+        <cm:timestamp>2010-03-18 23:52:50+00:00</cm:timestamp>
+        <cm:cm_id>4485998</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -6163.25 -6710125.040000000037253 L -6150.850000000000364 -6710137.879999999888241 -6126.619999999999891 -6710142.610000000335276 -6102.039999999999964 -6710140.379999999888241 -6059.380000000000109 -6710136.480000000447035 -6017.760000000000218 -6710144.690000000409782 -5999.590000000000146 -6710158.509999999776483 -5852.229999999999563 -6710278.769999999552965 -5819.600000000000364 -6710307.429999999701977 -5803.489999999999782 -6710321.580000000074506 -5752.149999999999636 -6710366.700000000186265" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Brunel Road</cm:name>
+        <cm:timestamp>2011-02-21 20:47:33+00:00</cm:timestamp>
+        <cm:cm_id>42999325</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8567.959999999999127 -6708001.040000000037253 L -8637.069999999999709 -6707924.21999999973923 -8739.1200000000008 -6707829.629999999888241 -8808.8700000000008 -6707761.71999999973923 -8923.709999999999127 -6707695.879999999888241 -9017.340000000000146 -6707638.540000000037253 -9162.569999999999709 -6707564.019999999552965" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Albany Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:40+01:00</cm:timestamp>
+        <cm:cm_id>109283614</cm:cm_id>
+        <cm:ref>B214</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4961.649999999999636 -6708459.78000000026077 L -4980.960000000000036 -6708497.629999999888241 -5005.149999999999636 -6708573.669999999925494 -5035.609999999999673 -6708686.820000000298023 -5048.800000000000182 -6708716.950000000186265 -5085.460000000000036 -6708737.690000000409782" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Bush Road</cm:name>
+        <cm:timestamp>2010-03-18 23:52:47+00:00</cm:timestamp>
+        <cm:cm_id>4488834</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4691.390000000000327 -6708427.400000000372529 L -4714.680000000000291 -6708429.190000000409782 -4734.979999999999563 -6708427.400000000372529" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Bestwood Street</cm:name>
+        <cm:timestamp>2011-02-21 12:55:11+00:00</cm:timestamp>
+        <cm:cm_id>100791667</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4563.050000000000182 -6709539.120000000111759 L -4564.760000000000218 -6709526.78000000026077 -4576.069999999999709 -6709518.379999999888241 -4590.380000000000109 -6709521.669999999925494 -4596.119999999999891 -6709529.929999999701977 -4594.340000000000146 -6709544.25 -4580.8100000000004 -6709552.309999999590218 -4568.979999999999563 -6709548.540000000037253 -4563.050000000000182 -6709539.120000000111759" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:timestamp>2008-06-10 15:55:52+01:00</cm:timestamp>
+        <cm:junction>roundabout</cm:junction>
+        <cm:highway>secondary</cm:highway>
+        <cm:cm_id>4485993</cm:cm_id>
+      </path>
+      <path d="M -8682.989999999999782 -6708240.309999999590218 L -8675.479999999999563 -6708241.46999999973923 -8668.069999999999709 -6708242.620000000111759" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Dunton Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:42+01:00</cm:timestamp>
+        <cm:cm_id>55274661</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B203</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4092.699999999999818 -6709894.860000000335276 L -4155.75 -6709821.299999999813735 -4194.930000000000291 -6709780.209999999962747 -4237.930000000000291 -6709738.169999999925494 -4309.579999999999927 -6709665.549999999813735 -4345.3100000000004 -6709635.080000000074506 -4369.100000000000364 -6709616.540000000037253 -4388.720000000000255 -6709603.700000000186265 -4497.109999999999673 -6709553.78000000026077 -4509.699999999999818 -6709548.559999999590218 -4563.050000000000182 -6709539.120000000111759" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Redriff Road</cm:name>
+        <cm:timestamp>2010-03-18 23:52:51+00:00</cm:timestamp>
+        <cm:cm_id>24807796</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -6793.510000000000218 -6712203.459999999962747 L -6791.489999999999782 -6712193.599999999627471 -6759.539999999999964 -6712038.440000000409782 -6731.970000000000255 -6711898.360000000335276" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Cannon Street Road</cm:name>
+        <cm:timestamp>2009-10-04 17:23:51+01:00</cm:timestamp>
+        <cm:cm_id>25895967</cm:cm_id>
+        <cm:ref>B108</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8670.659999999999854 -6708226.690000000409782 L -8669.25 -6708235.389999999664724 -8668.069999999999709 -6708242.620000000111759" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Dunton Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:42+01:00</cm:timestamp>
+        <cm:cm_id>55274662</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B203</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8668.069999999999709 -6708242.620000000111759 L -8623.690000000000509 -6708301.629999999888241 -8615.180000000000291 -6708312.570000000298023 -8556.3799999999992 -6708388.070000000298023 -8494.920000000000073 -6708488.320000000298023" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Dunton Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:41+01:00</cm:timestamp>
+        <cm:cm_id>55274659</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B203</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8613.069999999999709 -6709797.709999999962747 L -8666.239999999999782 -6709788.410000000149012 -8700.989999999999782 -6709776.080000000074506 -8718.420000000000073 -6709775.360000000335276 -8750.200000000000728 -6709773.910000000149012 -8782.719999999999345 -6709778.990000000223517 -8792.700000000000728 -6709780.53000000026077 -8853.840000000000146 -6709796.799999999813735 -8879.159999999999854 -6709805.509999999776483" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Abbey Street</cm:name>
+        <cm:timestamp>2009-07-30 10:46:51+01:00</cm:timestamp>
+        <cm:cm_id>7998477</cm:cm_id>
+        <cm:ref>B202</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8245.209999999999127 -6707418.200000000186265 L -8247.309999999999491 -6707489.349999999627471 -8247.950000000000728 -6707535.379999999888241 -8247.700000000000728 -6707651.900000000372529 -8241.510000000000218 -6707747.46999999973923 -8235.780000000000655 -6707822.940000000409782 -8231.840000000000146 -6707868.230000000447035" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Trafalgar Avenue</cm:name>
+        <cm:timestamp>2011-08-01 10:40:19+01:00</cm:timestamp>
+        <cm:cm_id>19798325</cm:cm_id>
+        <cm:ref>B215</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4988.6899999999996 -6708760.21999999973923 L -4819.489999999999782 -6708804.360000000335276 -4684.760000000000218 -6708848.290000000037253 -4652.420000000000073 -6708861.839999999850988 -4568.850000000000364 -6708896.879999999888241 -4512.340000000000146 -6708920.570000000298023 -4504.979999999999563 -6708923.650000000372529 -4453.869999999999891 -6708949.910000000149012 -4407.210000000000036 -6708964.379999999888241 -4363.100000000000364 -6708952.78000000026077 -4340.159999999999854 -6708944.190000000409782 -4309.579999999999927 -6708919.339999999850988 -4269.449999999999818 -6708875.389999999664724 -4261.819999999999709 -6708869.650000000372529 -4248.050000000000182 -6708857.209999999962747 -4233.149999999999636 -6708842.910000000149012 -4187.289999999999964 -6708820.919999999925494 -4174.159999999999854 -6708821.540000000037253 -4127.100000000000364 -6708823.790000000037253 -4035.369999999999891 -6708855.309999999590218 -3998.099999999999909 -6708866.790000000037253 -3959.889999999999873 -6708877.290000000037253 -3861.460000000000036 -6708909.790000000037253 -3846.179999999999836 -6708911.690000000409782" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Plough Way</cm:name>
+        <cm:timestamp>2010-04-18 11:15:18+01:00</cm:timestamp>
+        <cm:cm_id>8147385</cm:cm_id>
+        <cm:ref>B206</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -5229.9399999999996 -6708983.099999999627471 L -5171.659999999999854 -6709026.009999999776483 -5074.760000000000218 -6709088.679999999701977 -5054.359999999999673 -6709109.110000000335276" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Redriff Road</cm:name>
+        <cm:timestamp>2010-03-18 23:52:50+00:00</cm:timestamp>
+        <cm:cm_id>4485995</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8077.869999999999891 -6708218.339999999850988 L -8162.8100000000004 -6708239.040000000037253 -8189.789999999999964 -6708245.620000000111759 -8261.569999999999709 -6708278.690000000409782 -8286.299999999999272 -6708288.620000000111759 -8319.200000000000728 -6708294.320000000298023" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Rolls Road</cm:name>
+        <cm:timestamp>2010-09-22 15:33:04+01:00</cm:timestamp>
+        <cm:cycleway>opposite_lane</cm:cycleway>
+        <cm:cm_id>24830794</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B204</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -5054.359999999999673 -6709109.110000000335276 L -5012.4399999999996 -6709165.46999999973923 -5009.579999999999927 -6709169.320000000298023" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Redriff Road</cm:name>
+        <cm:timestamp>2011-02-21 15:07:57+00:00</cm:timestamp>
+        <cm:cm_id>40927136</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -7332.770000000000437 -6707921.950000000186265 L -7287.840000000000146 -6707915.03000000026077 -7134 -6707930.330000000074506 -7074.880000000000109 -6707941.419999999925494 -6979.260000000000218 -6707954.040000000037253" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Catlin Street</cm:name>
+        <cm:timestamp>2010-09-21 18:10:07+01:00</cm:timestamp>
+        <cm:cm_id>8653432</cm:cm_id>
+        <cm:ref>B204</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8049.270000000000437 -6709884.099999999627471 L -8014.649999999999636 -6709892.5 -7901.819999999999709 -6709927.799999999813735 -7846.869999999999891 -6709942.299999999813735 -7814.340000000000146 -6709996.25 -7808.609999999999673 -6710006.089999999850988" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Abbey Street</cm:name>
+        <cm:timestamp>2010-09-08 13:25:18+01:00</cm:timestamp>
+        <cm:cm_id>8658217</cm:cm_id>
+        <cm:ref>B202</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -7967 -6708189.049999999813735 L -7900.210000000000036 -6708170.410000000149012 -7854.100000000000364 -6708160.96999999973923 -7613.649999999999636 -6708089.889999999664724 -7570.779999999999745 -6708062.769999999552965 -7556.130000000000109 -6708053.040000000037253 -7509.510000000000218 -6708021.089999999850988 -7386.909999999999854 -6707949.669999999925494 -7332.770000000000437 -6707921.950000000186265" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Rolls Road</cm:name>
+        <cm:timestamp>2011-02-07 10:43:19+00:00</cm:timestamp>
+        <cm:cm_id>22326296</cm:cm_id>
+        <cm:ref>B204</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8227.049999999999272 -6708982.120000000111759 L -8212.079999999999927 -6709016.660000000149012" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:timestamp>2010-11-13 16:12:06+00:00</cm:timestamp>
+        <cm:name>Dunton Road</cm:name>
+        <cm:highway>secondary</cm:highway>
+        <cm:cm_id>85166350</cm:cm_id>
+      </path>
+      <path d="M -8198.309999999999491 -6708998.759999999776483 L -8227.049999999999272 -6708982.120000000111759" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Dunton Road</cm:name>
+        <cm:timestamp>2011-04-19 19:23:29+01:00</cm:timestamp>
+        <cm:cm_id>11388786</cm:cm_id>
+        <cm:ref>B203</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4963.850000000000364 -6708415.679999999701977 L -4968.039999999999964 -6708411.080000000074506 -4977.659999999999854 -6708387.019999999552965 -5004.270000000000437 -6708325.980000000447035 -5004.5600000000004 -6708309.889999999664724 -4995.420000000000073 -6708284.700000000186265 -4957.680000000000291 -6708198.230000000447035 -4833.880000000000109 -6707963.349999999627471 -4758.970000000000255 -6707790.549999999813735 -4753.380000000000109 -6707776.299999999813735 -4735.399999999999636 -6707730.400000000372529 -4698.520000000000437 -6707528.179999999701977" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Trundleys Road</cm:name>
+        <cm:timestamp>2010-12-03 09:28:02+00:00</cm:timestamp>
+        <cm:cm_id>24942148</cm:cm_id>
+        <cm:ref>B207</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8490.219999999999345 -6708066.589999999850988 L -8555.030000000000655 -6708005 -8567.959999999999127 -6708001.040000000037253" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Albany Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:40+01:00</cm:timestamp>
+        <cm:cm_id>4339543</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B214</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -8567.959999999999127 -6708001.040000000037253 L -8558.989999999999782 -6708014.820000000298023 -8499.549999999999272 -6708074.28000000026077" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Albany Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:40+01:00</cm:timestamp>
+        <cm:cm_id>109283623</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>B214</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -4982.789999999999964 -6709219.580000000074506 L -4966.949999999999818 -6709248.96999999973923 -4942.300000000000182 -6709295.419999999925494" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>6</cm:z_order>
+        <cm:name>Redriff Road</cm:name>
+        <cm:timestamp>2010-03-18 23:52:51+00:00</cm:timestamp>
+        <cm:cm_id>47321950</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -11120.010000000000218 -6709352.019999999552965 L -11007.850000000000364 -6709321.549999999813735 -10940.059999999999491 -6709303.150000000372529 -10880.270000000000437 -6709284.230000000447035 -10821.75 -6709266.669999999925494 -10801.600000000000364 -6709261.169999999925494 -10678.409999999999854 -6709218.809999999590218 -10579.1200000000008 -6709185.660000000149012 -10536.319999999999709 -6709171.349999999627471 -10486.959999999999127 -6709170.190000000409782 -10333.850000000000364 -6709176.429999999701977 -10164.920000000000073 -6709181.209999999962747 -10139.139999999999418 -6709182.150000000372529 -10104.180000000000291 -6709182.900000000372529 -10081.420000000000073 -6709183.240000000223517 -10037.530000000000655 -6709183.910000000149012 -9962.489999999999782 -6709188.700000000186265 -9614.229999999999563 -6709197.820000000298023" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>New Kent Road</cm:name>
+        <cm:timestamp>2010-04-22 22:58:06+01:00</cm:timestamp>
+        <cm:cm_id>24396765</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A201</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8115.649999999999636 -6712024.599999999627471 L -8140.020000000000437 -6711992.509999999776483 -8162.899999999999636 -6711966.910000000149012 -8192.510000000000218 -6711928.709999999962747 -8208.860000000000582 -6711883.690000000409782" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:bicycle>yes</cm:bicycle>
+        <cm:name>Mansell Street</cm:name>
+        <cm:timestamp>2010-11-10 19:43:23+00:00</cm:timestamp>
+        <cm:cm_id>58726531</cm:cm_id>
+        <cm:ref>A1210</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8619.540000000000873 -6710641.400000000372529 L -8621.440000000000509 -6710636.049999999813735 -8634.180000000000291 -6710598.799999999813735 -8671.329999999999927 -6710496.599999999627471 -8692.170000000000073 -6710440.049999999813735" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:17+00:00</cm:timestamp>
+        <cm:cm_id>51979799</cm:cm_id>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8619.540000000000873 -6710641.400000000372529 L -8610.799999999999272 -6710678.929999999701977 -8599.229999999999563 -6710715.790000000037253" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:20+00:00</cm:timestamp>
+        <cm:cm_id>52728126</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8593.920000000000073 -6710713.809999999590218 L -8619.540000000000873 -6710641.400000000372529" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:19+00:00</cm:timestamp>
+        <cm:cm_id>51979800</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8599.229999999999563 -6710715.790000000037253 L -8571.090000000000146 -6710779.259999999776483 -8561.8799999999992 -6710787.379999999888241" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:19+00:00</cm:timestamp>
+        <cm:cm_id>61995638</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8561.8799999999992 -6710787.379999999888241 L -8593.920000000000073 -6710713.809999999590218" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:22+00:00</cm:timestamp>
+        <cm:cm_id>52066806</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8722.319999999999709 -6710355.110000000335276 L -8724.010000000000218 -6710348.559999999590218 -8726.350000000000364 -6710342.320000000298023 -8727.010000000000218 -6710339.709999999962747 -8745.180000000000291 -6710267.519999999552965 -8748.1299999999992 -6710255.830000000074506 -8750.270000000000437 -6710242.150000000372529 -8821.729999999999563 -6710003.669999999925494 -8831.299999999999272 -6709970.790000000037253 -8836.540000000000873 -6709946.830000000074506 -8866.209999999999127 -6709851.320000000298023 -8879.159999999999854 -6709805.509999999776483 -8907.930000000000291 -6709765.370000000111759 -8998.170000000000073 -6709701.480000000447035 -9003.860000000000582 -6709697.400000000372529 -9041.1200000000008 -6709671.599999999627471" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2011-06-11 23:01:47+01:00</cm:timestamp>
+        <cm:cm_id>60273940</cm:cm_id>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8304.309999999999491 -6711996.53000000026077 L -8326.479999999999563 -6712021.379999999888241 -8341.690000000000509 -6712042.950000000186265" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Shorter Street</cm:name>
+        <cm:timestamp>2010-05-09 19:40:37+01:00</cm:timestamp>
+        <cm:cm_id>8599305</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8304.309999999999491 -6711996.53000000026077 L -8259.270000000000437 -6711973.839999999850988 -8225.829999999999927 -6711929.639999999664724 -8208.860000000000582 -6711883.690000000409782" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:bicycle>yes</cm:bicycle>
+        <cm:timestamp>2009-05-28 08:31:10+01:00</cm:timestamp>
+        <cm:cm_id>4260215</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8208.860000000000582 -6711883.690000000409782 L -8239.329999999999927 -6711927.740000000223517 -8304.309999999999491 -6711996.53000000026077" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:bicycle>yes</cm:bicycle>
+        <cm:timestamp>2009-12-10 13:33:19+00:00</cm:timestamp>
+        <cm:cm_id>3978908</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8115.649999999999636 -6712024.599999999627471 L -8304.309999999999491 -6711996.53000000026077" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Shorter Street</cm:name>
+        <cm:timestamp>2009-12-10 11:40:00+00:00</cm:timestamp>
+        <cm:cm_id>3978893</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -7831.729999999999563 -6707630.110000000335276 L -7859.210000000000036 -6707645.589999999850988 -7907.930000000000291 -6707680.950000000186265 -7948.850000000000364 -6707705.980000000447035 -8036.350000000000364 -6707754.259999999776483 -8061.760000000000218 -6707769.809999999590218 -8179.279999999999745 -6707843.379999999888241 -8189.800000000000182 -6707847.519999999552965 -8231.840000000000146 -6707868.230000000447035" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2010-10-03 10:20:35+01:00</cm:timestamp>
+        <cm:cm_id>78686304</cm:cm_id>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8231.840000000000146 -6707868.230000000447035 L -8359.989999999999782 -6707957.669999999925494 -8372.819999999999709 -6707966.679999999701977" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:42+01:00</cm:timestamp>
+        <cm:cm_id>28884261</cm:cm_id>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8208.860000000000582 -6711883.690000000409782 L -8216.399999999999636 -6711856.089999999850988 -8221.659999999999854 -6711833.679999999701977 -8226.790000000000873 -6711811.809999999590218 -8248.8700000000008 -6711717.730000000447035 -8277.020000000000437 -6711474.009999999776483 -8297.25 -6711426.129999999888241" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:bicycle>yes</cm:bicycle>
+        <cm:name>Tower Bridge Approach</cm:name>
+        <cm:timestamp>2010-04-14 20:53:10+01:00</cm:timestamp>
+        <cm:cm_id>3978910</cm:cm_id>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9286.909999999999854 -6708908.400000000372529 L -9247.940000000000509 -6708840.099999999627471" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>New Kent Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:22+00:00</cm:timestamp>
+        <cm:cm_id>7997446</cm:cm_id>
+        <cm:oneway>true</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8551.510000000000218 -6708117.129999999888241 L -8558.290000000000873 -6708123.839999999850988" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2010-11-16 21:13:10+00:00</cm:timestamp>
+        <cm:cm_id>85523494</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8490.219999999999345 -6708066.589999999850988 L -8499.549999999999272 -6708074.28000000026077 -8551.510000000000218 -6708117.129999999888241" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:38+01:00</cm:timestamp>
+        <cm:cm_id>64168489</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8372.819999999999709 -6707966.679999999701977 L -8400 -6707985.730000000447035 -8490.219999999999345 -6708066.589999999850988" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:39+01:00</cm:timestamp>
+        <cm:cm_id>64168488</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8458.010000000000218 -6708054.759999999776483 L -8390.469999999999345 -6707997.169999999925494 -8372.819999999999709 -6707966.679999999701977" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:41+01:00</cm:timestamp>
+        <cm:cm_id>109283622</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8653.920000000000073 -6708212.919999999925494 L -8641.790000000000873 -6708209.559999999590218 -8559.3799999999992 -6708139.089999999850988 -8537.6299999999992 -6708120.980000000447035 -8491.110000000000582 -6708082.71999999973923 -8482.090000000000146 -6708075.299999999813735 -8458.010000000000218 -6708054.759999999776483" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:42+01:00</cm:timestamp>
+        <cm:cm_id>55274898</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8558.290000000000873 -6708123.839999999850988 L -8646.569999999999709 -6708200.599999999627471 -8653.920000000000073 -6708212.919999999925494" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:43+01:00</cm:timestamp>
+        <cm:cm_id>55274990</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9518.229999999999563 -6709135.629999999888241 L -9580.229999999999563 -6709147.230000000447035" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Bricklayers Arms</cm:name>
+        <cm:timestamp>2010-11-09 17:43:19+00:00</cm:timestamp>
+        <cm:cm_id>60768831</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9567.520000000000437 -6709307.209999999962747 L -9494.719999999999345 -6709284.339999999850988 -9459.600000000000364 -6709272.790000000037253" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Bricklayers Arms</cm:name>
+        <cm:timestamp>2010-11-09 17:43:24+00:00</cm:timestamp>
+        <cm:cm_id>2954577</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9109.809999999999491 -6709624.429999999701977 L -9041.1200000000008 -6709671.599999999627471" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2011-04-19 19:22:21+01:00</cm:timestamp>
+        <cm:cm_id>109283616</cm:cm_id>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8476.760000000000218 -6710985.190000000409782 L -8561.8799999999992 -6710787.379999999888241" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2011-01-07 12:15:17+00:00</cm:timestamp>
+        <cm:cm_id>53762761</cm:cm_id>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9580.229999999999563 -6709147.230000000447035 L -9610.079999999999927 -6709168.740000000223517 -9614.229999999999563 -6709197.820000000298023" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Bricklayers Arms</cm:name>
+        <cm:timestamp>2010-11-09 17:43:17+00:00</cm:timestamp>
+        <cm:cm_id>60768848</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9614.229999999999563 -6709197.820000000298023 L -9592.540000000000873 -6709271.269999999552965 -9586.739999999999782 -6709290.950000000186265" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Bricklayers Arms</cm:name>
+        <cm:timestamp>2010-11-09 17:43:20+00:00</cm:timestamp>
+        <cm:cm_id>39093680</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9586.739999999999782 -6709290.950000000186265 L -9567.520000000000437 -6709307.209999999962747" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Bricklayers Arms</cm:name>
+        <cm:timestamp>2010-11-09 17:43:20+00:00</cm:timestamp>
+        <cm:cm_id>60768866</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9473.180000000000291 -6709089.860000000335276 L -9488.450000000000728 -6709107.309999999590218 -9518.229999999999563 -6709135.629999999888241" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:24+00:00</cm:timestamp>
+        <cm:cm_id>7997628</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9470.579999999999927 -6709166.330000000074506 L -9479.760000000000218 -6709146.570000000298023 -9491.930000000000291 -6709139.580000000074506 -9518.229999999999563 -6709135.629999999888241" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Bricklayers Arms</cm:name>
+        <cm:timestamp>2010-05-31 19:36:00+01:00</cm:timestamp>
+        <cm:cm_id>39093681</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8718.159999999999854 -6708267.570000000298023 L -8753.889999999999418 -6708297.160000000149012 -8900.780000000000655 -6708421.059999999590218 -8975.309999999999491 -6708497.509999999776483 -9014.479999999999563 -6708543.360000000335276 -9033.909999999999854 -6708567.879999999888241 -9184.8799999999992 -6708759.950000000186265 -9247.940000000000509 -6708840.099999999627471" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:43+01:00</cm:timestamp>
+        <cm:cm_id>55274988</cm:cm_id>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8718.159999999999854 -6708267.570000000298023 L -8708.979999999999563 -6708262.410000000149012 -8682.989999999999782 -6708240.309999999590218 -8677.6299999999992 -6708236.129999999888241 -8675.229999999999563 -6708231.049999999813735" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:41+01:00</cm:timestamp>
+        <cm:cm_id>55274660</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8686.280000000000655 -6708236.730000000447035 L -8693.75 -6708242.990000000223517 -8713.149999999999636 -6708259.120000000111759 -8718.159999999999854 -6708267.570000000298023" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:43+01:00</cm:timestamp>
+        <cm:cm_id>55274987</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8675.229999999999563 -6708231.049999999813735 L -8680.309999999999491 -6708232.25 -8686.280000000000655 -6708236.730000000447035" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:41+01:00</cm:timestamp>
+        <cm:cm_id>109283626</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8670.659999999999854 -6708226.690000000409782 L -8675.229999999999563 -6708231.049999999813735" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-04-19 19:22:22+01:00</cm:timestamp>
+        <cm:cm_id>109283617</cm:cm_id>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8653.920000000000073 -6708212.919999999925494 L -8670.659999999999854 -6708226.690000000409782" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Old Kent Road</cm:name>
+        <cm:timestamp>2011-07-18 11:32:43+01:00</cm:timestamp>
+        <cm:cm_id>55274989</cm:cm_id>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9459.600000000000364 -6709272.790000000037253 L -9443.540000000000873 -6709275.900000000372529 -9432.170000000000073 -6709278.120000000111759" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:23+00:00</cm:timestamp>
+        <cm:cm_id>7997622</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9432.170000000000073 -6709278.120000000111759 L -9440.709999999999127 -6709262.240000000223517 -9451.190000000000509 -6709242.78000000026077" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:17+00:00</cm:timestamp>
+        <cm:cm_id>7997623</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9109.809999999999491 -6709624.429999999701977 L -9186.5 -6709566.870000000111759 -9234.690000000000509 -6709493.070000000298023 -9240.010000000000218 -6709486.440000000409782 -9296.799999999999272 -6709415.669999999925494 -9323.430000000000291 -6709388.46999999973923 -9378.469999999999345 -6709335.049999999813735 -9386.600000000000364 -6709327.019999999552965 -9432.170000000000073 -6709278.120000000111759" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>Tower Bridge Road</cm:name>
+        <cm:timestamp>2011-02-20 12:14:46+00:00</cm:timestamp>
+        <cm:cm_id>25960268</cm:cm_id>
+        <cm:ref>A100</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9797.850000000000364 -6709163.450000000186265 L -9902.850000000000364 -6709166.919999999925494 -10119.229999999999563 -6709160.860000000335276 -10152.229999999999563 -6709160.639999999664724 -10216.489999999999782 -6709159.450000000186265 -10265.8700000000008 -6709160.230000000447035 -10333.180000000000291 -6709161.309999999590218 -10403.600000000000364 -6709158.519999999552965 -10487.530000000000655 -6709153.740000000223517 -10542.530000000000655 -6709158.429999999701977 -10640.75 -6709190.950000000186265 -10824.6200000000008 -6709252.259999999776483 -10932.530000000000655 -6709286.96999999973923 -11000.040000000000873 -6709303.419999999925494 -11124.059999999999491 -6709333.629999999888241" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>New Kent Road</cm:name>
+        <cm:timestamp>2011-03-27 16:04:38+01:00</cm:timestamp>
+        <cm:cm_id>35795297</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A201</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9247.940000000000509 -6708840.099999999627471 L -9310.469999999999345 -6708906.820000000298023 -9358.459999999999127 -6708958.03000000026077 -9416.659999999999854 -6709028.570000000298023 -9473.180000000000291 -6709089.860000000335276" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>New Kent Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:18+00:00</cm:timestamp>
+        <cm:cm_id>7997445</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9470.579999999999927 -6709166.330000000074506 L -9456.659999999999854 -6709146.25 -9441.25 -6709124.009999999776483 -9402.399999999999636 -6709067.919999999925494 -9286.909999999999854 -6708908.400000000372529" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:name>New Kent Road</cm:name>
+        <cm:timestamp>2010-11-09 17:43:16+00:00</cm:timestamp>
+        <cm:cm_id>7997444</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:ref>A2</cm:ref>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9451.190000000000509 -6709242.78000000026077 L -9459.590000000000146 -6709209.669999999925494 -9470.579999999999927 -6709166.330000000074506" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Bricklayers Arms</cm:name>
+        <cm:timestamp>2010-11-09 17:43:21+00:00</cm:timestamp>
+        <cm:cm_id>60768820</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -9459.600000000000364 -6709272.790000000037253 L -9451.190000000000509 -6709242.78000000026077" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>8</cm:z_order>
+        <cm:junction>roundabout</cm:junction>
+        <cm:name>Bricklayers Arms</cm:name>
+        <cm:timestamp>2010-05-31 19:36:01+01:00</cm:timestamp>
+        <cm:cm_id>60768871</cm:cm_id>
+        <cm:oneway>yes</cm:oneway>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8385.850000000000364 -6711208.629999999888241 L -8474.049999999999272 -6710992.089999999850988 -8476.760000000000218 -6710985.190000000409782" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>10</cm:z_order>
+        <cm:bridge>lifting</cm:bridge>
+        <cm:layer>1</cm:layer>
+        <cm:ref>A100</cm:ref>
+        <cm:name>Tower Bridge</cm:name>
+        <cm:timestamp>2011-01-30 19:18:36+00:00</cm:timestamp>
+        <cm:cm_id>97440715</cm:cm_id>
+        <cm:foot>yes</cm:foot>
+        <cm:tourism>attraction</cm:tourism>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -8297.25 -6711426.129999999888241 L -8302.350000000000364 -6711413.629999999888241 -8385.850000000000364 -6711208.629999999888241" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>10</cm:z_order>
+        <cm:bridge>lifting</cm:bridge>
+        <cm:layer>1</cm:layer>
+        <cm:ref>A100</cm:ref>
+        <cm:name>Tower Bridge</cm:name>
+        <cm:timestamp>2011-01-30 19:18:35+00:00</cm:timestamp>
+        <cm:cm_id>24951423</cm:cm_id>
+        <cm:foot>yes</cm:foot>
+        <cm:tourism>attraction</cm:tourism>
+        <cm:highway>trunk</cm:highway>
+      </path>
+      <path d="M -5300.1899999999996 -6710807.070000000298023 L -5245.729999999999563 -6710861.150000000372529" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>16</cm:z_order>
+        <cm:bridge>yes</cm:bridge>
+        <cm:name>Salter Road</cm:name>
+        <cm:timestamp>2010-03-18 23:52:51+00:00</cm:timestamp>
+        <cm:cm_id>39373565</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+      <path d="M -5009.579999999999927 -6709169.320000000298023 L -4999.210000000000036 -6709189.139999999664724 -4982.789999999999964 -6709219.580000000074506" fill="none" class="line" stroke="black" stroke-width="1px">
+        <cm:z_order>26</cm:z_order>
+        <cm:bridge>yes</cm:bridge>
+        <cm:layer>1</cm:layer>
+        <cm:name>Redriff Road</cm:name>
+        <cm:timestamp>2010-03-18 23:52:50+00:00</cm:timestamp>
+        <cm:cm_id>47321974</cm:cm_id>
+        <cm:ref>B205</cm:ref>
+        <cm:highway>secondary</cm:highway>
+      </path>
+    </g>
+  </g>
+</svg>

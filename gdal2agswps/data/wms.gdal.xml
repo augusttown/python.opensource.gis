@@ -1,0 +1,55 @@
+<GDAL_WMS>
+	<!-- Define what mini-driver to use, currently supported are: WMS, WorldWind, 
+		TileService, TMS, TiledWMS or VirtualEarth. (required) -->
+	<Service name="WMS">
+		<!-- WMS version. (optional, defaults to 1.1.1) -->
+		<Version>1.3.0</Version>
+		<!-- WMS server URL. (required) -->
+		<ServerUrl>http://char:6080/arcgis/services/haiti_3857/MapServer/WMSServer?</ServerUrl>
+		<!-- Image projection (optional, defaults to EPSG:4326, WMS version 1.1.1 
+			or below only) -->
+		<SRS>EPSG:4326</SRS>
+		<!-- Image projection (optional, defaults to EPSG:4326, WMS version 1.3.0 
+			or above only) -->
+		<CRS>CRS:84</CRS>
+		<!-- Format in which to request data. Paletted formats like image/gif will 
+			be converted to RGB. (optional, defaults to image/jpeg) -->
+		<ImageFormat>image/png</ImageFormat>
+		<!-- Set to TRUE to include "transparent=TRUE" in the WMS GetMap request 
+			(optional defaults to FALSE). The request format and BandsCount need to support 
+			alpha. -->
+		<Transparent>TRUE</Transparent>
+		<!-- Comma separated list of layers. (required, except for TiledWMS) -->
+		<Layers>provinces,elevation,buildings,roads,places</Layers>		
+		<!-- Comma separated list of styles. (optional) -->
+		<Styles></Styles>
+		<!-- Reorder bbox coordinates arbitrarly. May be required for version 1.3 
+			servers. (optional) -->
+		<!-- x - low X coordinate, y - low Y coordinate, X - high X coordinate, 
+			Y - high Y coordinate -->
+		<BBoxOrder>xyXY</BBoxOrder>
+	</Service>
+	<!-- Define size and extents of the data. (required, except for TiledWMS 
+		and VirtualEarth) -->
+	<DataWindow>
+		<!-- X (longitude) coordinate of upper-left corner. (optional, defaults 
+			to -180.0, except for VirtualEarth) -->
+		<UpperLeftX>-72.3491170593546</UpperLeftX>
+		<!-- Y (latitude) coordinate of upper-left corner. (optional, defaults 
+			to 90.0, except for VirtualEarth) -->
+		<UpperLeftY>18.5550066239383</UpperLeftY>
+		<!-- X (longitude) coordinate of lower-right corner. (optional, defaults 
+			to 180.0, except for VirtualEarth) -->
+		<LowerRightX>-72.3401996838758</LowerRightX>
+		<!-- Y (latitude) coordinate of lower-right corner. (optional, defaults 
+			to -90.0, except for VirtualEarth) -->
+		<LowerRightY>18.5492350024575</LowerRightY>
+		<!-- Image size in pixels. -->
+		<SizeX>1012</SizeX>
+		<!-- Image size in pixels. -->
+		<SizeY>655</SizeY>		
+	</DataWindow>
+	<!-- Number of bands/channels, 1 for grayscale data, 3 for RGB. (optional, 
+		defaults to 3) -->
+	<BandsCount>3</BandsCount>		
+</GDAL_WMS>

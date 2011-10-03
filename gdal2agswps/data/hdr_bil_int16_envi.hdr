@@ -1,0 +1,17 @@
+ENVI
+description = {
+..\scratch\output.bil}
+samples = 633
+lines   = 466
+bands   = 3
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+byte order = 0
+map info = {UTM, 1, 1, 590010, 4928000, 30, 30, 13, North,North America 1927}
+coordinate system string = {PROJCS["NAD_1927_UTM_Zone_13N",GEOGCS["GCS_North_American_1927",DATUM["D_North_American_1927",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-105],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]}
+band names = {
+Band 1,
+Band 2,
+Band 3}

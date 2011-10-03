@@ -1,0 +1,2950 @@
+<osm version='0.5'>
+<node id='-1' lon='-117.556988055' lat='34.122909576' />
+<node id='-2' lon='-117.55736287' lat='34.122909964' />
+<node id='-3' lon='-117.557362555' lat='34.12304725' />
+<node id='-4' lon='-117.556965213' lat='34.12304684' />
+<node id='-5' lon='-117.556965235' lat='34.12303737' />
+<node id='-6' lon='-117.556965289' lat='34.123033057' />
+<node id='-7' lon='-117.556965433' lat='34.123028747' />
+<node id='-8' lon='-117.556965669' lat='34.123024438' />
+<node id='-9' lon='-117.556965996' lat='34.123020134' />
+<node id='-10' lon='-117.556966413' lat='34.123015836' />
+<node id='-11' lon='-117.556966919' lat='34.123011544' />
+<node id='-12' lon='-117.556967517' lat='34.12300726' />
+<node id='-13' lon='-117.556968204' lat='34.123002986' />
+<node id='-14' lon='-117.556968981' lat='34.122998721' />
+<node id='-15' lon='-117.556969846' lat='34.122994469' />
+<way id='-16'>
+<nd ref='-1' />
+<nd ref='-2' />
+<nd ref='-3' />
+<nd ref='-4' />
+<nd ref='-5' />
+<nd ref='-6' />
+<nd ref='-7' />
+<nd ref='-8' />
+<nd ref='-9' />
+<nd ref='-10' />
+<nd ref='-11' />
+<nd ref='-12' />
+<nd ref='-13' />
+<nd ref='-14' />
+<nd ref='-15' />
+<nd ref='-1' />
+<tag k='addr:housenumber' v='7218' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-17' lon='-117.55736287' lat='34.122909964' />
+<node id='-18' lon='-117.557732841' lat='34.122910363' />
+<node id='-19' lon='-117.557732528' lat='34.123047651' />
+<node id='-20' lon='-117.557362555' lat='34.12304725' />
+<way id='-21'>
+<nd ref='-17' />
+<nd ref='-18' />
+<nd ref='-19' />
+<nd ref='-20' />
+<nd ref='-17' />
+<tag k='addr:housenumber' v='7221' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-22' lon='-117.557931214' lat='34.12283541' />
+<node id='-23' lon='-117.5583219' lat='34.122835874' />
+<node id='-24' lon='-117.558322163' lat='34.122973154' />
+<node id='-25' lon='-117.557930904' lat='34.122972683' />
+<way id='-26'>
+<nd ref='-22' />
+<nd ref='-23' />
+<nd ref='-24' />
+<nd ref='-25' />
+<nd ref='-22' />
+<tag k='addr:housenumber' v='7222' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-27' lon='-117.557218591' lat='34.122451435' />
+<node id='-28' lon='-117.557219321' lat='34.122132698' />
+<node id='-29' lon='-117.557397616' lat='34.122156668' />
+<node id='-30' lon='-117.557397161' lat='34.122355356' />
+<node id='-31' lon='-117.55736381' lat='34.122498104' />
+<way id='-32'>
+<nd ref='-27' />
+<nd ref='-28' />
+<nd ref='-29' />
+<nd ref='-30' />
+<nd ref='-31' />
+<nd ref='-27' />
+<tag k='addr:housenumber' v='11356' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-33' lon='-117.557931525' lat='34.122698128' />
+<node id='-34' lon='-117.558321636' lat='34.122698586' />
+<node id='-35' lon='-117.5583219' lat='34.122835874' />
+<node id='-36' lon='-117.557931214' lat='34.12283541' />
+<way id='-37'>
+<nd ref='-33' />
+<nd ref='-34' />
+<nd ref='-35' />
+<nd ref='-36' />
+<nd ref='-33' />
+<tag k='addr:housenumber' v='7232' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-38' lon='-117.55711868' lat='34.122419321' />
+<node id='-39' lon='-117.557053536' lat='34.12239838' />
+<node id='-40' lon='-117.557054194' lat='34.122110498' />
+<node id='-41' lon='-117.557056227' lat='34.122110766' />
+<node id='-42' lon='-117.557058239' lat='34.122111035' />
+<node id='-43' lon='-117.557219321' lat='34.122132698' />
+<node id='-44' lon='-117.557218591' lat='34.122451435' />
+<way id='-45'>
+<nd ref='-38' />
+<nd ref='-39' />
+<nd ref='-40' />
+<nd ref='-41' />
+<nd ref='-42' />
+<nd ref='-43' />
+<nd ref='-44' />
+<nd ref='-38' />
+<tag k='addr:housenumber' v='11364' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-46' lon='-117.556982551' lat='34.122772301' />
+<node id='-47' lon='-117.557363183' lat='34.1227727' />
+<node id='-48' lon='-117.55736287' lat='34.122909964' />
+<node id='-49' lon='-117.556988055' lat='34.122909576' />
+<node id='-50' lon='-117.556995123' lat='34.122876625' />
+<node id='-51' lon='-117.556995798' lat='34.122873318' />
+<node id='-52' lon='-117.5569964' lat='34.122870001' />
+<node id='-53' lon='-117.556996935' lat='34.122866675' />
+<node id='-54' lon='-117.556997401' lat='34.122863342' />
+<node id='-55' lon='-117.556997794' lat='34.122860004' />
+<node id='-56' lon='-117.556998119' lat='34.122856662' />
+<node id='-57' lon='-117.556998373' lat='34.122853313' />
+<node id='-58' lon='-117.556998557' lat='34.122849962' />
+<node id='-59' lon='-117.556998671' lat='34.122846609' />
+<node id='-60' lon='-117.556998712' lat='34.122843256' />
+<node id='-61' lon='-117.556998686' lat='34.122839901' />
+<node id='-62' lon='-117.556998586' lat='34.122836548' />
+<node id='-63' lon='-117.55699842' lat='34.122833196' />
+<node id='-64' lon='-117.556998181' lat='34.122829847' />
+<node id='-65' lon='-117.556997871' lat='34.122826503' />
+<node id='-66' lon='-117.556997492' lat='34.122823165' />
+<node id='-67' lon='-117.556997044' lat='34.122819831' />
+<node id='-68' lon='-117.556996524' lat='34.122816505' />
+<node id='-69' lon='-117.556995934' lat='34.122813187' />
+<node id='-70' lon='-117.556995276' lat='34.122809878' />
+<node id='-71' lon='-117.556994549' lat='34.122806579' />
+<node id='-72' lon='-117.556993752' lat='34.122803291' />
+<node id='-73' lon='-117.556992885' lat='34.122800015' />
+<node id='-74' lon='-117.556991952' lat='34.122796752' />
+<node id='-75' lon='-117.556990949' lat='34.122793503' />
+<node id='-76' lon='-117.556989877' lat='34.122790269' />
+<node id='-77' lon='-117.556988738' lat='34.122787052' />
+<node id='-78' lon='-117.556987533' lat='34.122783851' />
+<node id='-79' lon='-117.556986258' lat='34.122780669' />
+<node id='-80' lon='-117.55698492' lat='34.122777505' />
+<way id='-81'>
+<nd ref='-46' />
+<nd ref='-47' />
+<nd ref='-48' />
+<nd ref='-49' />
+<nd ref='-50' />
+<nd ref='-51' />
+<nd ref='-52' />
+<nd ref='-53' />
+<nd ref='-54' />
+<nd ref='-55' />
+<nd ref='-56' />
+<nd ref='-57' />
+<nd ref='-58' />
+<nd ref='-59' />
+<nd ref='-60' />
+<nd ref='-61' />
+<nd ref='-62' />
+<nd ref='-63' />
+<nd ref='-64' />
+<nd ref='-65' />
+<nd ref='-66' />
+<nd ref='-67' />
+<nd ref='-68' />
+<nd ref='-69' />
+<nd ref='-70' />
+<nd ref='-71' />
+<nd ref='-72' />
+<nd ref='-73' />
+<nd ref='-74' />
+<nd ref='-75' />
+<nd ref='-76' />
+<nd ref='-77' />
+<nd ref='-78' />
+<nd ref='-79' />
+<nd ref='-80' />
+<nd ref='-46' />
+<tag k='addr:housenumber' v='7226' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-82' lon='-117.557363183' lat='34.1227727' />
+<node id='-83' lon='-117.557733151' lat='34.122773099' />
+<node id='-84' lon='-117.557732841' lat='34.122910363' />
+<node id='-85' lon='-117.55736287' lat='34.122909964' />
+<way id='-86'>
+<nd ref='-82' />
+<nd ref='-83' />
+<nd ref='-84' />
+<nd ref='-85' />
+<nd ref='-82' />
+<tag k='addr:housenumber' v='7229' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-87' lon='-117.557952415' lat='34.122280728' />
+<node id='-88' lon='-117.558320841' lat='34.122281155' />
+<node id='-89' lon='-117.558321102' lat='34.122418481' />
+<node id='-90' lon='-117.557932159' lat='34.12241803' />
+<node id='-91' lon='-117.557932209' lat='34.122396361' />
+<node id='-92' lon='-117.557932265' lat='34.122392046' />
+<node id='-93' lon='-117.557932409' lat='34.122387734' />
+<node id='-94' lon='-117.557932646' lat='34.122383424' />
+<node id='-95' lon='-117.557932972' lat='34.122379118' />
+<node id='-96' lon='-117.557933389' lat='34.122374819' />
+<node id='-97' lon='-117.557933898' lat='34.122370525' />
+<node id='-98' lon='-117.557934495' lat='34.122366239' />
+<node id='-99' lon='-117.55793518' lat='34.122361964' />
+<node id='-100' lon='-117.557935957' lat='34.122357698' />
+<node id='-101' lon='-117.557936824' lat='34.122353443' />
+<way id='-102'>
+<nd ref='-87' />
+<nd ref='-88' />
+<nd ref='-89' />
+<nd ref='-90' />
+<nd ref='-91' />
+<nd ref='-92' />
+<nd ref='-93' />
+<nd ref='-94' />
+<nd ref='-95' />
+<nd ref='-96' />
+<nd ref='-97' />
+<nd ref='-98' />
+<nd ref='-99' />
+<nd ref='-100' />
+<nd ref='-101' />
+<nd ref='-87' />
+<tag k='addr:housenumber' v='7252' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-103' lon='-117.556386986' lat='34.122100815' />
+<node id='-104' lon='-117.556558748' lat='34.122101048' />
+<node id='-105' lon='-117.556558069' lat='34.122397797' />
+<node id='-106' lon='-117.556447413' lat='34.122397655' />
+<node id='-107' lon='-117.556386303' lat='34.122397577' />
+<way id='-108'>
+<nd ref='-103' />
+<nd ref='-104' />
+<nd ref='-105' />
+<nd ref='-106' />
+<nd ref='-107' />
+<nd ref='-103' />
+<tag k='addr:housenumber' v='11394' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-109' lon='-117.556558748' lat='34.122101048' />
+<node id='-110' lon='-117.556723906' lat='34.122101268' />
+<node id='-111' lon='-117.556723227' lat='34.122397999' />
+<node id='-112' lon='-117.556629085' lat='34.122397884' />
+<node id='-113' lon='-117.556558069' lat='34.122397797' />
+<way id='-114'>
+<nd ref='-109' />
+<nd ref='-110' />
+<nd ref='-111' />
+<nd ref='-112' />
+<nd ref='-113' />
+<nd ref='-109' />
+<tag k='addr:housenumber' v='11386' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-115' lon='-117.556723906' lat='34.122101268' />
+<node id='-116' lon='-117.556889066' lat='34.122101484' />
+<node id='-117' lon='-117.556888387' lat='34.122398192' />
+<node id='-118' lon='-117.556810744' lat='34.122398102' />
+<node id='-119' lon='-117.556723227' lat='34.122397999' />
+<way id='-120'>
+<nd ref='-115' />
+<nd ref='-116' />
+<nd ref='-117' />
+<nd ref='-118' />
+<nd ref='-119' />
+<nd ref='-115' />
+<tag k='addr:housenumber' v='11380' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-121' lon='-117.556889066' lat='34.122101484' />
+<node id='-122' lon='-117.55691724' lat='34.122101521' />
+<node id='-123' lon='-117.55694579' lat='34.122101938' />
+<node id='-124' lon='-117.556961341' lat='34.122102486' />
+<node id='-125' lon='-117.556976881' lat='34.122103259' />
+<node id='-126' lon='-117.556992398' lat='34.122104256' />
+<node id='-127' lon='-117.557007896' lat='34.122105481' />
+<node id='-128' lon='-117.557023361' lat='34.122106929' />
+<node id='-129' lon='-117.557038796' lat='34.122108601' />
+<node id='-130' lon='-117.557054194' lat='34.122110498' />
+<node id='-131' lon='-117.557053536' lat='34.12239838' />
+<node id='-132' lon='-117.556888387' lat='34.122398192' />
+<way id='-133'>
+<nd ref='-121' />
+<nd ref='-122' />
+<nd ref='-123' />
+<nd ref='-124' />
+<nd ref='-125' />
+<nd ref='-126' />
+<nd ref='-127' />
+<nd ref='-128' />
+<nd ref='-129' />
+<nd ref='-130' />
+<nd ref='-131' />
+<nd ref='-132' />
+<nd ref='-121' />
+<tag k='addr:housenumber' v='11370' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-134' lon='-117.557397616' lat='34.122156668' />
+<node id='-135' lon='-117.557692748' lat='34.122196324' />
+<node id='-136' lon='-117.55773437' lat='34.122237057' />
+<node id='-137' lon='-117.5577341' lat='34.122355731' />
+<node id='-138' lon='-117.557397161' lat='34.122355356' />
+<way id='-139'>
+<nd ref='-134' />
+<nd ref='-135' />
+<nd ref='-136' />
+<nd ref='-137' />
+<nd ref='-138' />
+<nd ref='-134' />
+<tag k='addr:housenumber' v='7255' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-140' lon='-117.557954751' lat='34.122143393' />
+<node id='-141' lon='-117.558320582' lat='34.122143819' />
+<node id='-142' lon='-117.558320841' lat='34.122281155' />
+<node id='-143' lon='-117.557952415' lat='34.122280728' />
+<node id='-144' lon='-117.557962096' lat='34.122235566' />
+<node id='-145' lon='-117.55796277' lat='34.122232259' />
+<node id='-146' lon='-117.557963374' lat='34.12222894' />
+<node id='-147' lon='-117.557963908' lat='34.122225613' />
+<node id='-148' lon='-117.557964373' lat='34.12222228' />
+<node id='-149' lon='-117.557964767' lat='34.122218938' />
+<node id='-150' lon='-117.557965091' lat='34.122215594' />
+<node id='-151' lon='-117.557965345' lat='34.122212245' />
+<node id='-152' lon='-117.55796553' lat='34.122208894' />
+<node id='-153' lon='-117.557965643' lat='34.122205539' />
+<node id='-154' lon='-117.557965685' lat='34.122202182' />
+<node id='-155' lon='-117.557965658' lat='34.122198827' />
+<node id='-156' lon='-117.55796556' lat='34.122195472' />
+<node id='-157' lon='-117.557965392' lat='34.122192119' />
+<node id='-158' lon='-117.557965153' lat='34.122188769' />
+<node id='-159' lon='-117.557964843' lat='34.122185424' />
+<node id='-160' lon='-117.557964464' lat='34.122182083' />
+<node id='-161' lon='-117.557964016' lat='34.122178748' />
+<node id='-162' lon='-117.557963495' lat='34.122175419' />
+<node id='-163' lon='-117.557962907' lat='34.122172101' />
+<node id='-164' lon='-117.557962248' lat='34.12216879' />
+<node id='-165' lon='-117.557961521' lat='34.122165489' />
+<node id='-166' lon='-117.557960724' lat='34.122162199' />
+<node id='-167' lon='-117.557959858' lat='34.122158921' />
+<node id='-168' lon='-117.557958922' lat='34.122155658' />
+<node id='-169' lon='-117.55795792' lat='34.122152409' />
+<node id='-170' lon='-117.557956848' lat='34.122149172' />
+<way id='-171'>
+<nd ref='-140' />
+<nd ref='-141' />
+<nd ref='-142' />
+<nd ref='-143' />
+<nd ref='-144' />
+<nd ref='-145' />
+<nd ref='-146' />
+<nd ref='-147' />
+<nd ref='-148' />
+<nd ref='-149' />
+<nd ref='-150' />
+<nd ref='-151' />
+<nd ref='-152' />
+<nd ref='-153' />
+<nd ref='-154' />
+<nd ref='-155' />
+<nd ref='-156' />
+<nd ref='-157' />
+<nd ref='-158' />
+<nd ref='-159' />
+<nd ref='-160' />
+<nd ref='-161' />
+<nd ref='-162' />
+<nd ref='-163' />
+<nd ref='-164' />
+<nd ref='-165' />
+<nd ref='-166' />
+<nd ref='-167' />
+<nd ref='-168' />
+<nd ref='-169' />
+<nd ref='-170' />
+<nd ref='-140' />
+<tag k='addr:housenumber' v='7262' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-172' lon='-117.557919925' lat='34.122087007' />
+<node id='-173' lon='-117.558320024' lat='34.121848502' />
+<node id='-174' lon='-117.558320582' lat='34.122143819' />
+<node id='-175' lon='-117.557954751' lat='34.122143393' />
+<node id='-176' lon='-117.557953491' lat='34.122140206' />
+<node id='-177' lon='-117.557952166' lat='34.122137038' />
+<node id='-178' lon='-117.557950772' lat='34.122133888' />
+<node id='-179' lon='-117.557949314' lat='34.122130759' />
+<node id='-180' lon='-117.557947789' lat='34.122127652' />
+<node id='-181' lon='-117.5579462' lat='34.122124569' />
+<node id='-182' lon='-117.557944546' lat='34.122121508' />
+<node id='-183' lon='-117.557942828' lat='34.122118472' />
+<node id='-184' lon='-117.557941047' lat='34.122115461' />
+<node id='-185' lon='-117.557939203' lat='34.122112476' />
+<node id='-186' lon='-117.557937298' lat='34.12210952' />
+<node id='-187' lon='-117.557935328' lat='34.122106591' />
+<node id='-188' lon='-117.5579333' lat='34.122103691' />
+<node id='-189' lon='-117.557931209' lat='34.12210082' />
+<node id='-190' lon='-117.557929059' lat='34.122097982' />
+<node id='-191' lon='-117.557926849' lat='34.122095173' />
+<node id='-192' lon='-117.557924582' lat='34.122092398' />
+<way id='-193'>
+<nd ref='-172' />
+<nd ref='-173' />
+<nd ref='-174' />
+<nd ref='-175' />
+<nd ref='-176' />
+<nd ref='-177' />
+<nd ref='-178' />
+<nd ref='-179' />
+<nd ref='-180' />
+<nd ref='-181' />
+<nd ref='-182' />
+<nd ref='-183' />
+<nd ref='-184' />
+<nd ref='-185' />
+<nd ref='-186' />
+<nd ref='-187' />
+<nd ref='-188' />
+<nd ref='-189' />
+<nd ref='-190' />
+<nd ref='-191' />
+<nd ref='-192' />
+<nd ref='-172' />
+<tag k='addr:housenumber' v='7264' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-194' lon='-117.557852294' lat='34.122036421' />
+<node id='-195' lon='-117.558080581' lat='34.121670987' />
+<node id='-196' lon='-117.558320024' lat='34.121848502' />
+<node id='-197' lon='-117.557919925' lat='34.122087007' />
+<node id='-198' lon='-117.557917486' lat='34.122084334' />
+<node id='-199' lon='-117.557914994' lat='34.122081696' />
+<node id='-200' lon='-117.557912445' lat='34.122079095' />
+<node id='-201' lon='-117.557909842' lat='34.122076533' />
+<node id='-202' lon='-117.557907185' lat='34.122074007' />
+<node id='-203' lon='-117.557904474' lat='34.122071519' />
+<node id='-204' lon='-117.557901715' lat='34.122069073' />
+<node id='-205' lon='-117.557898903' lat='34.122066667' />
+<node id='-206' lon='-117.55789604' lat='34.122064302' />
+<node id='-207' lon='-117.557893128' lat='34.12206198' />
+<node id='-208' lon='-117.557890169' lat='34.122059699' />
+<node id='-209' lon='-117.557887162' lat='34.122057461' />
+<node id='-210' lon='-117.557884109' lat='34.122055268' />
+<node id='-211' lon='-117.557881009' lat='34.12205312' />
+<node id='-212' lon='-117.557877866' lat='34.122051017' />
+<node id='-213' lon='-117.557874678' lat='34.122048959' />
+<node id='-214' lon='-117.557871447' lat='34.122046948' />
+<node id='-215' lon='-117.557868176' lat='34.122044985' />
+<node id='-216' lon='-117.557864864' lat='34.122043069' />
+<node id='-217' lon='-117.557861511' lat='34.122041203' />
+<node id='-218' lon='-117.557858119' lat='34.122039384' />
+<way id='-219'>
+<nd ref='-194' />
+<nd ref='-195' />
+<nd ref='-196' />
+<nd ref='-197' />
+<nd ref='-198' />
+<nd ref='-199' />
+<nd ref='-200' />
+<nd ref='-201' />
+<nd ref='-202' />
+<nd ref='-203' />
+<nd ref='-204' />
+<nd ref='-205' />
+<nd ref='-206' />
+<nd ref='-207' />
+<nd ref='-208' />
+<nd ref='-209' />
+<nd ref='-210' />
+<nd ref='-211' />
+<nd ref='-212' />
+<nd ref='-213' />
+<nd ref='-214' />
+<nd ref='-215' />
+<nd ref='-216' />
+<nd ref='-217' />
+<nd ref='-218' />
+<nd ref='-194' />
+<tag k='addr:housenumber' v='11331' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-220' lon='-117.556947649' lat='34.122722439' />
+<node id='-221' lon='-117.557020096' lat='34.122635042' />
+<node id='-222' lon='-117.557363497' lat='34.12263541' />
+<node id='-223' lon='-117.557363183' lat='34.1227727' />
+<node id='-224' lon='-117.556982551' lat='34.122772301' />
+<node id='-225' lon='-117.556981036' lat='34.122769192' />
+<node id='-226' lon='-117.556979456' lat='34.122766107' />
+<node id='-227' lon='-117.556977812' lat='34.122763045' />
+<node id='-228' lon='-117.556976102' lat='34.122760005' />
+<node id='-229' lon='-117.55697433' lat='34.122756993' />
+<node id='-230' lon='-117.556972495' lat='34.122754006' />
+<node id='-231' lon='-117.556970597' lat='34.122751047' />
+<node id='-232' lon='-117.556968637' lat='34.122748115' />
+<node id='-233' lon='-117.556966616' lat='34.122745213' />
+<node id='-234' lon='-117.556964535' lat='34.12274234' />
+<node id='-235' lon='-117.556962393' lat='34.122739498' />
+<node id='-236' lon='-117.556960193' lat='34.122736687' />
+<node id='-237' lon='-117.556957933' lat='34.122733908' />
+<node id='-238' lon='-117.556955616' lat='34.122731164' />
+<node id='-239' lon='-117.556953241' lat='34.122728453' />
+<node id='-240' lon='-117.556950809' lat='34.122725777' />
+<way id='-241'>
+<nd ref='-220' />
+<nd ref='-221' />
+<nd ref='-222' />
+<nd ref='-223' />
+<nd ref='-224' />
+<nd ref='-225' />
+<nd ref='-226' />
+<nd ref='-227' />
+<nd ref='-228' />
+<nd ref='-229' />
+<nd ref='-230' />
+<nd ref='-231' />
+<nd ref='-232' />
+<nd ref='-233' />
+<nd ref='-234' />
+<nd ref='-235' />
+<nd ref='-236' />
+<nd ref='-237' />
+<nd ref='-238' />
+<nd ref='-239' />
+<nd ref='-240' />
+<nd ref='-220' />
+<tag k='addr:housenumber' v='7230' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-242' lon='-117.556898728' lat='34.122684695' />
+<node id='-243' lon='-117.55711868' lat='34.122419321' />
+<node id='-244' lon='-117.557218591' lat='34.122451435' />
+<node id='-245' lon='-117.55736381' lat='34.122498104' />
+<node id='-246' lon='-117.557363497' lat='34.12263541' />
+<node id='-247' lon='-117.557020096' lat='34.122635042' />
+<node id='-248' lon='-117.556947649' lat='34.122722439' />
+<node id='-249' lon='-117.556945093' lat='34.122719845' />
+<node id='-250' lon='-117.556942482' lat='34.122717288' />
+<node id='-251' lon='-117.556939817' lat='34.12271477' />
+<node id='-252' lon='-117.5569371' lat='34.122712291' />
+<node id='-253' lon='-117.556934332' lat='34.12270985' />
+<node id='-254' lon='-117.556931512' lat='34.122707452' />
+<node id='-255' lon='-117.556928643' lat='34.122705095' />
+<node id='-256' lon='-117.556925726' lat='34.122702779' />
+<node id='-257' lon='-117.556922757' lat='34.122700506' />
+<node id='-258' lon='-117.556919745' lat='34.122698276' />
+<node id='-259' lon='-117.556916684' lat='34.122696091' />
+<node id='-260' lon='-117.556913579' lat='34.12269395' />
+<node id='-261' lon='-117.556910428' lat='34.122691855' />
+<node id='-262' lon='-117.556907235' lat='34.122689806' />
+<node id='-263' lon='-117.556903998' lat='34.122687805' />
+<way id='-264'>
+<nd ref='-242' />
+<nd ref='-243' />
+<nd ref='-244' />
+<nd ref='-245' />
+<nd ref='-246' />
+<nd ref='-247' />
+<nd ref='-248' />
+<nd ref='-249' />
+<nd ref='-250' />
+<nd ref='-251' />
+<nd ref='-252' />
+<nd ref='-253' />
+<nd ref='-254' />
+<nd ref='-255' />
+<nd ref='-256' />
+<nd ref='-257' />
+<nd ref='-258' />
+<nd ref='-259' />
+<nd ref='-260' />
+<nd ref='-261' />
+<nd ref='-262' />
+<nd ref='-263' />
+<nd ref='-242' />
+<tag k='addr:housenumber' v='7234' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-265' lon='-117.557931849' lat='34.12255534' />
+<node id='-266' lon='-117.558321365' lat='34.122555794' />
+<node id='-267' lon='-117.558321636' lat='34.122698586' />
+<node id='-268' lon='-117.557931525' lat='34.122698128' />
+<way id='-269'>
+<nd ref='-265' />
+<nd ref='-266' />
+<nd ref='-267' />
+<nd ref='-268' />
+<nd ref='-265' />
+<tag k='addr:housenumber' v='7236' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-270' lon='-117.557363497' lat='34.12263541' />
+<node id='-271' lon='-117.557733462' lat='34.12263581' />
+<node id='-272' lon='-117.557733151' lat='34.122773099' />
+<node id='-273' lon='-117.557363183' lat='34.1227727' />
+<way id='-274'>
+<nd ref='-270' />
+<nd ref='-271' />
+<nd ref='-272' />
+<nd ref='-273' />
+<nd ref='-270' />
+<tag k='addr:housenumber' v='7235' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-275' lon='-117.556810159' lat='34.122654076' />
+<node id='-276' lon='-117.556810744' lat='34.122398102' />
+<node id='-277' lon='-117.556888387' lat='34.122398192' />
+<node id='-278' lon='-117.557053536' lat='34.12239838' />
+<node id='-279' lon='-117.55711868' lat='34.122419321' />
+<node id='-280' lon='-117.556898728' lat='34.122684695' />
+<node id='-281' lon='-117.556895385' lat='34.122682817' />
+<node id='-282' lon='-117.556892005' lat='34.122680987' />
+<node id='-283' lon='-117.556888585' lat='34.122679207' />
+<node id='-284' lon='-117.556885128' lat='34.122677477' />
+<node id='-285' lon='-117.556881637' lat='34.122675796' />
+<node id='-286' lon='-117.556878111' lat='34.122674168' />
+<node id='-287' lon='-117.556874549' lat='34.12267259' />
+<node id='-288' lon='-117.556870956' lat='34.122671065' />
+<node id='-289' lon='-117.556867332' lat='34.122669592' />
+<node id='-290' lon='-117.556863678' lat='34.12266817' />
+<node id='-291' lon='-117.556859993' lat='34.122666804' />
+<node id='-292' lon='-117.556856281' lat='34.122665491' />
+<node id='-293' lon='-117.556852541' lat='34.122664231' />
+<node id='-294' lon='-117.556848776' lat='34.122663026' />
+<node id='-295' lon='-117.556844985' lat='34.122661876' />
+<node id='-296' lon='-117.556841171' lat='34.122660782' />
+<node id='-297' lon='-117.556837334' lat='34.122659741' />
+<node id='-298' lon='-117.556833478' lat='34.122658757' />
+<node id='-299' lon='-117.5568296' lat='34.122657831' />
+<node id='-300' lon='-117.556825704' lat='34.122656959' />
+<node id='-301' lon='-117.556821788' lat='34.122656144' />
+<node id='-302' lon='-117.556817857' lat='34.122655387' />
+<way id='-303'>
+<nd ref='-275' />
+<nd ref='-276' />
+<nd ref='-277' />
+<nd ref='-278' />
+<nd ref='-279' />
+<nd ref='-280' />
+<nd ref='-281' />
+<nd ref='-282' />
+<nd ref='-283' />
+<nd ref='-284' />
+<nd ref='-285' />
+<nd ref='-286' />
+<nd ref='-287' />
+<nd ref='-288' />
+<nd ref='-289' />
+<nd ref='-290' />
+<nd ref='-291' />
+<nd ref='-292' />
+<nd ref='-293' />
+<nd ref='-294' />
+<nd ref='-295' />
+<nd ref='-296' />
+<nd ref='-297' />
+<nd ref='-298' />
+<nd ref='-299' />
+<nd ref='-300' />
+<nd ref='-301' />
+<nd ref='-302' />
+<nd ref='-275' />
+<tag k='addr:housenumber' v='11379' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='WILLIAMS RIDGE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-304' lon='-117.557760897' lat='34.122010872' />
+<node id='-305' lon='-117.557761659' lat='34.121677756' />
+<node id='-306' lon='-117.558080581' lat='34.121670987' />
+<node id='-307' lon='-117.557852294' lat='34.122036421' />
+<node id='-308' lon='-117.557848805' lat='34.122034736' />
+<node id='-309' lon='-117.557845279' lat='34.122033104' />
+<node id='-310' lon='-117.557841722' lat='34.122031521' />
+<node id='-311' lon='-117.55783813' lat='34.122029992' />
+<node id='-312' lon='-117.557834505' lat='34.122028515' />
+<node id='-313' lon='-117.557830853' lat='34.122027091' />
+<node id='-314' lon='-117.557827171' lat='34.12202572' />
+<node id='-315' lon='-117.557823458' lat='34.122024401' />
+<node id='-316' lon='-117.557819721' lat='34.122023139' />
+<node id='-317' lon='-117.557815957' lat='34.12202193' />
+<node id='-318' lon='-117.557812169' lat='34.122020777' />
+<node id='-319' lon='-117.557808356' lat='34.122019677' />
+<node id='-320' lon='-117.557804519' lat='34.122018634' />
+<node id='-321' lon='-117.557800663' lat='34.122017647' />
+<node id='-322' lon='-117.557796788' lat='34.122016715' />
+<node id='-323' lon='-117.557792891' lat='34.12201584' />
+<node id='-324' lon='-117.557788978' lat='34.122015021' />
+<node id='-325' lon='-117.557785048' lat='34.12201426' />
+<node id='-326' lon='-117.557781101' lat='34.122013556' />
+<node id='-327' lon='-117.557777143' lat='34.122012909' />
+<node id='-328' lon='-117.55777317' lat='34.12201232' />
+<node id='-329' lon='-117.557769184' lat='34.122011789' />
+<node id='-330' lon='-117.55776519' lat='34.122011314' />
+<way id='-331'>
+<nd ref='-304' />
+<nd ref='-305' />
+<nd ref='-306' />
+<nd ref='-307' />
+<nd ref='-308' />
+<nd ref='-309' />
+<nd ref='-310' />
+<nd ref='-311' />
+<nd ref='-312' />
+<nd ref='-313' />
+<nd ref='-314' />
+<nd ref='-315' />
+<nd ref='-316' />
+<nd ref='-317' />
+<nd ref='-318' />
+<nd ref='-319' />
+<nd ref='-320' />
+<nd ref='-321' />
+<nd ref='-322' />
+<nd ref='-323' />
+<nd ref='-324' />
+<nd ref='-325' />
+<nd ref='-326' />
+<nd ref='-327' />
+<nd ref='-328' />
+<nd ref='-329' />
+<nd ref='-330' />
+<nd ref='-304' />
+<tag k='addr:housenumber' v='11335' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-332' lon='-117.557423988' lat='34.121993207' />
+<node id='-333' lon='-117.557424711' lat='34.121677665' />
+<node id='-334' lon='-117.557477174' lat='34.121680141' />
+<node id='-335' lon='-117.557530165' lat='34.121682571' />
+<node id='-336' lon='-117.557596483' lat='34.121681259' />
+<node id='-337' lon='-117.557595727' lat='34.122011255' />
+<node id='-338' lon='-117.55758727' lat='34.122011355' />
+<node id='-339' lon='-117.557582081' lat='34.122011379' />
+<node id='-340' lon='-117.557576892' lat='34.122011327' />
+<node id='-341' lon='-117.557571705' lat='34.122011201' />
+<node id='-342' lon='-117.557566523' lat='34.122011' />
+<node id='-343' lon='-117.557561345' lat='34.122010722' />
+<node id='-344' lon='-117.557556174' lat='34.122010371' />
+<node id='-345' lon='-117.557551012' lat='34.122009943' />
+<node id='-346' lon='-117.557545859' lat='34.122009441' />
+<node id='-347' lon='-117.557540715' lat='34.122008865' />
+<node id='-348' lon='-117.557535586' lat='34.122008212' />
+<way id='-349'>
+<nd ref='-332' />
+<nd ref='-333' />
+<nd ref='-334' />
+<nd ref='-335' />
+<nd ref='-336' />
+<nd ref='-337' />
+<nd ref='-338' />
+<nd ref='-339' />
+<nd ref='-340' />
+<nd ref='-341' />
+<nd ref='-342' />
+<nd ref='-343' />
+<nd ref='-344' />
+<nd ref='-345' />
+<nd ref='-346' />
+<nd ref='-347' />
+<nd ref='-348' />
+<nd ref='-332' />
+<tag k='addr:housenumber' v='11347' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-350' lon='-117.557596483' lat='34.121681259' />
+<node id='-351' lon='-117.557761659' lat='34.121677756' />
+<node id='-352' lon='-117.557760897' lat='34.122010872' />
+<node id='-353' lon='-117.557756885' lat='34.122010519' />
+<node id='-354' lon='-117.557752863' lat='34.122010223' />
+<node id='-355' lon='-117.557748838' lat='34.122009988' />
+<node id='-356' lon='-117.557744809' lat='34.122009809' />
+<node id='-357' lon='-117.557740775' lat='34.122009691' />
+<node id='-358' lon='-117.557736742' lat='34.122009629' />
+<node id='-359' lon='-117.557731249' lat='34.122009639' />
+<node id='-360' lon='-117.557595727' lat='34.122011255' />
+<way id='-361'>
+<nd ref='-350' />
+<nd ref='-351' />
+<nd ref='-352' />
+<nd ref='-353' />
+<nd ref='-354' />
+<nd ref='-355' />
+<nd ref='-356' />
+<nd ref='-357' />
+<nd ref='-358' />
+<nd ref='-359' />
+<nd ref='-360' />
+<nd ref='-350' />
+<tag k='addr:housenumber' v='11341' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-362' lon='-117.557258916' lat='34.121971009' />
+<node id='-363' lon='-117.557259609' lat='34.121669576' />
+<node id='-364' lon='-117.557416058' lat='34.121677776' />
+<node id='-365' lon='-117.557420362' lat='34.121677722' />
+<node id='-366' lon='-117.557424711' lat='34.121677665' />
+<node id='-367' lon='-117.557423988' lat='34.121993207' />
+<way id='-368'>
+<nd ref='-362' />
+<nd ref='-363' />
+<nd ref='-364' />
+<nd ref='-365' />
+<nd ref='-366' />
+<nd ref='-367' />
+<nd ref='-362' />
+<tag k='addr:housenumber' v='11357' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-369' lon='-117.557093803' lat='34.1219488' />
+<node id='-370' lon='-117.55709446' lat='34.12166292' />
+<node id='-371' lon='-117.557131399' lat='34.121662968' />
+<node id='-372' lon='-117.557259609' lat='34.121669576' />
+<node id='-373' lon='-117.557258916' lat='34.121971009' />
+<way id='-374'>
+<nd ref='-369' />
+<nd ref='-370' />
+<nd ref='-371' />
+<nd ref='-372' />
+<nd ref='-373' />
+<nd ref='-369' />
+<tag k='addr:housenumber' v='11361' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-375' lon='-117.556928656' lat='34.121936711' />
+<node id='-376' lon='-117.556929286' lat='34.121662707' />
+<node id='-377' lon='-117.55709446' lat='34.12166292' />
+<node id='-378' lon='-117.557093803' lat='34.1219488' />
+<node id='-379' lon='-117.557089955' lat='34.121948283' />
+<node id='-380' lon='-117.557071148' lat='34.121945892' />
+<node id='-381' lon='-117.557052295' lat='34.121943776' />
+<node id='-382' lon='-117.557033401' lat='34.121941931' />
+<node id='-383' lon='-117.557014471' lat='34.121940365' />
+<node id='-384' lon='-117.556995508' lat='34.12193907' />
+<node id='-385' lon='-117.556976524' lat='34.121938052' />
+<node id='-386' lon='-117.55695752' lat='34.12193731' />
+<way id='-387'>
+<nd ref='-375' />
+<nd ref='-376' />
+<nd ref='-377' />
+<nd ref='-378' />
+<nd ref='-379' />
+<nd ref='-380' />
+<nd ref='-381' />
+<nd ref='-382' />
+<nd ref='-383' />
+<nd ref='-384' />
+<nd ref='-385' />
+<nd ref='-386' />
+<nd ref='-375' />
+<tag k='addr:housenumber' v='11371' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-388' lon='-117.556427205' lat='34.121662036' />
+<node id='-389' lon='-117.556592362' lat='34.12166226' />
+<node id='-390' lon='-117.556591731' lat='34.121936214' />
+<node id='-391' lon='-117.556426573' lat='34.121935989' />
+<way id='-392'>
+<nd ref='-388' />
+<nd ref='-389' />
+<nd ref='-390' />
+<nd ref='-391' />
+<nd ref='-388' />
+<tag k='addr:housenumber' v='11393' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-393' lon='-117.556592362' lat='34.12166226' />
+<node id='-394' lon='-117.556757519' lat='34.121662482' />
+<node id='-395' lon='-117.556756888' lat='34.121936437' />
+<node id='-396' lon='-117.556591731' lat='34.121936214' />
+<way id='-397'>
+<nd ref='-393' />
+<nd ref='-394' />
+<nd ref='-395' />
+<nd ref='-396' />
+<nd ref='-393' />
+<tag k='addr:housenumber' v='11387' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-398' lon='-117.556757519' lat='34.121662482' />
+<node id='-399' lon='-117.556929286' lat='34.121662707' />
+<node id='-400' lon='-117.556928656' lat='34.121936711' />
+<node id='-401' lon='-117.556923166' lat='34.121936669' />
+<node id='-402' lon='-117.55691762' lat='34.121936649' />
+<node id='-403' lon='-117.556756888' lat='34.121936437' />
+<way id='-404'>
+<nd ref='-398' />
+<nd ref='-399' />
+<nd ref='-400' />
+<nd ref='-401' />
+<nd ref='-402' />
+<nd ref='-403' />
+<nd ref='-398' />
+<tag k='addr:housenumber' v='11377' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='BROKEN BRANCH DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-405' lon='-117.55635041' lat='34.123503112' />
+<node id='-406' lon='-117.556765993' lat='34.123503515' />
+<node id='-407' lon='-117.556765673' lat='34.123640704' />
+<node id='-408' lon='-117.556363628' lat='34.123640312' />
+<way id='-409'>
+<nd ref='-405' />
+<nd ref='-406' />
+<nd ref='-407' />
+<nd ref='-408' />
+<nd ref='-405' />
+<tag k='addr:housenumber' v='7185' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-410' lon='-117.556964245' lat='34.123475069' />
+<node id='-411' lon='-117.557361574' lat='34.123475489' />
+<node id='-412' lon='-117.557361245' lat='34.123618224' />
+<node id='-413' lon='-117.556963921' lat='34.123617796' />
+<way id='-414'>
+<nd ref='-410' />
+<nd ref='-411' />
+<nd ref='-412' />
+<nd ref='-413' />
+<nd ref='-410' />
+<tag k='addr:housenumber' v='7184' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-415' lon='-117.557361574' lat='34.123475489' />
+<node id='-416' lon='-117.557705125' lat='34.12347588' />
+<node id='-417' lon='-117.5577048' lat='34.123618625' />
+<node id='-418' lon='-117.557361245' lat='34.123618224' />
+<way id='-419'>
+<nd ref='-415' />
+<nd ref='-416' />
+<nd ref='-417' />
+<nd ref='-418' />
+<nd ref='-415' />
+<tag k='addr:housenumber' v='7187' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-420' lon='-117.556349166' lat='34.123490206' />
+<node id='-421' lon='-117.556380742' lat='34.123365926' />
+<node id='-422' lon='-117.556766311' lat='34.123366299' />
+<node id='-423' lon='-117.556765993' lat='34.123503515' />
+<node id='-424' lon='-117.55635041' lat='34.123503112' />
+<way id='-425'>
+<nd ref='-420' />
+<nd ref='-421' />
+<nd ref='-422' />
+<nd ref='-423' />
+<nd ref='-424' />
+<nd ref='-420' />
+<tag k='addr:housenumber' v='7191' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-426' lon='-117.55696457' lat='34.123332331' />
+<node id='-427' lon='-117.557361901' lat='34.123332745' />
+<node id='-428' lon='-117.557361574' lat='34.123475489' />
+<node id='-429' lon='-117.556964245' lat='34.123475069' />
+<way id='-430'>
+<nd ref='-426' />
+<nd ref='-427' />
+<nd ref='-428' />
+<nd ref='-429' />
+<nd ref='-426' />
+<tag k='addr:housenumber' v='7194' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-431' lon='-117.557361901' lat='34.123332745' />
+<node id='-432' lon='-117.55770725' lat='34.123333131' />
+<node id='-433' lon='-117.557706287' lat='34.123348921' />
+<node id='-434' lon='-117.557705656' lat='34.123364722' />
+<node id='-435' lon='-117.557705332' lat='34.123385155' />
+<node id='-436' lon='-117.557705125' lat='34.12347588' />
+<node id='-437' lon='-117.557361574' lat='34.123475489' />
+<way id='-438'>
+<nd ref='-431' />
+<nd ref='-432' />
+<nd ref='-433' />
+<nd ref='-434' />
+<nd ref='-435' />
+<nd ref='-436' />
+<nd ref='-437' />
+<nd ref='-431' />
+<tag k='addr:housenumber' v='7193' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-439' lon='-117.556376576' lat='34.12377469' />
+<node id='-440' lon='-117.556363628' lat='34.123640312' />
+<node id='-441' lon='-117.556765673' lat='34.123640704' />
+<node id='-442' lon='-117.556765545' lat='34.123695296' />
+<node id='-443' lon='-117.556765675' lat='34.123711105' />
+<node id='-444' lon='-117.556766135' lat='34.123726907' />
+<node id='-445' lon='-117.55676693' lat='34.123742702' />
+<node id='-446' lon='-117.556768053' lat='34.123758484' />
+<node id='-447' lon='-117.5567699' lat='34.123777957' />
+<node id='-448' lon='-117.556377068' lat='34.12377757' />
+<way id='-449'>
+<nd ref='-439' />
+<nd ref='-440' />
+<nd ref='-441' />
+<nd ref='-442' />
+<nd ref='-443' />
+<nd ref='-444' />
+<nd ref='-445' />
+<nd ref='-446' />
+<nd ref='-447' />
+<nd ref='-448' />
+<nd ref='-439' />
+<tag k='addr:housenumber' v='7177' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-450' lon='-117.556963921' lat='34.123617796' />
+<node id='-451' lon='-117.557361245' lat='34.123618224' />
+<node id='-452' lon='-117.557360916' lat='34.123760966' />
+<node id='-453' lon='-117.556967034' lat='34.123760532' />
+<node id='-454' lon='-117.556965799' lat='34.1237472' />
+<node id='-455' lon='-117.556964877' lat='34.123734289' />
+<node id='-456' lon='-117.556964228' lat='34.123721366' />
+<node id='-457' lon='-117.556963851' lat='34.123708435' />
+<node id='-458' lon='-117.556963745' lat='34.123695501' />
+<way id='-459'>
+<nd ref='-450' />
+<nd ref='-451' />
+<nd ref='-452' />
+<nd ref='-453' />
+<nd ref='-454' />
+<nd ref='-455' />
+<nd ref='-456' />
+<nd ref='-457' />
+<nd ref='-458' />
+<nd ref='-450' />
+<tag k='addr:housenumber' v='7178' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-460' lon='-117.557361245' lat='34.123618224' />
+<node id='-461' lon='-117.5577048' lat='34.123618625' />
+<node id='-462' lon='-117.557704571' lat='34.123718602' />
+<node id='-463' lon='-117.557704701' lat='34.123734413' />
+<node id='-464' lon='-117.557705689' lat='34.123761375' />
+<node id='-465' lon='-117.557360916' lat='34.123760966' />
+<way id='-466'>
+<nd ref='-460' />
+<nd ref='-461' />
+<nd ref='-462' />
+<nd ref='-463' />
+<nd ref='-464' />
+<nd ref='-465' />
+<nd ref='-460' />
+<tag k='addr:housenumber' v='7179' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-467' lon='-117.558349701' lat='34.123736426' />
+<node id='-468' lon='-117.557902977' lat='34.123735836' />
+<node id='-469' lon='-117.55790282' lat='34.1237273' />
+<node id='-470' lon='-117.557902782' lat='34.123718849' />
+<node id='-471' lon='-117.55790303' lat='34.123609671' />
+<node id='-472' lon='-117.557952685' lat='34.123568433' />
+<node id='-473' lon='-117.558278578' lat='34.123568854' />
+<node id='-474' lon='-117.558351107' lat='34.12363266' />
+<way id='-475'>
+<nd ref='-467' />
+<nd ref='-468' />
+<nd ref='-469' />
+<nd ref='-470' />
+<nd ref='-471' />
+<nd ref='-472' />
+<nd ref='-473' />
+<nd ref='-474' />
+<nd ref='-467' />
+<tag k='addr:housenumber' v='7178' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-476' lon='-117.556566693' lat='34.12281742' />
+<node id='-477' lon='-117.556590293' lat='34.122818419' />
+<node id='-478' lon='-117.556605819' lat='34.122819362' />
+<node id='-479' lon='-117.556621319' lat='34.122820528' />
+<node id='-480' lon='-117.556636795' lat='34.122821919' />
+<node id='-481' lon='-117.556652235' lat='34.122823537' />
+<node id='-482' lon='-117.556667642' lat='34.122825375' />
+<node id='-483' lon='-117.556683008' lat='34.122827439' />
+<node id='-484' lon='-117.556698328' lat='34.122829723' />
+<node id='-485' lon='-117.556713596' lat='34.122832231' />
+<node id='-486' lon='-117.55672881' lat='34.122834958' />
+<node id='-487' lon='-117.556767443' lat='34.122875071' />
+<node id='-488' lon='-117.556766967' lat='34.123082197' />
+<node id='-489' lon='-117.556566083' lat='34.123081997' />
+<way id='-490'>
+<nd ref='-476' />
+<nd ref='-477' />
+<nd ref='-478' />
+<nd ref='-479' />
+<nd ref='-480' />
+<nd ref='-481' />
+<nd ref='-482' />
+<nd ref='-483' />
+<nd ref='-484' />
+<nd ref='-485' />
+<nd ref='-486' />
+<nd ref='-487' />
+<nd ref='-488' />
+<nd ref='-489' />
+<nd ref='-476' />
+<tag k='addr:housenumber' v='11386' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='WILLIAMS RIDGE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-491' lon='-117.557916314' lat='34.123247187' />
+<node id='-492' lon='-117.558319974' lat='34.123247687' />
+<node id='-493' lon='-117.558318709' lat='34.123341297' />
+<node id='-494' lon='-117.558245934' lat='34.123404023' />
+<node id='-495' lon='-117.55795377' lat='34.123403655' />
+<node id='-496' lon='-117.557904069' lat='34.123361169' />
+<node id='-497' lon='-117.557904786' lat='34.123347614' />
+<node id='-498' lon='-117.557905743' lat='34.123334701' />
+<node id='-499' lon='-117.557906973' lat='34.123321805' />
+<node id='-500' lon='-117.557908473' lat='34.123308929' />
+<way id='-501'>
+<nd ref='-491' />
+<nd ref='-492' />
+<nd ref='-493' />
+<nd ref='-494' />
+<nd ref='-495' />
+<nd ref='-496' />
+<nd ref='-497' />
+<nd ref='-498' />
+<nd ref='-499' />
+<nd ref='-500' />
+<nd ref='-491' />
+<tag k='addr:housenumber' v='7200' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-502' lon='-117.55639237' lat='34.123223181' />
+<node id='-503' lon='-117.55676664' lat='34.123223545' />
+<node id='-504' lon='-117.556766311' lat='34.123366299' />
+<node id='-505' lon='-117.556380742' lat='34.123365926' />
+<node id='-506' lon='-117.556383287' lat='34.123355907' />
+<way id='-507'>
+<nd ref='-502' />
+<nd ref='-503' />
+<nd ref='-504' />
+<nd ref='-505' />
+<nd ref='-506' />
+<nd ref='-502' />
+<tag k='addr:housenumber' v='7203' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-508' lon='-117.55696489' lat='34.123189584' />
+<node id='-509' lon='-117.557362228' lat='34.123189994' />
+<node id='-510' lon='-117.557361901' lat='34.123332745' />
+<node id='-511' lon='-117.55696457' lat='34.123332331' />
+<way id='-512'>
+<nd ref='-508' />
+<nd ref='-509' />
+<nd ref='-510' />
+<nd ref='-511' />
+<nd ref='-508' />
+<tag k='addr:housenumber' v='7202' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-513' lon='-117.557362228' lat='34.123189994' />
+<node id='-514' lon='-117.557724229' lat='34.123190393' />
+<node id='-515' lon='-117.557711352' lat='34.123291788' />
+<node id='-516' lon='-117.55770952' lat='34.123307526' />
+<node id='-517' lon='-117.55770725' lat='34.123333131' />
+<node id='-518' lon='-117.557361901' lat='34.123332745' />
+<way id='-519'>
+<nd ref='-513' />
+<nd ref='-514' />
+<nd ref='-515' />
+<nd ref='-516' />
+<nd ref='-517' />
+<nd ref='-518' />
+<nd ref='-513' />
+<tag k='addr:housenumber' v='7205' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-520' lon='-117.557930285' lat='34.123109948' />
+<node id='-521' lon='-117.558321727' lat='34.123110424' />
+<node id='-522' lon='-117.558321481' lat='34.123134432' />
+<node id='-523' lon='-117.558321185' lat='34.123158202' />
+<node id='-524' lon='-117.558319974' lat='34.123247687' />
+<node id='-525' lon='-117.557916314' lat='34.123247187' />
+<node id='-526' lon='-117.557924623' lat='34.123181745' />
+<node id='-527' lon='-117.557926455' lat='34.123166006' />
+<node id='-528' lon='-117.557927956' lat='34.123150244' />
+<node id='-529' lon='-117.557929127' lat='34.123134463' />
+<way id='-530'>
+<nd ref='-520' />
+<nd ref='-521' />
+<nd ref='-522' />
+<nd ref='-523' />
+<nd ref='-524' />
+<nd ref='-525' />
+<nd ref='-526' />
+<nd ref='-527' />
+<nd ref='-528' />
+<nd ref='-529' />
+<nd ref='-520' />
+<tag k='addr:housenumber' v='7206' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-531' lon='-117.556402043' lat='34.123081834' />
+<node id='-532' lon='-117.556566083' lat='34.123081997' />
+<node id='-533' lon='-117.556766967' lat='34.123082197' />
+<node id='-534' lon='-117.55676664' lat='34.123223545' />
+<node id='-535' lon='-117.55639237' lat='34.123223181' />
+<way id='-536'>
+<nd ref='-531' />
+<nd ref='-532' />
+<nd ref='-533' />
+<nd ref='-534' />
+<nd ref='-535' />
+<nd ref='-531' />
+<tag k='addr:housenumber' v='7209' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-537' lon='-117.556965213' lat='34.12304684' />
+<node id='-538' lon='-117.557362555' lat='34.12304725' />
+<node id='-539' lon='-117.557362228' lat='34.123189994' />
+<node id='-540' lon='-117.55696489' lat='34.123189584' />
+<way id='-541'>
+<nd ref='-537' />
+<nd ref='-538' />
+<nd ref='-539' />
+<nd ref='-540' />
+<nd ref='-537' />
+<tag k='addr:housenumber' v='7210' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-542' lon='-117.557362555' lat='34.12304725' />
+<node id='-543' lon='-117.557732528' lat='34.123047651' />
+<node id='-544' lon='-117.557732436' lat='34.123088143' />
+<node id='-545' lon='-117.557731881' lat='34.123112929' />
+<node id='-546' lon='-117.557731195' lat='34.123125853' />
+<node id='-547' lon='-117.55773024' lat='34.123138766' />
+<node id='-548' lon='-117.557729011' lat='34.123151661' />
+<node id='-549' lon='-117.557727513' lat='34.123164539' />
+<node id='-550' lon='-117.557724229' lat='34.123190393' />
+<node id='-551' lon='-117.557362228' lat='34.123189994' />
+<way id='-552'>
+<nd ref='-542' />
+<nd ref='-543' />
+<nd ref='-544' />
+<nd ref='-545' />
+<nd ref='-546' />
+<nd ref='-547' />
+<nd ref='-548' />
+<nd ref='-549' />
+<nd ref='-550' />
+<nd ref='-551' />
+<nd ref='-542' />
+<tag k='addr:housenumber' v='7211' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-553' lon='-117.557930904' lat='34.122972683' />
+<node id='-554' lon='-117.558322163' lat='34.122973154' />
+<node id='-555' lon='-117.55832219' lat='34.122987155' />
+<node id='-556' lon='-117.558322126' lat='34.123049098' />
+<node id='-557' lon='-117.558321727' lat='34.123110424' />
+<node id='-558' lon='-117.557930285' lat='34.123109948' />
+<node id='-559' lon='-117.55793054' lat='34.123099214' />
+<node id='-560' lon='-117.557930643' lat='34.123088371' />
+<way id='-561'>
+<nd ref='-553' />
+<nd ref='-554' />
+<nd ref='-555' />
+<nd ref='-556' />
+<nd ref='-557' />
+<nd ref='-558' />
+<nd ref='-559' />
+<nd ref='-560' />
+<nd ref='-553' />
+<tag k='addr:housenumber' v='7216' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-562' lon='-117.556387777' lat='34.12308154' />
+<node id='-563' lon='-117.556388389' lat='34.122816736' />
+<node id='-564' lon='-117.556533988' lat='34.122816892' />
+<node id='-565' lon='-117.556551133' lat='34.122817045' />
+<node id='-566' lon='-117.556566693' lat='34.12281742' />
+<node id='-567' lon='-117.556566083' lat='34.123081997' />
+<node id='-568' lon='-117.556402043' lat='34.123081834' />
+<way id='-569'>
+<nd ref='-562' />
+<nd ref='-563' />
+<nd ref='-564' />
+<nd ref='-565' />
+<nd ref='-566' />
+<nd ref='-567' />
+<nd ref='-568' />
+<nd ref='-562' />
+<tag k='addr:housenumber' v='11394' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='WILLIAMS RIDGE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-570' lon='-117.557019272' lat='34.124474407' />
+<node id='-571' lon='-117.557397362' lat='34.124474881' />
+<node id='-572' lon='-117.55739696' lat='34.124645635' />
+<node id='-573' lon='-117.557068419' lat='34.12464521' />
+<node id='-574' lon='-117.557018964' lat='34.12460395' />
+<way id='-575'>
+<nd ref='-570' />
+<nd ref='-571' />
+<nd ref='-572' />
+<nd ref='-573' />
+<nd ref='-574' />
+<nd ref='-570' />
+<tag k='addr:housenumber' v='7130' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-576' lon='-117.557397362' lat='34.124474881' />
+<node id='-577' lon='-117.55774424' lat='34.124475346' />
+<node id='-578' lon='-117.557743936' lat='34.124604907' />
+<node id='-579' lon='-117.557694285' lat='34.124646042' />
+<node id='-580' lon='-117.55739696' lat='34.124645635' />
+<way id='-581'>
+<nd ref='-576' />
+<nd ref='-577' />
+<nd ref='-578' />
+<nd ref='-579' />
+<nd ref='-580' />
+<nd ref='-576' />
+<tag k='addr:housenumber' v='7131' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-582' lon='-117.55639404' lat='34.124596166' />
+<node id='-583' lon='-117.556398725' lat='34.124469402' />
+<node id='-584' lon='-117.556820179' lat='34.124469871' />
+<node id='-585' lon='-117.55681943' lat='34.124476548' />
+<node id='-586' lon='-117.556818831' lat='34.124480834' />
+<node id='-587' lon='-117.556818144' lat='34.124485109' />
+<node id='-588' lon='-117.556817367' lat='34.124489376' />
+<node id='-589' lon='-117.5568165' lat='34.124493629' />
+<node id='-590' lon='-117.556792142' lat='34.124607166' />
+<node id='-591' lon='-117.556393651' lat='34.124606714' />
+<way id='-592'>
+<nd ref='-582' />
+<nd ref='-583' />
+<nd ref='-584' />
+<nd ref='-585' />
+<nd ref='-586' />
+<nd ref='-587' />
+<nd ref='-588' />
+<nd ref='-589' />
+<nd ref='-590' />
+<nd ref='-591' />
+<nd ref='-582' />
+<tag k='addr:housenumber' v='7131' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-593' lon='-117.557942569' lat='34.124427858' />
+<node id='-594' lon='-117.558341594' lat='34.124428434' />
+<node id='-595' lon='-117.558341812' lat='34.124565764' />
+<node id='-596' lon='-117.55796163' lat='34.124565207' />
+<node id='-597' lon='-117.557946931' lat='34.124495098' />
+<node id='-598' lon='-117.557946083' lat='34.124490841' />
+<node id='-599' lon='-117.557945327' lat='34.124486574' />
+<node id='-600' lon='-117.557944659' lat='34.124482294' />
+<node id='-601' lon='-117.557944082' lat='34.124478007' />
+<node id='-602' lon='-117.557943594' lat='34.124473712' />
+<node id='-603' lon='-117.557943198' lat='34.124469411' />
+<node id='-604' lon='-117.557942891' lat='34.124465103' />
+<node id='-605' lon='-117.557942674' lat='34.124460793' />
+<node id='-606' lon='-117.557942548' lat='34.12445648' />
+<node id='-607' lon='-117.557942514' lat='34.124452165' />
+<way id='-608'>
+<nd ref='-593' />
+<nd ref='-594' />
+<nd ref='-595' />
+<nd ref='-596' />
+<nd ref='-597' />
+<nd ref='-598' />
+<nd ref='-599' />
+<nd ref='-600' />
+<nd ref='-601' />
+<nd ref='-602' />
+<nd ref='-603' />
+<nd ref='-604' />
+<nd ref='-605' />
+<nd ref='-606' />
+<nd ref='-607' />
+<nd ref='-593' />
+<tag k='addr:housenumber' v='7134' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-609' lon='-117.556387751' lat='34.124766388' />
+<node id='-610' lon='-117.556393651' lat='34.124606714' />
+<node id='-611' lon='-117.556792142' lat='34.124607166' />
+<node id='-612' lon='-117.556791213' lat='34.124611492' />
+<node id='-613' lon='-117.556790539' lat='34.1246148' />
+<node id='-614' lon='-117.556789934' lat='34.124618118' />
+<node id='-615' lon='-117.556789401' lat='34.124621444' />
+<node id='-616' lon='-117.556788935' lat='34.124624777' />
+<node id='-617' lon='-117.556788541' lat='34.124628117' />
+<node id='-618' lon='-117.556788217' lat='34.124631461' />
+<node id='-619' lon='-117.556787961' lat='34.124634811' />
+<node id='-620' lon='-117.556787776' lat='34.124638163' />
+<node id='-621' lon='-117.556787663' lat='34.124641517' />
+<node id='-622' lon='-117.556787621' lat='34.124644872' />
+<node id='-623' lon='-117.556787648' lat='34.124648227' />
+<node id='-624' lon='-117.556787745' lat='34.124651583' />
+<node id='-625' lon='-117.556787912' lat='34.124654935' />
+<node id='-626' lon='-117.55678815' lat='34.124658285' />
+<node id='-627' lon='-117.556788461' lat='34.12466163' />
+<node id='-628' lon='-117.556788838' lat='34.124664969' />
+<node id='-629' lon='-117.556789289' lat='34.124668305' />
+<node id='-630' lon='-117.556789807' lat='34.124671632' />
+<node id='-631' lon='-117.556790395' lat='34.124674952' />
+<node id='-632' lon='-117.556791053' lat='34.124678263' />
+<node id='-633' lon='-117.556791781' lat='34.124681563' />
+<node id='-634' lon='-117.556792578' lat='34.124684852' />
+<node id='-635' lon='-117.55679363' lat='34.124688803' />
+<node id='-636' lon='-117.556589957' lat='34.12478547' />
+<node id='-637' lon='-117.556387054' lat='34.124785241' />
+<way id='-638'>
+<nd ref='-609' />
+<nd ref='-610' />
+<nd ref='-611' />
+<nd ref='-612' />
+<nd ref='-613' />
+<nd ref='-614' />
+<nd ref='-615' />
+<nd ref='-616' />
+<nd ref='-617' />
+<nd ref='-618' />
+<nd ref='-619' />
+<nd ref='-620' />
+<nd ref='-621' />
+<nd ref='-622' />
+<nd ref='-623' />
+<nd ref='-624' />
+<nd ref='-625' />
+<nd ref='-626' />
+<nd ref='-627' />
+<nd ref='-628' />
+<nd ref='-629' />
+<nd ref='-630' />
+<nd ref='-631' />
+<nd ref='-632' />
+<nd ref='-633' />
+<nd ref='-634' />
+<nd ref='-635' />
+<nd ref='-636' />
+<nd ref='-637' />
+<nd ref='-609' />
+<tag k='addr:housenumber' v='7125' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-639' lon='-117.557970842' lat='34.124682742' />
+<node id='-640' lon='-117.557971577' lat='34.124679442' />
+<node id='-641' lon='-117.557972244' lat='34.124676132' />
+<node id='-642' lon='-117.557972841' lat='34.124672813' />
+<node id='-643' lon='-117.557973367' lat='34.124669485' />
+<node id='-644' lon='-117.557973824' lat='34.12466615' />
+<node id='-645' lon='-117.557974211' lat='34.12466281' />
+<node id='-646' lon='-117.557974529' lat='34.124659465' />
+<node id='-647' lon='-117.557974774' lat='34.124656113' />
+<node id='-648' lon='-117.557974951' lat='34.124652761' />
+<node id='-649' lon='-117.557975057' lat='34.124649406' />
+<node id='-650' lon='-117.557975092' lat='34.124646051' />
+<node id='-651' lon='-117.557975057' lat='34.124642694' />
+<node id='-652' lon='-117.557974952' lat='34.124639339' />
+<node id='-653' lon='-117.557974776' lat='34.124635986' />
+<node id='-654' lon='-117.55797453' lat='34.124632636' />
+<node id='-655' lon='-117.557974212' lat='34.124629291' />
+<node id='-656' lon='-117.557973826' lat='34.12462595' />
+<node id='-657' lon='-117.55797337' lat='34.124622617' />
+<node id='-658' lon='-117.557972843' lat='34.124619289' />
+<node id='-659' lon='-117.557971656' lat='34.124613023' />
+<node id='-660' lon='-117.55796163' lat='34.124565207' />
+<node id='-661' lon='-117.558341812' lat='34.124565764' />
+<node id='-662' lon='-117.558342155' lat='34.124784034' />
+<way id='-663'>
+<nd ref='-639' />
+<nd ref='-640' />
+<nd ref='-641' />
+<nd ref='-642' />
+<nd ref='-643' />
+<nd ref='-644' />
+<nd ref='-645' />
+<nd ref='-646' />
+<nd ref='-647' />
+<nd ref='-648' />
+<nd ref='-649' />
+<nd ref='-650' />
+<nd ref='-651' />
+<nd ref='-652' />
+<nd ref='-653' />
+<nd ref='-654' />
+<nd ref='-655' />
+<nd ref='-656' />
+<nd ref='-657' />
+<nd ref='-658' />
+<nd ref='-659' />
+<nd ref='-660' />
+<nd ref='-661' />
+<nd ref='-662' />
+<nd ref='-639' />
+<tag k='addr:housenumber' v='7126' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-664' lon='-117.557019609' lat='34.124331612' />
+<node id='-665' lon='-117.557397699' lat='34.124332077' />
+<node id='-666' lon='-117.557397362' lat='34.124474881' />
+<node id='-667' lon='-117.557019272' lat='34.124474407' />
+<way id='-668'>
+<nd ref='-664' />
+<nd ref='-665' />
+<nd ref='-666' />
+<nd ref='-667' />
+<nd ref='-664' />
+<tag k='addr:housenumber' v='7138' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-669' lon='-117.557397699' lat='34.124332077' />
+<node id='-670' lon='-117.557744573' lat='34.124332532' />
+<node id='-671' lon='-117.55774424' lat='34.124475346' />
+<node id='-672' lon='-117.557397362' lat='34.124474881' />
+<way id='-673'>
+<nd ref='-669' />
+<nd ref='-670' />
+<nd ref='-671' />
+<nd ref='-672' />
+<nd ref='-669' />
+<tag k='addr:housenumber' v='7141' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-674' lon='-117.557942887' lat='34.124290539' />
+<node id='-675' lon='-117.558342233' lat='34.124291107' />
+<node id='-676' lon='-117.558341712' lat='34.124359426' />
+<node id='-677' lon='-117.558341594' lat='34.124428434' />
+<node id='-678' lon='-117.557942569' lat='34.124427858' />
+<way id='-679'>
+<nd ref='-674' />
+<nd ref='-675' />
+<nd ref='-676' />
+<nd ref='-677' />
+<nd ref='-678' />
+<nd ref='-674' />
+<tag k='addr:housenumber' v='7140' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-680' lon='-117.556406361' lat='34.124262709' />
+<node id='-681' lon='-117.556408868' lat='34.124194841' />
+<node id='-682' lon='-117.556821727' lat='34.124195279' />
+<node id='-683' lon='-117.556821401' lat='34.124332561' />
+<node id='-684' lon='-117.556403798' lat='34.124332106' />
+<way id='-685'>
+<nd ref='-680' />
+<nd ref='-681' />
+<nd ref='-682' />
+<nd ref='-683' />
+<nd ref='-684' />
+<nd ref='-680' />
+<tag k='addr:housenumber' v='7145' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-686' lon='-117.557019947' lat='34.124188837' />
+<node id='-687' lon='-117.557398033' lat='34.124189289' />
+<node id='-688' lon='-117.557397699' lat='34.124332077' />
+<node id='-689' lon='-117.557019609' lat='34.124331612' />
+<way id='-690'>
+<nd ref='-686' />
+<nd ref='-687' />
+<nd ref='-688' />
+<nd ref='-689' />
+<nd ref='-686' />
+<tag k='addr:housenumber' v='7146' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-691' lon='-117.557398033' lat='34.124189289' />
+<node id='-692' lon='-117.557744904' lat='34.124189736' />
+<node id='-693' lon='-117.557744573' lat='34.124332532' />
+<node id='-694' lon='-117.557397699' lat='34.124332077' />
+<way id='-695'>
+<nd ref='-691' />
+<nd ref='-692' />
+<nd ref='-693' />
+<nd ref='-694' />
+<nd ref='-691' />
+<tag k='addr:housenumber' v='7147' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-696' lon='-117.557943217' lat='34.12414774' />
+<node id='-697' lon='-117.55834412' lat='34.124148301' />
+<node id='-698' lon='-117.558342649' lat='34.124256751' />
+<node id='-699' lon='-117.558342429' lat='34.124273843' />
+<node id='-700' lon='-117.558342233' lat='34.124291107' />
+<node id='-701' lon='-117.557942887' lat='34.124290539' />
+<way id='-702'>
+<nd ref='-696' />
+<nd ref='-697' />
+<nd ref='-698' />
+<nd ref='-699' />
+<nd ref='-700' />
+<nd ref='-701' />
+<nd ref='-696' />
+<tag k='addr:housenumber' v='7150' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-703' lon='-117.556412541' lat='34.124095416' />
+<node id='-704' lon='-117.556410534' lat='34.124057583' />
+<node id='-705' lon='-117.55681183' lat='34.124057999' />
+<node id='-706' lon='-117.556814725' lat='34.124077009' />
+<node id='-707' lon='-117.55681708' lat='34.124094047' />
+<node id='-708' lon='-117.556818541' lat='34.124106924' />
+<node id='-709' lon='-117.556819732' lat='34.124119823' />
+<node id='-710' lon='-117.556820653' lat='34.124132737' />
+<node id='-711' lon='-117.556821301' lat='34.124145662' />
+<node id='-712' lon='-117.556821678' lat='34.124158595' />
+<node id='-713' lon='-117.556821781' lat='34.124171533' />
+<node id='-714' lon='-117.556821727' lat='34.124195279' />
+<node id='-715' lon='-117.556408868' lat='34.124194841' />
+<way id='-716'>
+<nd ref='-703' />
+<nd ref='-704' />
+<nd ref='-705' />
+<nd ref='-706' />
+<nd ref='-707' />
+<nd ref='-708' />
+<nd ref='-709' />
+<nd ref='-710' />
+<nd ref='-711' />
+<nd ref='-712' />
+<nd ref='-713' />
+<nd ref='-714' />
+<nd ref='-715' />
+<nd ref='-703' />
+<tag k='addr:housenumber' v='7155' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-717' lon='-117.557009815' lat='34.124046075' />
+<node id='-718' lon='-117.557398369' lat='34.124046528' />
+<node id='-719' lon='-117.557398033' lat='34.124189289' />
+<node id='-720' lon='-117.557019947' lat='34.124188837' />
+<node id='-721' lon='-117.557019987' lat='34.124171757' />
+<node id='-722' lon='-117.557019858' lat='34.124155944' />
+<node id='-723' lon='-117.557019398' lat='34.124140136' />
+<node id='-724' lon='-117.557018606' lat='34.124124338' />
+<node id='-725' lon='-117.55701748' lat='34.124108553' />
+<node id='-726' lon='-117.557016025' lat='34.12409279' />
+<node id='-727' lon='-117.557014237' lat='34.124077048' />
+<node id='-728' lon='-117.55701136' lat='34.124056223' />
+<way id='-729'>
+<nd ref='-717' />
+<nd ref='-718' />
+<nd ref='-719' />
+<nd ref='-720' />
+<nd ref='-721' />
+<nd ref='-722' />
+<nd ref='-723' />
+<nd ref='-724' />
+<nd ref='-725' />
+<nd ref='-726' />
+<nd ref='-727' />
+<nd ref='-728' />
+<nd ref='-717' />
+<tag k='addr:housenumber' v='7152' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-730' lon='-117.557398369' lat='34.124046528' />
+<node id='-731' lon='-117.557741752' lat='34.124046959' />
+<node id='-732' lon='-117.55774303' lat='34.124060694' />
+<node id='-733' lon='-117.55774395' lat='34.12407361' />
+<node id='-734' lon='-117.557744599' lat='34.124086536' />
+<node id='-735' lon='-117.557744976' lat='34.124099472' />
+<node id='-736' lon='-117.557745084' lat='34.12411241' />
+<node id='-737' lon='-117.557744904' lat='34.124189736' />
+<node id='-738' lon='-117.557398033' lat='34.124189289' />
+<way id='-739'>
+<nd ref='-730' />
+<nd ref='-731' />
+<nd ref='-732' />
+<nd ref='-733' />
+<nd ref='-734' />
+<nd ref='-735' />
+<nd ref='-736' />
+<nd ref='-737' />
+<nd ref='-738' />
+<nd ref='-730' />
+<tag k='addr:housenumber' v='7157' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-740' lon='-117.556400279' lat='34.124427362' />
+<node id='-741' lon='-117.556403798' lat='34.124332106' />
+<node id='-742' lon='-117.556821401' lat='34.124332561' />
+<node id='-743' lon='-117.55682112' lat='34.124450716' />
+<node id='-744' lon='-117.55682101' lat='34.12445695' />
+<node id='-745' lon='-117.556820824' lat='34.12446126' />
+<node id='-746' lon='-117.556820547' lat='34.124465567' />
+<node id='-747' lon='-117.556820179' lat='34.124469871' />
+<node id='-748' lon='-117.556398725' lat='34.124469402' />
+<way id='-749'>
+<nd ref='-740' />
+<nd ref='-741' />
+<nd ref='-742' />
+<nd ref='-743' />
+<nd ref='-744' />
+<nd ref='-745' />
+<nd ref='-746' />
+<nd ref='-747' />
+<nd ref='-748' />
+<nd ref='-740' />
+<tag k='addr:housenumber' v='7141' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-750' lon='-117.556628503' lat='34.12265179' />
+<node id='-751' lon='-117.556629085' lat='34.122397884' />
+<node id='-752' lon='-117.556723227' lat='34.122397999' />
+<node id='-753' lon='-117.556810744' lat='34.122398102' />
+<node id='-754' lon='-117.556810159' lat='34.122654076' />
+<node id='-755' lon='-117.556806186' lat='34.122653489' />
+<node id='-756' lon='-117.556802202' lat='34.122652957' />
+<node id='-757' lon='-117.556798207' lat='34.122652485' />
+<node id='-758' lon='-117.556794203' lat='34.12265207' />
+<node id='-759' lon='-117.55679019' lat='34.122651713' />
+<node id='-760' lon='-117.55678617' lat='34.122651415' />
+<node id='-761' lon='-117.556782145' lat='34.122651176' />
+<node id='-762' lon='-117.556778115' lat='34.122650993' />
+<node id='-763' lon='-117.556774083' lat='34.12265087' />
+<node id='-764' lon='-117.556770048' lat='34.122650806' />
+<node id='-765' lon='-117.556765614' lat='34.122650802' />
+<way id='-766'>
+<nd ref='-750' />
+<nd ref='-751' />
+<nd ref='-752' />
+<nd ref='-753' />
+<nd ref='-754' />
+<nd ref='-755' />
+<nd ref='-756' />
+<nd ref='-757' />
+<nd ref='-758' />
+<nd ref='-759' />
+<nd ref='-760' />
+<nd ref='-761' />
+<nd ref='-762' />
+<nd ref='-763' />
+<nd ref='-764' />
+<nd ref='-765' />
+<nd ref='-750' />
+<tag k='addr:housenumber' v='11383' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='WILLIAMS RIDGE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-767' lon='-117.55622468' lat='34.122397365' />
+<node id='-768' lon='-117.556386303' lat='34.122397577' />
+<node id='-769' lon='-117.556447413' lat='34.122397655' />
+<node id='-770' lon='-117.556446831' lat='34.122652016' />
+<node id='-771' lon='-117.556304761' lat='34.122651848' />
+<node id='-772' lon='-117.556255347' lat='34.122610706' />
+<node id='-773' lon='-117.556255176' lat='34.122594885' />
+<node id='-774' lon='-117.556254675' lat='34.122579067' />
+<node id='-775' lon='-117.556253839' lat='34.122563258' />
+<node id='-776' lon='-117.556252672' lat='34.122547464' />
+<node id='-777' lon='-117.556251177' lat='34.122531691' />
+<node id='-778' lon='-117.556249349' lat='34.122515939' />
+<node id='-779' lon='-117.55624719' lat='34.122500216' />
+<node id='-780' lon='-117.556244703' lat='34.122484528' />
+<node id='-781' lon='-117.556241886' lat='34.122468876' />
+<node id='-782' lon='-117.556238741' lat='34.12245327' />
+<node id='-783' lon='-117.556235271' lat='34.12243771' />
+<node id='-784' lon='-117.556231473' lat='34.122422203' />
+<way id='-785'>
+<nd ref='-767' />
+<nd ref='-768' />
+<nd ref='-769' />
+<nd ref='-770' />
+<nd ref='-771' />
+<nd ref='-772' />
+<nd ref='-773' />
+<nd ref='-774' />
+<nd ref='-775' />
+<nd ref='-776' />
+<nd ref='-777' />
+<nd ref='-778' />
+<nd ref='-779' />
+<nd ref='-780' />
+<nd ref='-781' />
+<nd ref='-782' />
+<nd ref='-783' />
+<nd ref='-784' />
+<nd ref='-767' />
+<tag k='addr:housenumber' v='11399' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='WILLIAMS RIDGE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-786' lon='-117.556447413' lat='34.122397655' />
+<node id='-787' lon='-117.556558069' lat='34.122397797' />
+<node id='-788' lon='-117.556629085' lat='34.122397884' />
+<node id='-789' lon='-117.556628503' lat='34.12265179' />
+<node id='-790' lon='-117.55657648' lat='34.122652165' />
+<node id='-791' lon='-117.556446831' lat='34.122652016' />
+<way id='-792'>
+<nd ref='-786' />
+<nd ref='-787' />
+<nd ref='-788' />
+<nd ref='-789' />
+<nd ref='-790' />
+<nd ref='-791' />
+<nd ref='-786' />
+<tag k='addr:housenumber' v='11393' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='WILLIAMS RIDGE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-793' lon='-117.55736381' lat='34.122498104' />
+<node id='-794' lon='-117.557733775' lat='34.122498508' />
+<node id='-795' lon='-117.557733462' lat='34.12263581' />
+<node id='-796' lon='-117.557363497' lat='34.12263541' />
+<way id='-797'>
+<nd ref='-793' />
+<nd ref='-794' />
+<nd ref='-795' />
+<nd ref='-796' />
+<nd ref='-793' />
+<tag k='addr:housenumber' v='7241' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-798' lon='-117.557932159' lat='34.12241803' />
+<node id='-799' lon='-117.558321102' lat='34.122418481' />
+<node id='-800' lon='-117.558321365' lat='34.122555794' />
+<node id='-801' lon='-117.557931849' lat='34.12255534' />
+<way id='-802'>
+<nd ref='-798' />
+<nd ref='-799' />
+<nd ref='-800' />
+<nd ref='-801' />
+<nd ref='-798' />
+<tag k='addr:housenumber' v='7246' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-803' lon='-117.557397161' lat='34.122355356' />
+<node id='-804' lon='-117.5577341' lat='34.122355731' />
+<node id='-805' lon='-117.557733775' lat='34.122498508' />
+<node id='-806' lon='-117.55736381' lat='34.122498104' />
+<way id='-807'>
+<nd ref='-803' />
+<nd ref='-804' />
+<nd ref='-805' />
+<nd ref='-806' />
+<nd ref='-803' />
+<tag k='addr:housenumber' v='7251' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-808' lon='-117.557617796' lat='34.125109527' />
+<node id='-809' lon='-117.557618473' lat='34.124822858' />
+<node id='-810' lon='-117.557703229' lat='34.12483541' />
+<node id='-811' lon='-117.55770721' lat='34.124835969' />
+<node id='-812' lon='-117.557711201' lat='34.124836472' />
+<node id='-813' lon='-117.557715201' lat='34.124836915' />
+<node id='-814' lon='-117.557719211' lat='34.124837301' />
+<node id='-815' lon='-117.557723227' lat='34.124837628' />
+<node id='-816' lon='-117.55772725' lat='34.124837897' />
+<node id='-817' lon='-117.557731277' lat='34.124838108' />
+<node id='-818' lon='-117.55773531' lat='34.124838261' />
+<node id='-819' lon='-117.557739345' lat='34.124838354' />
+<node id='-820' lon='-117.55774338' lat='34.124838389' />
+<node id='-821' lon='-117.557747417' lat='34.124838367' />
+<node id='-822' lon='-117.557751452' lat='34.124838284' />
+<node id='-823' lon='-117.557755485' lat='34.124838144' />
+<node id='-824' lon='-117.557759512' lat='34.124837943' />
+<node id='-825' lon='-117.557763537' lat='34.124837685' />
+<node id='-826' lon='-117.557767556' lat='34.12483737' />
+<node id='-827' lon='-117.557771568' lat='34.124836995' />
+<node id='-828' lon='-117.557775569' lat='34.124836564' />
+<node id='-829' lon='-117.557779563' lat='34.124836074' />
+<node id='-830' lon='-117.557783546' lat='34.124835525' />
+<node id='-831' lon='-117.557788324' lat='34.124834788' />
+<node id='-832' lon='-117.55778767' lat='34.125112159' />
+<way id='-833'>
+<nd ref='-808' />
+<nd ref='-809' />
+<nd ref='-810' />
+<nd ref='-811' />
+<nd ref='-812' />
+<nd ref='-813' />
+<nd ref='-814' />
+<nd ref='-815' />
+<nd ref='-816' />
+<nd ref='-817' />
+<nd ref='-818' />
+<nd ref='-819' />
+<nd ref='-820' />
+<nd ref='-821' />
+<nd ref='-822' />
+<nd ref='-823' />
+<nd ref='-824' />
+<nd ref='-825' />
+<nd ref='-826' />
+<nd ref='-827' />
+<nd ref='-828' />
+<nd ref='-829' />
+<nd ref='-830' />
+<nd ref='-831' />
+<nd ref='-832' />
+<nd ref='-808' />
+<tag k='addr:housenumber' v='11340' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-834' lon='-117.55745261' lat='34.125106973' />
+<node id='-835' lon='-117.557453312' lat='34.12481051' />
+<node id='-836' lon='-117.557509837' lat='34.124810588' />
+<node id='-837' lon='-117.557515027' lat='34.124810633' />
+<node id='-838' lon='-117.557520215' lat='34.124810753' />
+<node id='-839' lon='-117.557525399' lat='34.124810948' />
+<node id='-840' lon='-117.557530577' lat='34.124811219' />
+<node id='-841' lon='-117.55753575' lat='34.124811565' />
+<node id='-842' lon='-117.557540915' lat='34.124811986' />
+<node id='-843' lon='-117.55754607' lat='34.124812481' />
+<node id='-844' lon='-117.557551213' lat='34.124813051' />
+<node id='-845' lon='-117.557556343' lat='34.124813695' />
+<node id='-846' lon='-117.557561461' lat='34.124814415' />
+<node id='-847' lon='-117.557618473' lat='34.124822858' />
+<node id='-848' lon='-117.557617796' lat='34.125109527' />
+<way id='-849'>
+<nd ref='-834' />
+<nd ref='-835' />
+<nd ref='-836' />
+<nd ref='-837' />
+<nd ref='-838' />
+<nd ref='-839' />
+<nd ref='-840' />
+<nd ref='-841' />
+<nd ref='-842' />
+<nd ref='-843' />
+<nd ref='-844' />
+<nd ref='-845' />
+<nd ref='-846' />
+<nd ref='-847' />
+<nd ref='-848' />
+<nd ref='-834' />
+<tag k='addr:housenumber' v='11344' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-850' lon='-117.557287432' lat='34.125104427' />
+<node id='-851' lon='-117.55728813' lat='34.124810288' />
+<node id='-852' lon='-117.557453312' lat='34.12481051' />
+<node id='-853' lon='-117.55745261' lat='34.125106973' />
+<way id='-854'>
+<nd ref='-850' />
+<nd ref='-851' />
+<nd ref='-852' />
+<nd ref='-853' />
+<nd ref='-850' />
+<tag k='addr:housenumber' v='11354' />
+<tag k='addr:postcode' v='91701' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-855' lon='-117.55711568' lat='34.125101785' />
+<node id='-856' lon='-117.557116337' lat='34.12482617' />
+<node id='-857' lon='-117.557200435' lat='34.124813953' />
+<node id='-858' lon='-117.557205555' lat='34.124813246' />
+<node id='-859' lon='-117.55721069' lat='34.124812612' />
+<node id='-860' lon='-117.557215834' lat='34.124812052' />
+<node id='-861' lon='-117.557220992' lat='34.124811568' />
+<node id='-862' lon='-117.557226157' lat='34.124811158' />
+<node id='-863' lon='-117.557231331' lat='34.124810824' />
+<node id='-864' lon='-117.557236511' lat='34.124810566' />
+<node id='-865' lon='-117.557241695' lat='34.124810381' />
+<node id='-866' lon='-117.557246883' lat='34.124810272' />
+<node id='-867' lon='-117.557252073' lat='34.12481024' />
+<node id='-868' lon='-117.55728813' lat='34.124810288' />
+<node id='-869' lon='-117.557287432' lat='34.125104427' />
+<way id='-870'>
+<nd ref='-855' />
+<nd ref='-856' />
+<nd ref='-857' />
+<nd ref='-858' />
+<nd ref='-859' />
+<nd ref='-860' />
+<nd ref='-861' />
+<nd ref='-862' />
+<nd ref='-863' />
+<nd ref='-864' />
+<nd ref='-865' />
+<nd ref='-866' />
+<nd ref='-867' />
+<nd ref='-868' />
+<nd ref='-869' />
+<nd ref='-855' />
+<tag k='addr:housenumber' v='11360' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-871' lon='-117.556933979' lat='34.125098998' />
+<node id='-872' lon='-117.556934637' lat='34.124824259' />
+<node id='-873' lon='-117.556938409' lat='34.124825452' />
+<node id='-874' lon='-117.556942205' lat='34.124826592' />
+<node id='-875' lon='-117.556946024' lat='34.124827675' />
+<node id='-876' lon='-117.556949866' lat='34.124828702' />
+<node id='-877' lon='-117.556953728' lat='34.124829674' />
+<node id='-878' lon='-117.556957609' lat='34.12483059' />
+<node id='-879' lon='-117.55696151' lat='34.124831449' />
+<node id='-880' lon='-117.556965429' lat='34.124832252' />
+<node id='-881' lon='-117.556969365' lat='34.124832996' />
+<node id='-882' lon='-117.556973313' lat='34.124833684' />
+<node id='-883' lon='-117.556977278' lat='34.124834316' />
+<node id='-884' lon='-117.556981253' lat='34.124834889' />
+<node id='-885' lon='-117.556985242' lat='34.124835404' />
+<node id='-886' lon='-117.55698924' lat='34.124835862' />
+<node id='-887' lon='-117.556993247' lat='34.124836261' />
+<node id='-888' lon='-117.556997262' lat='34.124836601' />
+<node id='-889' lon='-117.557001284' lat='34.124836885' />
+<node id='-890' lon='-117.557005311' lat='34.124837109' />
+<node id='-891' lon='-117.55700934' lat='34.124837275' />
+<node id='-892' lon='-117.557013375' lat='34.124837383' />
+<node id='-893' lon='-117.55701741' lat='34.124837432' />
+<node id='-894' lon='-117.557021446' lat='34.124837422' />
+<node id='-895' lon='-117.557025481' lat='34.124837354' />
+<node id='-896' lon='-117.557029514' lat='34.124837227' />
+<node id='-897' lon='-117.557033545' lat='34.124837041' />
+<node id='-898' lon='-117.55703757' lat='34.124836798' />
+<node id='-899' lon='-117.557041591' lat='34.124836494' />
+<node id='-900' lon='-117.557045602' lat='34.124836134' />
+<node id='-901' lon='-117.557049607' lat='34.124835716' />
+<node id='-902' lon='-117.557053603' lat='34.12483524' />
+<node id='-903' lon='-117.557058569' lat='34.124834564' />
+<node id='-904' lon='-117.557116337' lat='34.12482617' />
+<node id='-905' lon='-117.55711568' lat='34.125101785' />
+<way id='-906'>
+<nd ref='-871' />
+<nd ref='-872' />
+<nd ref='-873' />
+<nd ref='-874' />
+<nd ref='-875' />
+<nd ref='-876' />
+<nd ref='-877' />
+<nd ref='-878' />
+<nd ref='-879' />
+<nd ref='-880' />
+<nd ref='-881' />
+<nd ref='-882' />
+<nd ref='-883' />
+<nd ref='-884' />
+<nd ref='-885' />
+<nd ref='-886' />
+<nd ref='-887' />
+<nd ref='-888' />
+<nd ref='-889' />
+<nd ref='-890' />
+<nd ref='-891' />
+<nd ref='-892' />
+<nd ref='-893' />
+<nd ref='-894' />
+<nd ref='-895' />
+<nd ref='-896' />
+<nd ref='-897' />
+<nd ref='-898' />
+<nd ref='-899' />
+<nd ref='-900' />
+<nd ref='-901' />
+<nd ref='-902' />
+<nd ref='-903' />
+<nd ref='-904' />
+<nd ref='-905' />
+<nd ref='-871' />
+<tag k='addr:housenumber' v='11368' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-907' lon='-117.55676219' lat='34.125096371' />
+<node id='-908' lon='-117.55676276' lat='34.124858847' />
+<node id='-909' lon='-117.556855592' lat='34.124781383' />
+<node id='-910' lon='-117.556858476' lat='34.12478373' />
+<node id='-911' lon='-117.556861406' lat='34.124786035' />
+<node id='-912' lon='-117.556864386' lat='34.124788297' />
+<node id='-913' lon='-117.556867413' lat='34.124790516' />
+<node id='-914' lon='-117.556870487' lat='34.124792692' />
+<node id='-915' lon='-117.556873605' lat='34.12479482' />
+<node id='-916' lon='-117.556876767' lat='34.124796905' />
+<node id='-917' lon='-117.556879973' lat='34.124798942' />
+<node id='-918' lon='-117.55688322' lat='34.124800932' />
+<node id='-919' lon='-117.55688651' lat='34.124802877' />
+<node id='-920' lon='-117.556889839' lat='34.124804771' />
+<node id='-921' lon='-117.556893208' lat='34.124806619' />
+<node id='-922' lon='-117.556896616' lat='34.124808415' />
+<node id='-923' lon='-117.556900058' lat='34.124810164' />
+<node id='-924' lon='-117.556903541' lat='34.124811861' />
+<node id='-925' lon='-117.556907055' lat='34.124813508' />
+<node id='-926' lon='-117.556910606' lat='34.124815104' />
+<node id='-927' lon='-117.556914188' lat='34.124816648' />
+<node id='-928' lon='-117.556917803' lat='34.124818139' />
+<node id='-929' lon='-117.556921447' lat='34.124819578' />
+<node id='-930' lon='-117.556925123' lat='34.124820965' />
+<node id='-931' lon='-117.556928827' lat='34.124822295' />
+<node id='-932' lon='-117.556934637' lat='34.124824259' />
+<node id='-933' lon='-117.556933979' lat='34.125098998' />
+<way id='-934'>
+<nd ref='-907' />
+<nd ref='-908' />
+<nd ref='-909' />
+<nd ref='-910' />
+<nd ref='-911' />
+<nd ref='-912' />
+<nd ref='-913' />
+<nd ref='-914' />
+<nd ref='-915' />
+<nd ref='-916' />
+<nd ref='-917' />
+<nd ref='-918' />
+<nd ref='-919' />
+<nd ref='-920' />
+<nd ref='-921' />
+<nd ref='-922' />
+<nd ref='-923' />
+<nd ref='-924' />
+<nd ref='-925' />
+<nd ref='-926' />
+<nd ref='-927' />
+<nd ref='-928' />
+<nd ref='-929' />
+<nd ref='-930' />
+<nd ref='-931' />
+<nd ref='-932' />
+<nd ref='-933' />
+<nd ref='-907' />
+<tag k='addr:housenumber' v='11372' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-935' lon='-117.556590426' lat='34.125093751' />
+<node id='-936' lon='-117.55659102' lat='34.12484821' />
+<node id='-937' lon='-117.556817987' lat='34.124740484' />
+<node id='-938' lon='-117.556820015' lat='34.124743384' />
+<node id='-939' lon='-117.556822106' lat='34.124746253' />
+<node id='-940' lon='-117.556824255' lat='34.124749092' />
+<node id='-941' lon='-117.556826466' lat='34.124751899' />
+<node id='-942' lon='-117.556828733' lat='34.124754674' />
+<node id='-943' lon='-117.556831058' lat='34.124757416' />
+<node id='-944' lon='-117.556833443' lat='34.124760124' />
+<node id='-945' lon='-117.556835883' lat='34.124762795' />
+<node id='-946' lon='-117.556838378' lat='34.124765432' />
+<node id='-947' lon='-117.556840929' lat='34.124768031' />
+<node id='-948' lon='-117.556843534' lat='34.124770593' />
+<node id='-949' lon='-117.556846192' lat='34.124773117' />
+<node id='-950' lon='-117.556848903' lat='34.124775602' />
+<node id='-951' lon='-117.556851664' lat='34.124778049' />
+<node id='-952' lon='-117.556855592' lat='34.124781383' />
+<node id='-953' lon='-117.55676276' lat='34.124858847' />
+<node id='-954' lon='-117.55676219' lat='34.125096371' />
+<way id='-955'>
+<nd ref='-935' />
+<nd ref='-936' />
+<nd ref='-937' />
+<nd ref='-938' />
+<nd ref='-939' />
+<nd ref='-940' />
+<nd ref='-941' />
+<nd ref='-942' />
+<nd ref='-943' />
+<nd ref='-944' />
+<nd ref='-945' />
+<nd ref='-946' />
+<nd ref='-947' />
+<nd ref='-948' />
+<nd ref='-949' />
+<nd ref='-950' />
+<nd ref='-951' />
+<nd ref='-952' />
+<nd ref='-953' />
+<nd ref='-954' />
+<nd ref='-935' />
+<tag k='addr:housenumber' v='11374' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-956' lon='-117.556375774' lat='34.125090487' />
+<node id='-957' lon='-117.556381969' lat='34.124922875' />
+<node id='-958' lon='-117.556387054' lat='34.124785241' />
+<node id='-959' lon='-117.556589957' lat='34.12478547' />
+<node id='-960' lon='-117.55679363' lat='34.124688803' />
+<node id='-961' lon='-117.556794579' lat='34.124692065' />
+<node id='-962' lon='-117.556795597' lat='34.124695311' />
+<node id='-963' lon='-117.55679668' lat='34.124698543' />
+<node id='-964' lon='-117.556797833' lat='34.124701759' />
+<node id='-965' lon='-117.556799054' lat='34.124704957' />
+<node id='-966' lon='-117.55680034' lat='34.124708138' />
+<node id='-967' lon='-117.556801693' lat='34.124711298' />
+<node id='-968' lon='-117.556803112' lat='34.124714439' />
+<node id='-969' lon='-117.556804597' lat='34.124717558' />
+<node id='-970' lon='-117.556806148' lat='34.124720656' />
+<node id='-971' lon='-117.556807764' lat='34.124723731' />
+<node id='-972' lon='-117.556809443' lat='34.12472678' />
+<node id='-973' lon='-117.556811186' lat='34.124729807' />
+<node id='-974' lon='-117.556812993' lat='34.124732806' />
+<node id='-975' lon='-117.556814862' lat='34.12473578' />
+<node id='-976' lon='-117.556817987' lat='34.124740484' />
+<node id='-977' lon='-117.55659102' lat='34.12484821' />
+<node id='-978' lon='-117.556590426' lat='34.125093751' />
+<way id='-979'>
+<nd ref='-956' />
+<nd ref='-957' />
+<nd ref='-958' />
+<nd ref='-959' />
+<nd ref='-960' />
+<nd ref='-961' />
+<nd ref='-962' />
+<nd ref='-963' />
+<nd ref='-964' />
+<nd ref='-965' />
+<nd ref='-966' />
+<nd ref='-967' />
+<nd ref='-968' />
+<nd ref='-969' />
+<nd ref='-970' />
+<nd ref='-971' />
+<nd ref='-972' />
+<nd ref='-973' />
+<nd ref='-974' />
+<nd ref='-975' />
+<nd ref='-976' />
+<nd ref='-977' />
+<nd ref='-978' />
+<nd ref='-956' />
+<tag k='addr:housenumber' v='11378' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-980' lon='-117.557917896' lat='34.123873124' />
+<node id='-981' lon='-117.558347842' lat='34.123873705' />
+<node id='-982' lon='-117.558345982' lat='34.124010999' />
+<node id='-983' lon='-117.557936573' lat='34.124010438' />
+<node id='-984' lon='-117.557936487' lat='34.124009796' />
+<node id='-985' lon='-117.557936399' lat='34.124009149' />
+<way id='-986'>
+<nd ref='-980' />
+<nd ref='-981' />
+<nd ref='-982' />
+<nd ref='-983' />
+<nd ref='-984' />
+<nd ref='-985' />
+<nd ref='-980' />
+<tag k='addr:housenumber' v='7162' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-987' lon='-117.556377068' lat='34.12377757' />
+<node id='-988' lon='-117.5567699' lat='34.123777957' />
+<node id='-989' lon='-117.556771766' lat='34.123793691' />
+<node id='-990' lon='-117.556774175' lat='34.123810803' />
+<node id='-991' lon='-117.556790086' lat='34.123915255' />
+<node id='-992' lon='-117.556400587' lat='34.123914861' />
+<way id='-993'>
+<nd ref='-987' />
+<nd ref='-988' />
+<nd ref='-989' />
+<nd ref='-990' />
+<nd ref='-991' />
+<nd ref='-992' />
+<nd ref='-987' />
+<tag k='addr:housenumber' v='7171' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-994' lon='-117.556967034' lat='34.123760532' />
+<node id='-995' lon='-117.557360916' lat='34.123760966' />
+<node id='-996' lon='-117.557379645' lat='34.12390374' />
+<node id='-997' lon='-117.556988065' lat='34.123903296' />
+<node id='-998' lon='-117.556970809' lat='34.123790033' />
+<node id='-999' lon='-117.556968504' lat='34.123773408' />
+<way id='-1000'>
+<nd ref='-994' />
+<nd ref='-995' />
+<nd ref='-996' />
+<nd ref='-997' />
+<nd ref='-998' />
+<nd ref='-999' />
+<nd ref='-994' />
+<tag k='addr:housenumber' v='7168' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1001' lon='-117.557360916' lat='34.123760966' />
+<node id='-1002' lon='-117.557705689' lat='34.123761375' />
+<node id='-1003' lon='-117.557706715' lat='34.123777163' />
+<node id='-1004' lon='-117.557708075' lat='34.123792934' />
+<node id='-1005' lon='-117.55771147' lat='34.123822104' />
+<node id='-1006' lon='-117.557722634' lat='34.123904159' />
+<node id='-1007' lon='-117.557379645' lat='34.12390374' />
+<way id='-1008'>
+<nd ref='-1001' />
+<nd ref='-1002' />
+<nd ref='-1003' />
+<nd ref='-1004' />
+<nd ref='-1005' />
+<nd ref='-1006' />
+<nd ref='-1007' />
+<nd ref='-1001' />
+<tag k='addr:housenumber' v='7173' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1009' lon='-117.557902977' lat='34.123735836' />
+<node id='-1010' lon='-117.558349701' lat='34.123736426' />
+<node id='-1011' lon='-117.558347842' lat='34.123873705' />
+<node id='-1012' lon='-117.557917896' lat='34.123873124' />
+<node id='-1013' lon='-117.557908428' lat='34.123803536' />
+<node id='-1014' lon='-117.557906457' lat='34.123787491' />
+<node id='-1015' lon='-117.55790518' lat='34.123774599' />
+<node id='-1016' lon='-117.557904175' lat='34.123761689' />
+<node id='-1017' lon='-117.55790344' lat='34.123748767' />
+<way id='-1018'>
+<nd ref='-1009' />
+<nd ref='-1010' />
+<nd ref='-1011' />
+<nd ref='-1012' />
+<nd ref='-1013' />
+<nd ref='-1014' />
+<nd ref='-1015' />
+<nd ref='-1016' />
+<nd ref='-1017' />
+<nd ref='-1009' />
+<tag k='addr:housenumber' v='7170' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1019' lon='-117.557936573' lat='34.124010438' />
+<node id='-1020' lon='-117.558345982' lat='34.124010999' />
+<node id='-1021' lon='-117.55834412' lat='34.124148301' />
+<node id='-1022' lon='-117.557943217' lat='34.12414774' />
+<node id='-1023' lon='-117.557943298' lat='34.124112675' />
+<node id='-1024' lon='-117.557943168' lat='34.12409686' />
+<node id='-1025' lon='-117.557942707' lat='34.124081051' />
+<node id='-1026' lon='-117.557941913' lat='34.124065249' />
+<node id='-1027' lon='-117.557940789' lat='34.124049462' />
+<node id='-1028' lon='-117.557939331' lat='34.124033696' />
+<way id='-1029'>
+<nd ref='-1019' />
+<nd ref='-1020' />
+<nd ref='-1021' />
+<nd ref='-1022' />
+<nd ref='-1023' />
+<nd ref='-1024' />
+<nd ref='-1025' />
+<nd ref='-1026' />
+<nd ref='-1027' />
+<nd ref='-1028' />
+<nd ref='-1019' />
+<tag k='addr:housenumber' v='7154' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1030' lon='-117.556404026' lat='34.123934944' />
+<node id='-1031' lon='-117.556400587' lat='34.123914861' />
+<node id='-1032' lon='-117.556790086' lat='34.123915255' />
+<node id='-1033' lon='-117.55681183' lat='34.124057999' />
+<node id='-1034' lon='-117.556410534' lat='34.124057583' />
+<way id='-1035'>
+<nd ref='-1030' />
+<nd ref='-1031' />
+<nd ref='-1032' />
+<nd ref='-1033' />
+<nd ref='-1034' />
+<nd ref='-1030' />
+<tag k='addr:housenumber' v='7161' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1036' lon='-117.556988065' lat='34.123903296' />
+<node id='-1037' lon='-117.557379645' lat='34.12390374' />
+<node id='-1038' lon='-117.557398369' lat='34.124046528' />
+<node id='-1039' lon='-117.557009815' lat='34.124046075' />
+<way id='-1040'>
+<nd ref='-1036' />
+<nd ref='-1037' />
+<nd ref='-1038' />
+<nd ref='-1039' />
+<nd ref='-1036' />
+<tag k='addr:housenumber' v='7162' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='RAVENSWOOD PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1041' lon='-117.557379645' lat='34.12390374' />
+<node id='-1042' lon='-117.557722634' lat='34.123904159' />
+<node id='-1043' lon='-117.557739442' lat='34.124027726' />
+<node id='-1044' lon='-117.557740677' lat='34.124037384' />
+<node id='-1045' lon='-117.557741752' lat='34.124046959' />
+<node id='-1046' lon='-117.557398369' lat='34.124046528' />
+<way id='-1047'>
+<nd ref='-1041' />
+<nd ref='-1042' />
+<nd ref='-1043' />
+<nd ref='-1044' />
+<nd ref='-1045' />
+<nd ref='-1046' />
+<nd ref='-1041' />
+<tag k='addr:housenumber' v='7163' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='TURNING LEAF PL' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1048' lon='-117.55826065' lat='34.125119509' />
+<node id='-1049' lon='-117.558342574' lat='34.125052231' />
+<node id='-1050' lon='-117.558342691' lat='34.125120785' />
+<way id='-1051'>
+<nd ref='-1048' />
+<nd ref='-1049' />
+<nd ref='-1050' />
+<nd ref='-1048' />
+<tag k='addr:housenumber' v='0' />
+<tag k='addr:postcode' v='00000' />
+<tag k='addr:street' v='' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1052' lon='-117.558124656' lat='34.125117392' />
+<node id='-1053' lon='-117.558125439' lat='34.124782742' />
+<node id='-1054' lon='-117.557949092' lat='34.124734636' />
+<node id='-1055' lon='-117.55795092' lat='34.124731644' />
+<node id='-1056' lon='-117.557952685' lat='34.124728625' />
+<node id='-1057' lon='-117.557954385' lat='34.124725581' />
+<node id='-1058' lon='-117.557956023' lat='34.124722513' />
+<node id='-1059' lon='-117.557957595' lat='34.124719422' />
+<node id='-1060' lon='-117.557959103' lat='34.124716309' />
+<node id='-1061' lon='-117.557960544' lat='34.124713174' />
+<node id='-1062' lon='-117.557961921' lat='34.124710019' />
+<node id='-1063' lon='-117.557963231' lat='34.124706843' />
+<node id='-1064' lon='-117.557964472' lat='34.12470365' />
+<node id='-1065' lon='-117.557965648' lat='34.124700439' />
+<node id='-1066' lon='-117.557966756' lat='34.124697211' />
+<node id='-1067' lon='-117.557967795' lat='34.124693968' />
+<node id='-1068' lon='-117.557968768' lat='34.12469071' />
+<node id='-1069' lon='-117.557969671' lat='34.124687439' />
+<node id='-1070' lon='-117.557970842' lat='34.124682742' />
+<node id='-1071' lon='-117.558342155' lat='34.124784034' />
+<node id='-1072' lon='-117.558342574' lat='34.125052231' />
+<node id='-1073' lon='-117.55826065' lat='34.125119509' />
+<way id='-1074'>
+<nd ref='-1052' />
+<nd ref='-1053' />
+<nd ref='-1054' />
+<nd ref='-1055' />
+<nd ref='-1056' />
+<nd ref='-1057' />
+<nd ref='-1058' />
+<nd ref='-1059' />
+<nd ref='-1060' />
+<nd ref='-1061' />
+<nd ref='-1062' />
+<nd ref='-1063' />
+<nd ref='-1064' />
+<nd ref='-1065' />
+<nd ref='-1066' />
+<nd ref='-1067' />
+<nd ref='-1068' />
+<nd ref='-1069' />
+<nd ref='-1070' />
+<nd ref='-1071' />
+<nd ref='-1072' />
+<nd ref='-1073' />
+<nd ref='-1052' />
+<tag k='addr:housenumber' v='11326' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1075' lon='-117.557952853' lat='34.125114721' />
+<node id='-1076' lon='-117.55795347' lat='34.124852417' />
+<node id='-1077' lon='-117.557896503' lat='34.124790499' />
+<node id='-1078' lon='-117.557899511' lat='34.12478826' />
+<node id='-1079' lon='-117.557902472' lat='34.124785979' />
+<node id='-1080' lon='-117.557905384' lat='34.124783655' />
+<node id='-1081' lon='-117.557908248' lat='34.124781289' />
+<node id='-1082' lon='-117.557911061' lat='34.124778881' />
+<node id='-1083' lon='-117.557913825' lat='34.124776434' />
+<node id='-1084' lon='-117.557916535' lat='34.124773947' />
+<node id='-1085' lon='-117.557919192' lat='34.12477142' />
+<node id='-1086' lon='-117.557921797' lat='34.124768856' />
+<node id='-1087' lon='-117.557924347' lat='34.124766254' />
+<node id='-1088' lon='-117.557926842' lat='34.124763615' />
+<node id='-1089' lon='-117.557929282' lat='34.124760942' />
+<node id='-1090' lon='-117.557931666' lat='34.124758232' />
+<node id='-1091' lon='-117.55793399' lat='34.124755488' />
+<node id='-1092' lon='-117.557936259' lat='34.124752713' />
+<node id='-1093' lon='-117.557938468' lat='34.124749902' />
+<node id='-1094' lon='-117.557940619' lat='34.124747062' />
+<node id='-1095' lon='-117.557942708' lat='34.124744191' />
+<node id='-1096' lon='-117.557944738' lat='34.124741288' />
+<node id='-1097' lon='-117.557946706' lat='34.124738357' />
+<node id='-1098' lon='-117.557949092' lat='34.124734636' />
+<node id='-1099' lon='-117.558125439' lat='34.124782742' />
+<node id='-1100' lon='-117.558124656' lat='34.125117392' />
+<way id='-1101'>
+<nd ref='-1075' />
+<nd ref='-1076' />
+<nd ref='-1077' />
+<nd ref='-1078' />
+<nd ref='-1079' />
+<nd ref='-1080' />
+<nd ref='-1081' />
+<nd ref='-1082' />
+<nd ref='-1083' />
+<nd ref='-1084' />
+<nd ref='-1085' />
+<nd ref='-1086' />
+<nd ref='-1087' />
+<nd ref='-1088' />
+<nd ref='-1089' />
+<nd ref='-1090' />
+<nd ref='-1091' />
+<nd ref='-1092' />
+<nd ref='-1093' />
+<nd ref='-1094' />
+<nd ref='-1095' />
+<nd ref='-1096' />
+<nd ref='-1097' />
+<nd ref='-1098' />
+<nd ref='-1099' />
+<nd ref='-1100' />
+<nd ref='-1075' />
+<tag k='addr:housenumber' v='11328' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1102' lon='-117.55778767' lat='34.125112159' />
+<node id='-1103' lon='-117.557788324' lat='34.124834788' />
+<node id='-1104' lon='-117.557792277' lat='34.124834113' />
+<node id='-1105' lon='-117.557796216' lat='34.12483338' />
+<node id='-1106' lon='-117.557800138' lat='34.124832591' />
+<node id='-1107' lon='-117.557804044' lat='34.124831745' />
+<node id='-1108' lon='-117.557807933' lat='34.124830842' />
+<node id='-1109' lon='-117.557811801' lat='34.124829883' />
+<node id='-1110' lon='-117.557815648' lat='34.124828868' />
+<node id='-1111' lon='-117.557819474' lat='34.124827797' />
+<node id='-1112' lon='-117.557823276' lat='34.124826672' />
+<node id='-1113' lon='-117.557827055' lat='34.124825489' />
+<node id='-1114' lon='-117.557830808' lat='34.124824254' />
+<node id='-1115' lon='-117.557834534' lat='34.124822963' />
+<node id='-1116' lon='-117.557838233' lat='34.124821619' />
+<node id='-1117' lon='-117.557841904' lat='34.124820223' />
+<node id='-1118' lon='-117.557845543' lat='34.124818772' />
+<node id='-1119' lon='-117.557849153' lat='34.124817269' />
+<node id='-1120' lon='-117.557852729' lat='34.124815714' />
+<node id='-1121' lon='-117.557856275' lat='34.124814107' />
+<node id='-1122' lon='-117.557859784' lat='34.124812449' />
+<node id='-1123' lon='-117.557863258' lat='34.12481074' />
+<node id='-1124' lon='-117.557866695' lat='34.12480898' />
+<node id='-1125' lon='-117.557870097' lat='34.124807173' />
+<node id='-1126' lon='-117.55787346' lat='34.124805316' />
+<node id='-1127' lon='-117.557876781' lat='34.124803409' />
+<node id='-1128' lon='-117.557880064' lat='34.124801455' />
+<node id='-1129' lon='-117.557883304' lat='34.124799454' />
+<node id='-1130' lon='-117.557886503' lat='34.124797406' />
+<node id='-1131' lon='-117.557889657' lat='34.124795311' />
+<node id='-1132' lon='-117.557892766' lat='34.124793172' />
+<node id='-1133' lon='-117.557896503' lat='34.124790499' />
+<node id='-1134' lon='-117.55795347' lat='34.124852417' />
+<node id='-1135' lon='-117.557952853' lat='34.125114721' />
+<way id='-1136'>
+<nd ref='-1102' />
+<nd ref='-1103' />
+<nd ref='-1104' />
+<nd ref='-1105' />
+<nd ref='-1106' />
+<nd ref='-1107' />
+<nd ref='-1108' />
+<nd ref='-1109' />
+<nd ref='-1110' />
+<nd ref='-1111' />
+<nd ref='-1112' />
+<nd ref='-1113' />
+<nd ref='-1114' />
+<nd ref='-1115' />
+<nd ref='-1116' />
+<nd ref='-1117' />
+<nd ref='-1118' />
+<nd ref='-1119' />
+<nd ref='-1120' />
+<nd ref='-1121' />
+<nd ref='-1122' />
+<nd ref='-1123' />
+<nd ref='-1124' />
+<nd ref='-1125' />
+<nd ref='-1126' />
+<nd ref='-1127' />
+<nd ref='-1128' />
+<nd ref='-1129' />
+<nd ref='-1130' />
+<nd ref='-1131' />
+<nd ref='-1132' />
+<nd ref='-1133' />
+<nd ref='-1134' />
+<nd ref='-1135' />
+<nd ref='-1102' />
+<tag k='addr:housenumber' v='11332' />
+<tag k='addr:postcode' v='91739' />
+<tag k='addr:street' v='HOLLOW TREE DR' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+<node id='-1137' lon='-117.558343059' lat='34.125340658' />
+<node id='-1138' lon='-117.558056661' lat='34.125336199' />
+<node id='-1139' lon='-117.557858457' lat='34.125333118' />
+<node id='-1140' lon='-117.557646066' lat='34.125329825' />
+<node id='-1141' lon='-117.5574472' lat='34.125326749' />
+<node id='-1142' lon='-117.557249012' lat='34.125323691' />
+<node id='-1143' lon='-117.557050827' lat='34.125320643' />
+<node id='-1144' lon='-117.556852644' lat='34.125317607' />
+<node id='-1145' lon='-117.556654465' lat='34.125314579' />
+<node id='-1146' lon='-117.556456287' lat='34.12531156' />
+<node id='-1147' lon='-117.556258112' lat='34.125308552' />
+<node id='-1148' lon='-117.556059937' lat='34.125305553' />
+<node id='-1149' lon='-117.555861766' lat='34.125302561' />
+<node id='-1150' lon='-117.555663595' lat='34.125299576' />
+<node id='-1151' lon='-117.555465428' lat='34.1252966' />
+<node id='-1152' lon='-117.555255541' lat='34.125293452' />
+<node id='-1153' lon='-117.555120151' lat='34.125291425' />
+<node id='-1154' lon='-117.554918705' lat='34.125288411' />
+<node id='-1155' lon='-117.554707304' lat='34.125285251' />
+<node id='-1156' lon='-117.55450256' lat='34.125282192' />
+<node id='-1157' lon='-117.554304394' lat='34.12527923' />
+<node id='-1158' lon='-117.554312692' lat='34.125059393' />
+<node id='-1159' lon='-117.554485607' lat='34.125062091' />
+<node id='-1160' lon='-117.554894006' lat='34.125068194' />
+<node id='-1161' lon='-117.555026199' lat='34.125070171' />
+<node id='-1162' lon='-117.555437356' lat='34.125076332' />
+<node id='-1163' lon='-117.555903454' lat='34.125083342' />
+<node id='-1164' lon='-117.556375774' lat='34.125090487' />
+<node id='-1165' lon='-117.556590426' lat='34.125093751' />
+<node id='-1166' lon='-117.55676219' lat='34.125096371' />
+<node id='-1167' lon='-117.556933979' lat='34.125098998' />
+<node id='-1168' lon='-117.55711568' lat='34.125101785' />
+<node id='-1169' lon='-117.557287432' lat='34.125104427' />
+<node id='-1170' lon='-117.55745261' lat='34.125106973' />
+<node id='-1171' lon='-117.557617796' lat='34.125109527' />
+<node id='-1172' lon='-117.55778767' lat='34.125112159' />
+<node id='-1173' lon='-117.557952853' lat='34.125114721' />
+<node id='-1174' lon='-117.558124656' lat='34.125117392' />
+<node id='-1175' lon='-117.55826065' lat='34.125119509' />
+<node id='-1176' lon='-117.558342691' lat='34.125120785' />
+<node id='-1177' lon='-117.558540913' lat='34.125123872' />
+<node id='-1178' lon='-117.558540912' lat='34.125124825' />
+<node id='-1179' lon='-117.558540976' lat='34.125156975' />
+<node id='-1180' lon='-117.558541106' lat='34.125233808' />
+<node id='-1181' lon='-117.558541294' lat='34.125342806' />
+<node id='-1182' lon='-117.558541292' lat='34.125343772' />
+<way id='-1183'>
+<nd ref='-1137' />
+<nd ref='-1138' />
+<nd ref='-1139' />
+<nd ref='-1140' />
+<nd ref='-1141' />
+<nd ref='-1142' />
+<nd ref='-1143' />
+<nd ref='-1144' />
+<nd ref='-1145' />
+<nd ref='-1146' />
+<nd ref='-1147' />
+<nd ref='-1148' />
+<nd ref='-1149' />
+<nd ref='-1150' />
+<nd ref='-1151' />
+<nd ref='-1152' />
+<nd ref='-1153' />
+<nd ref='-1154' />
+<nd ref='-1155' />
+<nd ref='-1156' />
+<nd ref='-1157' />
+<nd ref='-1158' />
+<nd ref='-1159' />
+<nd ref='-1160' />
+<nd ref='-1161' />
+<nd ref='-1162' />
+<nd ref='-1163' />
+<nd ref='-1164' />
+<nd ref='-1165' />
+<nd ref='-1166' />
+<nd ref='-1167' />
+<nd ref='-1168' />
+<nd ref='-1169' />
+<nd ref='-1170' />
+<nd ref='-1171' />
+<nd ref='-1172' />
+<nd ref='-1173' />
+<nd ref='-1174' />
+<nd ref='-1175' />
+<nd ref='-1176' />
+<nd ref='-1177' />
+<nd ref='-1178' />
+<nd ref='-1179' />
+<nd ref='-1180' />
+<nd ref='-1181' />
+<nd ref='-1182' />
+<nd ref='-1137' />
+<tag k='addr:housenumber' v='0' />
+<tag k='addr:postcode' v='00000' />
+<tag k='addr:street' v='' />
+<tag k='created_by' v='polyshp2osm' />
+<tag k='area' v='yes' />
+</way>
+</osm>

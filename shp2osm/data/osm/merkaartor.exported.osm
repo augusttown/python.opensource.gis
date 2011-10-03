@@ -1,0 +1,3400 @@
+<?xml version="1.0"?>
+<osm generator="Merkaartor 0.17" version="0.6">
+  <node version="0" lon="-117.5569881" lat="34.1229096" timestamp="2011-08-24T23:12:11Z" user="" id="-1" actor="0"/>
+  <node version="0" lon="-117.5573629" lat="34.1229100" timestamp="2011-08-24T23:12:11Z" user="" id="-2" actor="0"/>
+  <node version="0" lon="-117.5573626" lat="34.1230473" timestamp="2011-08-24T23:12:11Z" user="" id="-3" actor="0"/>
+  <node version="0" lon="-117.5569652" lat="34.1230468" timestamp="2011-08-24T23:12:11Z" user="" id="-4" actor="0"/>
+  <node version="0" lon="-117.5569652" lat="34.1230374" timestamp="2011-08-24T23:12:11Z" user="" id="-5" actor="0"/>
+  <node version="0" lon="-117.5569653" lat="34.1230331" timestamp="2011-08-24T23:12:11Z" user="" id="-6" actor="0"/>
+  <node version="0" lon="-117.5569654" lat="34.1230287" timestamp="2011-08-24T23:12:11Z" user="" id="-7" actor="0"/>
+  <node version="0" lon="-117.5569657" lat="34.1230244" timestamp="2011-08-24T23:12:11Z" user="" id="-8" actor="0"/>
+  <node version="0" lon="-117.5569660" lat="34.1230201" timestamp="2011-08-24T23:12:11Z" user="" id="-9" actor="0"/>
+  <node version="0" lon="-117.5569664" lat="34.1230158" timestamp="2011-08-24T23:12:11Z" user="" id="-10" actor="0"/>
+  <node version="0" lon="-117.5569669" lat="34.1230115" timestamp="2011-08-24T23:12:11Z" user="" id="-11" actor="0"/>
+  <node version="0" lon="-117.5569675" lat="34.1230073" timestamp="2011-08-24T23:12:11Z" user="" id="-12" actor="0"/>
+  <node version="0" lon="-117.5569682" lat="34.1230030" timestamp="2011-08-24T23:12:11Z" user="" id="-13" actor="0"/>
+  <node version="0" lon="-117.5569690" lat="34.1229987" timestamp="2011-08-24T23:12:11Z" user="" id="-14" actor="0"/>
+  <node version="0" lon="-117.5569698" lat="34.1229945" timestamp="2011-08-24T23:12:11Z" user="" id="-15" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-16" actor="0">
+    <nd ref="-1"/>
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-1"/>
+    <tag k="_NUMBER_" v="7218"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00104896390"/>
+    <tag k="_Shape_Area_" v="      0.00000005334"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7218"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577328" lat="34.1229104" timestamp="2011-08-24T23:12:11Z" user="" id="-17" actor="0"/>
+  <node version="0" lon="-117.5577325" lat="34.1230477" timestamp="2011-08-24T23:12:11Z" user="" id="-18" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-19" actor="0">
+    <nd ref="-2"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-3"/>
+    <nd ref="-2"/>
+    <tag k="_NUMBER_" v="7221"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00101451915"/>
+    <tag k="_Shape_Area_" v="      0.00000005079"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7221"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579312" lat="34.1228354" timestamp="2011-08-24T23:12:11Z" user="" id="-20" actor="0"/>
+  <node version="0" lon="-117.5583219" lat="34.1228359" timestamp="2011-08-24T23:12:11Z" user="" id="-21" actor="0"/>
+  <node version="0" lon="-117.5583222" lat="34.1229732" timestamp="2011-08-24T23:12:11Z" user="" id="-22" actor="0"/>
+  <node version="0" lon="-117.5579309" lat="34.1229727" timestamp="2011-08-24T23:12:11Z" user="" id="-23" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-24" actor="0">
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-20"/>
+    <tag k="_NUMBER_" v="7222"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00105649916"/>
+    <tag k="_Shape_Area_" v="      0.00000005367"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7222"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5572186" lat="34.1224514" timestamp="2011-08-24T23:12:11Z" user="" id="-25" actor="0"/>
+  <node version="0" lon="-117.5572193" lat="34.1221327" timestamp="2011-08-24T23:12:11Z" user="" id="-26" actor="0"/>
+  <node version="0" lon="-117.5573976" lat="34.1221567" timestamp="2011-08-24T23:12:11Z" user="" id="-27" actor="0"/>
+  <node version="0" lon="-117.5573972" lat="34.1223554" timestamp="2011-08-24T23:12:11Z" user="" id="-28" actor="0"/>
+  <node version="0" lon="-117.5573638" lat="34.1224981" timestamp="2011-08-24T23:12:11Z" user="" id="-29" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-30" actor="0">
+    <nd ref="-25"/>
+    <nd ref="-26"/>
+    <nd ref="-27"/>
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-25"/>
+    <tag k="_NUMBER_" v="11356"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00099645141"/>
+    <tag k="_Shape_Area_" v="      0.00000005728"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11356"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579315" lat="34.1226981" timestamp="2011-08-24T23:12:11Z" user="" id="-31" actor="0"/>
+  <node version="0" lon="-117.5583216" lat="34.1226986" timestamp="2011-08-24T23:12:11Z" user="" id="-32" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-33" actor="0">
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-21"/>
+    <nd ref="-20"/>
+    <nd ref="-31"/>
+    <tag k="_NUMBER_" v="7232"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00105536815"/>
+    <tag k="_Shape_Area_" v="      0.00000005360"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7232"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5571187" lat="34.1224193" timestamp="2011-08-24T23:12:11Z" user="" id="-34" actor="0"/>
+  <node version="0" lon="-117.5570535" lat="34.1223984" timestamp="2011-08-24T23:12:11Z" user="" id="-35" actor="0"/>
+  <node version="0" lon="-117.5570542" lat="34.1221105" timestamp="2011-08-24T23:12:11Z" user="" id="-36" actor="0"/>
+  <node version="0" lon="-117.5570562" lat="34.1221108" timestamp="2011-08-24T23:12:11Z" user="" id="-37" actor="0"/>
+  <node version="0" lon="-117.5570582" lat="34.1221110" timestamp="2011-08-24T23:12:11Z" user="" id="-38" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-39" actor="0">
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-36"/>
+    <nd ref="-37"/>
+    <nd ref="-38"/>
+    <nd ref="-26"/>
+    <nd ref="-25"/>
+    <nd ref="-34"/>
+    <tag k="_NUMBER_" v="11364"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00094660561"/>
+    <tag k="_Shape_Area_" v="      0.00000005010"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11364"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5569826" lat="34.1227723" timestamp="2011-08-24T23:12:11Z" user="" id="-40" actor="0"/>
+  <node version="0" lon="-117.5573632" lat="34.1227727" timestamp="2011-08-24T23:12:11Z" user="" id="-41" actor="0"/>
+  <node version="0" lon="-117.5569951" lat="34.1228766" timestamp="2011-08-24T23:12:11Z" user="" id="-42" actor="0"/>
+  <node version="0" lon="-117.5569958" lat="34.1228733" timestamp="2011-08-24T23:12:11Z" user="" id="-43" actor="0"/>
+  <node version="0" lon="-117.5569964" lat="34.1228700" timestamp="2011-08-24T23:12:11Z" user="" id="-44" actor="0"/>
+  <node version="0" lon="-117.5569969" lat="34.1228667" timestamp="2011-08-24T23:12:11Z" user="" id="-45" actor="0"/>
+  <node version="0" lon="-117.5569974" lat="34.1228633" timestamp="2011-08-24T23:12:11Z" user="" id="-46" actor="0"/>
+  <node version="0" lon="-117.5569978" lat="34.1228600" timestamp="2011-08-24T23:12:11Z" user="" id="-47" actor="0"/>
+  <node version="0" lon="-117.5569981" lat="34.1228567" timestamp="2011-08-24T23:12:11Z" user="" id="-48" actor="0"/>
+  <node version="0" lon="-117.5569984" lat="34.1228533" timestamp="2011-08-24T23:12:11Z" user="" id="-49" actor="0"/>
+  <node version="0" lon="-117.5569986" lat="34.1228500" timestamp="2011-08-24T23:12:11Z" user="" id="-50" actor="0"/>
+  <node version="0" lon="-117.5569987" lat="34.1228466" timestamp="2011-08-24T23:12:11Z" user="" id="-51" actor="0"/>
+  <node version="0" lon="-117.5569987" lat="34.1228433" timestamp="2011-08-24T23:12:11Z" user="" id="-52" actor="0"/>
+  <node version="0" lon="-117.5569987" lat="34.1228399" timestamp="2011-08-24T23:12:11Z" user="" id="-53" actor="0"/>
+  <node version="0" lon="-117.5569986" lat="34.1228365" timestamp="2011-08-24T23:12:11Z" user="" id="-54" actor="0"/>
+  <node version="0" lon="-117.5569984" lat="34.1228332" timestamp="2011-08-24T23:12:11Z" user="" id="-55" actor="0"/>
+  <node version="0" lon="-117.5569982" lat="34.1228298" timestamp="2011-08-24T23:12:11Z" user="" id="-56" actor="0"/>
+  <node version="0" lon="-117.5569979" lat="34.1228265" timestamp="2011-08-24T23:12:11Z" user="" id="-57" actor="0"/>
+  <node version="0" lon="-117.5569975" lat="34.1228232" timestamp="2011-08-24T23:12:11Z" user="" id="-58" actor="0"/>
+  <node version="0" lon="-117.5569970" lat="34.1228198" timestamp="2011-08-24T23:12:11Z" user="" id="-59" actor="0"/>
+  <node version="0" lon="-117.5569965" lat="34.1228165" timestamp="2011-08-24T23:12:11Z" user="" id="-60" actor="0"/>
+  <node version="0" lon="-117.5569959" lat="34.1228132" timestamp="2011-08-24T23:12:11Z" user="" id="-61" actor="0"/>
+  <node version="0" lon="-117.5569953" lat="34.1228099" timestamp="2011-08-24T23:12:11Z" user="" id="-62" actor="0"/>
+  <node version="0" lon="-117.5569945" lat="34.1228066" timestamp="2011-08-24T23:12:11Z" user="" id="-63" actor="0"/>
+  <node version="0" lon="-117.5569938" lat="34.1228033" timestamp="2011-08-24T23:12:11Z" user="" id="-64" actor="0"/>
+  <node version="0" lon="-117.5569929" lat="34.1228000" timestamp="2011-08-24T23:12:11Z" user="" id="-65" actor="0"/>
+  <node version="0" lon="-117.5569920" lat="34.1227968" timestamp="2011-08-24T23:12:11Z" user="" id="-66" actor="0"/>
+  <node version="0" lon="-117.5569909" lat="34.1227935" timestamp="2011-08-24T23:12:11Z" user="" id="-67" actor="0"/>
+  <node version="0" lon="-117.5569899" lat="34.1227903" timestamp="2011-08-24T23:12:11Z" user="" id="-68" actor="0"/>
+  <node version="0" lon="-117.5569887" lat="34.1227871" timestamp="2011-08-24T23:12:11Z" user="" id="-69" actor="0"/>
+  <node version="0" lon="-117.5569875" lat="34.1227839" timestamp="2011-08-24T23:12:11Z" user="" id="-70" actor="0"/>
+  <node version="0" lon="-117.5569863" lat="34.1227807" timestamp="2011-08-24T23:12:11Z" user="" id="-71" actor="0"/>
+  <node version="0" lon="-117.5569849" lat="34.1227775" timestamp="2011-08-24T23:12:11Z" user="" id="-72" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-73" actor="0">
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-2"/>
+    <nd ref="-1"/>
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-56"/>
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-64"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-72"/>
+    <nd ref="-40"/>
+    <tag k="_NUMBER_" v="7226"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00103341502"/>
+    <tag k="_Shape_Area_" v="      0.00000005066"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7226"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577332" lat="34.1227731" timestamp="2011-08-24T23:12:11Z" user="" id="-74" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-75" actor="0">
+    <nd ref="-41"/>
+    <nd ref="-74"/>
+    <nd ref="-17"/>
+    <nd ref="-2"/>
+    <nd ref="-41"/>
+    <tag k="_NUMBER_" v="7229"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00101446814"/>
+    <tag k="_Shape_Area_" v="      0.00000005078"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7229"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579524" lat="34.1222807" timestamp="2011-08-24T23:12:11Z" user="" id="-76" actor="0"/>
+  <node version="0" lon="-117.5583208" lat="34.1222812" timestamp="2011-08-24T23:12:11Z" user="" id="-77" actor="0"/>
+  <node version="0" lon="-117.5583211" lat="34.1224185" timestamp="2011-08-24T23:12:11Z" user="" id="-78" actor="0"/>
+  <node version="0" lon="-117.5579322" lat="34.1224180" timestamp="2011-08-24T23:12:11Z" user="" id="-79" actor="0"/>
+  <node version="0" lon="-117.5579322" lat="34.1223964" timestamp="2011-08-24T23:12:11Z" user="" id="-80" actor="0"/>
+  <node version="0" lon="-117.5579323" lat="34.1223920" timestamp="2011-08-24T23:12:11Z" user="" id="-81" actor="0"/>
+  <node version="0" lon="-117.5579324" lat="34.1223877" timestamp="2011-08-24T23:12:11Z" user="" id="-82" actor="0"/>
+  <node version="0" lon="-117.5579326" lat="34.1223834" timestamp="2011-08-24T23:12:11Z" user="" id="-83" actor="0"/>
+  <node version="0" lon="-117.5579330" lat="34.1223791" timestamp="2011-08-24T23:12:11Z" user="" id="-84" actor="0"/>
+  <node version="0" lon="-117.5579334" lat="34.1223748" timestamp="2011-08-24T23:12:11Z" user="" id="-85" actor="0"/>
+  <node version="0" lon="-117.5579339" lat="34.1223705" timestamp="2011-08-24T23:12:11Z" user="" id="-86" actor="0"/>
+  <node version="0" lon="-117.5579345" lat="34.1223662" timestamp="2011-08-24T23:12:11Z" user="" id="-87" actor="0"/>
+  <node version="0" lon="-117.5579352" lat="34.1223620" timestamp="2011-08-24T23:12:11Z" user="" id="-88" actor="0"/>
+  <node version="0" lon="-117.5579360" lat="34.1223577" timestamp="2011-08-24T23:12:11Z" user="" id="-89" actor="0"/>
+  <node version="0" lon="-117.5579368" lat="34.1223534" timestamp="2011-08-24T23:12:11Z" user="" id="-90" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-91" actor="0">
+    <nd ref="-76"/>
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
+    <nd ref="-85"/>
+    <nd ref="-86"/>
+    <nd ref="-87"/>
+    <nd ref="-88"/>
+    <nd ref="-89"/>
+    <nd ref="-90"/>
+    <nd ref="-76"/>
+    <tag k="_NUMBER_" v="7252"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00103397585"/>
+    <tag k="_Shape_Area_" v="      0.00000005242"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7252"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5563870" lat="34.1221008" timestamp="2011-08-24T23:12:11Z" user="" id="-92" actor="0"/>
+  <node version="0" lon="-117.5565587" lat="34.1221010" timestamp="2011-08-24T23:12:11Z" user="" id="-93" actor="0"/>
+  <node version="0" lon="-117.5565581" lat="34.1223978" timestamp="2011-08-24T23:12:11Z" user="" id="-94" actor="0"/>
+  <node version="0" lon="-117.5564474" lat="34.1223977" timestamp="2011-08-24T23:12:11Z" user="" id="-95" actor="0"/>
+  <node version="0" lon="-117.5563863" lat="34.1223976" timestamp="2011-08-24T23:12:11Z" user="" id="-96" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-97" actor="0">
+    <nd ref="-92"/>
+    <nd ref="-93"/>
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <nd ref="-96"/>
+    <nd ref="-92"/>
+    <tag k="_NUMBER_" v="11394"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00093704086"/>
+    <tag k="_Shape_Area_" v="      0.00000005097"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11394"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5567239" lat="34.1221013" timestamp="2011-08-24T23:12:11Z" user="" id="-98" actor="0"/>
+  <node version="0" lon="-117.5567232" lat="34.1223980" timestamp="2011-08-24T23:12:11Z" user="" id="-99" actor="0"/>
+  <node version="0" lon="-117.5566291" lat="34.1223979" timestamp="2011-08-24T23:12:11Z" user="" id="-100" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-101" actor="0">
+    <nd ref="-93"/>
+    <nd ref="-98"/>
+    <nd ref="-99"/>
+    <nd ref="-100"/>
+    <nd ref="-94"/>
+    <nd ref="-93"/>
+    <tag k="_NUMBER_" v="11386"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00092379782"/>
+    <tag k="_Shape_Area_" v="      0.00000004901"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11386"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5568891" lat="34.1221015" timestamp="2011-08-24T23:12:11Z" user="" id="-102" actor="0"/>
+  <node version="0" lon="-117.5568884" lat="34.1223982" timestamp="2011-08-24T23:12:11Z" user="" id="-103" actor="0"/>
+  <node version="0" lon="-117.5568107" lat="34.1223981" timestamp="2011-08-24T23:12:11Z" user="" id="-104" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-105" actor="0">
+    <nd ref="-98"/>
+    <nd ref="-102"/>
+    <nd ref="-103"/>
+    <nd ref="-104"/>
+    <nd ref="-99"/>
+    <nd ref="-98"/>
+    <tag k="_NUMBER_" v="11380"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00092376081"/>
+    <tag k="_Shape_Area_" v="      0.00000004901"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11380"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5569172" lat="34.1221015" timestamp="2011-08-24T23:12:11Z" user="" id="-106" actor="0"/>
+  <node version="0" lon="-117.5569458" lat="34.1221019" timestamp="2011-08-24T23:12:11Z" user="" id="-107" actor="0"/>
+  <node version="0" lon="-117.5569613" lat="34.1221025" timestamp="2011-08-24T23:12:11Z" user="" id="-108" actor="0"/>
+  <node version="0" lon="-117.5569769" lat="34.1221033" timestamp="2011-08-24T23:12:11Z" user="" id="-109" actor="0"/>
+  <node version="0" lon="-117.5569924" lat="34.1221043" timestamp="2011-08-24T23:12:11Z" user="" id="-110" actor="0"/>
+  <node version="0" lon="-117.5570079" lat="34.1221055" timestamp="2011-08-24T23:12:11Z" user="" id="-111" actor="0"/>
+  <node version="0" lon="-117.5570234" lat="34.1221069" timestamp="2011-08-24T23:12:11Z" user="" id="-112" actor="0"/>
+  <node version="0" lon="-117.5570388" lat="34.1221086" timestamp="2011-08-24T23:12:11Z" user="" id="-113" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-114" actor="0">
+    <nd ref="-102"/>
+    <nd ref="-106"/>
+    <nd ref="-107"/>
+    <nd ref="-108"/>
+    <nd ref="-109"/>
+    <nd ref="-110"/>
+    <nd ref="-111"/>
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-36"/>
+    <nd ref="-35"/>
+    <nd ref="-103"/>
+    <nd ref="-102"/>
+    <tag k="_NUMBER_" v="11370"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00091525526"/>
+    <tag k="_Shape_Area_" v="      0.00000004859"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11370"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5576927" lat="34.1221963" timestamp="2011-08-24T23:12:11Z" user="" id="-115" actor="0"/>
+  <node version="0" lon="-117.5577344" lat="34.1222371" timestamp="2011-08-24T23:12:11Z" user="" id="-116" actor="0"/>
+  <node version="0" lon="-117.5577341" lat="34.1223557" timestamp="2011-08-24T23:12:11Z" user="" id="-117" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-118" actor="0">
+    <nd ref="-27"/>
+    <nd ref="-115"/>
+    <nd ref="-116"/>
+    <nd ref="-117"/>
+    <nd ref="-28"/>
+    <nd ref="-27"/>
+    <tag k="_NUMBER_" v="7255"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00101032352"/>
+    <tag k="_Shape_Area_" v="      0.00000005865"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7255"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579548" lat="34.1221434" timestamp="2011-08-24T23:12:11Z" user="" id="-119" actor="0"/>
+  <node version="0" lon="-117.5583206" lat="34.1221438" timestamp="2011-08-24T23:12:11Z" user="" id="-120" actor="0"/>
+  <node version="0" lon="-117.5579621" lat="34.1222356" timestamp="2011-08-24T23:12:11Z" user="" id="-121" actor="0"/>
+  <node version="0" lon="-117.5579628" lat="34.1222323" timestamp="2011-08-24T23:12:11Z" user="" id="-122" actor="0"/>
+  <node version="0" lon="-117.5579634" lat="34.1222289" timestamp="2011-08-24T23:12:11Z" user="" id="-123" actor="0"/>
+  <node version="0" lon="-117.5579639" lat="34.1222256" timestamp="2011-08-24T23:12:11Z" user="" id="-124" actor="0"/>
+  <node version="0" lon="-117.5579644" lat="34.1222223" timestamp="2011-08-24T23:12:11Z" user="" id="-125" actor="0"/>
+  <node version="0" lon="-117.5579648" lat="34.1222189" timestamp="2011-08-24T23:12:11Z" user="" id="-126" actor="0"/>
+  <node version="0" lon="-117.5579651" lat="34.1222156" timestamp="2011-08-24T23:12:11Z" user="" id="-127" actor="0"/>
+  <node version="0" lon="-117.5579653" lat="34.1222122" timestamp="2011-08-24T23:12:11Z" user="" id="-128" actor="0"/>
+  <node version="0" lon="-117.5579655" lat="34.1222089" timestamp="2011-08-24T23:12:11Z" user="" id="-129" actor="0"/>
+  <node version="0" lon="-117.5579656" lat="34.1222055" timestamp="2011-08-24T23:12:11Z" user="" id="-130" actor="0"/>
+  <node version="0" lon="-117.5579657" lat="34.1222022" timestamp="2011-08-24T23:12:11Z" user="" id="-131" actor="0"/>
+  <node version="0" lon="-117.5579657" lat="34.1221988" timestamp="2011-08-24T23:12:11Z" user="" id="-132" actor="0"/>
+  <node version="0" lon="-117.5579656" lat="34.1221955" timestamp="2011-08-24T23:12:11Z" user="" id="-133" actor="0"/>
+  <node version="0" lon="-117.5579654" lat="34.1221921" timestamp="2011-08-24T23:12:11Z" user="" id="-134" actor="0"/>
+  <node version="0" lon="-117.5579652" lat="34.1221888" timestamp="2011-08-24T23:12:11Z" user="" id="-135" actor="0"/>
+  <node version="0" lon="-117.5579648" lat="34.1221854" timestamp="2011-08-24T23:12:11Z" user="" id="-136" actor="0"/>
+  <node version="0" lon="-117.5579645" lat="34.1221821" timestamp="2011-08-24T23:12:11Z" user="" id="-137" actor="0"/>
+  <node version="0" lon="-117.5579640" lat="34.1221787" timestamp="2011-08-24T23:12:11Z" user="" id="-138" actor="0"/>
+  <node version="0" lon="-117.5579635" lat="34.1221754" timestamp="2011-08-24T23:12:11Z" user="" id="-139" actor="0"/>
+  <node version="0" lon="-117.5579629" lat="34.1221721" timestamp="2011-08-24T23:12:11Z" user="" id="-140" actor="0"/>
+  <node version="0" lon="-117.5579622" lat="34.1221688" timestamp="2011-08-24T23:12:11Z" user="" id="-141" actor="0"/>
+  <node version="0" lon="-117.5579615" lat="34.1221655" timestamp="2011-08-24T23:12:11Z" user="" id="-142" actor="0"/>
+  <node version="0" lon="-117.5579607" lat="34.1221622" timestamp="2011-08-24T23:12:11Z" user="" id="-143" actor="0"/>
+  <node version="0" lon="-117.5579599" lat="34.1221589" timestamp="2011-08-24T23:12:11Z" user="" id="-144" actor="0"/>
+  <node version="0" lon="-117.5579589" lat="34.1221557" timestamp="2011-08-24T23:12:11Z" user="" id="-145" actor="0"/>
+  <node version="0" lon="-117.5579579" lat="34.1221524" timestamp="2011-08-24T23:12:11Z" user="" id="-146" actor="0"/>
+  <node version="0" lon="-117.5579568" lat="34.1221492" timestamp="2011-08-24T23:12:11Z" user="" id="-147" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-148" actor="0">
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-77"/>
+    <nd ref="-76"/>
+    <nd ref="-121"/>
+    <nd ref="-122"/>
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <nd ref="-126"/>
+    <nd ref="-127"/>
+    <nd ref="-128"/>
+    <nd ref="-129"/>
+    <nd ref="-130"/>
+    <nd ref="-131"/>
+    <nd ref="-132"/>
+    <nd ref="-133"/>
+    <nd ref="-134"/>
+    <nd ref="-135"/>
+    <nd ref="-136"/>
+    <nd ref="-137"/>
+    <nd ref="-138"/>
+    <nd ref="-139"/>
+    <nd ref="-140"/>
+    <nd ref="-141"/>
+    <nd ref="-142"/>
+    <nd ref="-143"/>
+    <nd ref="-144"/>
+    <nd ref="-145"/>
+    <nd ref="-146"/>
+    <nd ref="-147"/>
+    <nd ref="-119"/>
+    <tag k="_NUMBER_" v="7262"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00101155582"/>
+    <tag k="_Shape_Area_" v="      0.00000004939"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7262"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579199" lat="34.1220870" timestamp="2011-08-24T23:12:11Z" user="" id="-149" actor="0"/>
+  <node version="0" lon="-117.5583200" lat="34.1218485" timestamp="2011-08-24T23:12:11Z" user="" id="-150" actor="0"/>
+  <node version="0" lon="-117.5579535" lat="34.1221402" timestamp="2011-08-24T23:12:11Z" user="" id="-151" actor="0"/>
+  <node version="0" lon="-117.5579522" lat="34.1221370" timestamp="2011-08-24T23:12:11Z" user="" id="-152" actor="0"/>
+  <node version="0" lon="-117.5579508" lat="34.1221339" timestamp="2011-08-24T23:12:11Z" user="" id="-153" actor="0"/>
+  <node version="0" lon="-117.5579493" lat="34.1221308" timestamp="2011-08-24T23:12:11Z" user="" id="-154" actor="0"/>
+  <node version="0" lon="-117.5579478" lat="34.1221277" timestamp="2011-08-24T23:12:11Z" user="" id="-155" actor="0"/>
+  <node version="0" lon="-117.5579462" lat="34.1221246" timestamp="2011-08-24T23:12:11Z" user="" id="-156" actor="0"/>
+  <node version="0" lon="-117.5579445" lat="34.1221215" timestamp="2011-08-24T23:12:11Z" user="" id="-157" actor="0"/>
+  <node version="0" lon="-117.5579428" lat="34.1221185" timestamp="2011-08-24T23:12:11Z" user="" id="-158" actor="0"/>
+  <node version="0" lon="-117.5579410" lat="34.1221155" timestamp="2011-08-24T23:12:11Z" user="" id="-159" actor="0"/>
+  <node version="0" lon="-117.5579392" lat="34.1221125" timestamp="2011-08-24T23:12:11Z" user="" id="-160" actor="0"/>
+  <node version="0" lon="-117.5579373" lat="34.1221095" timestamp="2011-08-24T23:12:11Z" user="" id="-161" actor="0"/>
+  <node version="0" lon="-117.5579353" lat="34.1221066" timestamp="2011-08-24T23:12:11Z" user="" id="-162" actor="0"/>
+  <node version="0" lon="-117.5579333" lat="34.1221037" timestamp="2011-08-24T23:12:11Z" user="" id="-163" actor="0"/>
+  <node version="0" lon="-117.5579312" lat="34.1221008" timestamp="2011-08-24T23:12:11Z" user="" id="-164" actor="0"/>
+  <node version="0" lon="-117.5579291" lat="34.1220980" timestamp="2011-08-24T23:12:11Z" user="" id="-165" actor="0"/>
+  <node version="0" lon="-117.5579268" lat="34.1220952" timestamp="2011-08-24T23:12:11Z" user="" id="-166" actor="0"/>
+  <node version="0" lon="-117.5579246" lat="34.1220924" timestamp="2011-08-24T23:12:11Z" user="" id="-167" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-168" actor="0">
+    <nd ref="-149"/>
+    <nd ref="-150"/>
+    <nd ref="-120"/>
+    <nd ref="-119"/>
+    <nd ref="-151"/>
+    <nd ref="-152"/>
+    <nd ref="-153"/>
+    <nd ref="-154"/>
+    <nd ref="-155"/>
+    <nd ref="-156"/>
+    <nd ref="-157"/>
+    <nd ref="-158"/>
+    <nd ref="-159"/>
+    <nd ref="-160"/>
+    <nd ref="-161"/>
+    <nd ref="-162"/>
+    <nd ref="-163"/>
+    <nd ref="-164"/>
+    <nd ref="-165"/>
+    <nd ref="-166"/>
+    <nd ref="-167"/>
+    <nd ref="-149"/>
+    <tag k="_NUMBER_" v="7264"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00119358314"/>
+    <tag k="_Shape_Area_" v="      0.00000006932"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7264"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5578523" lat="34.1220364" timestamp="2011-08-24T23:12:11Z" user="" id="-169" actor="0"/>
+  <node version="0" lon="-117.5580806" lat="34.1216710" timestamp="2011-08-24T23:12:11Z" user="" id="-170" actor="0"/>
+  <node version="0" lon="-117.5579175" lat="34.1220843" timestamp="2011-08-24T23:12:11Z" user="" id="-171" actor="0"/>
+  <node version="0" lon="-117.5579150" lat="34.1220817" timestamp="2011-08-24T23:12:11Z" user="" id="-172" actor="0"/>
+  <node version="0" lon="-117.5579124" lat="34.1220791" timestamp="2011-08-24T23:12:11Z" user="" id="-173" actor="0"/>
+  <node version="0" lon="-117.5579098" lat="34.1220765" timestamp="2011-08-24T23:12:11Z" user="" id="-174" actor="0"/>
+  <node version="0" lon="-117.5579072" lat="34.1220740" timestamp="2011-08-24T23:12:11Z" user="" id="-175" actor="0"/>
+  <node version="0" lon="-117.5579045" lat="34.1220715" timestamp="2011-08-24T23:12:11Z" user="" id="-176" actor="0"/>
+  <node version="0" lon="-117.5579017" lat="34.1220691" timestamp="2011-08-24T23:12:11Z" user="" id="-177" actor="0"/>
+  <node version="0" lon="-117.5578989" lat="34.1220667" timestamp="2011-08-24T23:12:11Z" user="" id="-178" actor="0"/>
+  <node version="0" lon="-117.5578960" lat="34.1220643" timestamp="2011-08-24T23:12:11Z" user="" id="-179" actor="0"/>
+  <node version="0" lon="-117.5578931" lat="34.1220620" timestamp="2011-08-24T23:12:11Z" user="" id="-180" actor="0"/>
+  <node version="0" lon="-117.5578902" lat="34.1220597" timestamp="2011-08-24T23:12:11Z" user="" id="-181" actor="0"/>
+  <node version="0" lon="-117.5578872" lat="34.1220575" timestamp="2011-08-24T23:12:11Z" user="" id="-182" actor="0"/>
+  <node version="0" lon="-117.5578841" lat="34.1220553" timestamp="2011-08-24T23:12:11Z" user="" id="-183" actor="0"/>
+  <node version="0" lon="-117.5578810" lat="34.1220531" timestamp="2011-08-24T23:12:11Z" user="" id="-184" actor="0"/>
+  <node version="0" lon="-117.5578779" lat="34.1220510" timestamp="2011-08-24T23:12:11Z" user="" id="-185" actor="0"/>
+  <node version="0" lon="-117.5578747" lat="34.1220490" timestamp="2011-08-24T23:12:11Z" user="" id="-186" actor="0"/>
+  <node version="0" lon="-117.5578714" lat="34.1220469" timestamp="2011-08-24T23:12:11Z" user="" id="-187" actor="0"/>
+  <node version="0" lon="-117.5578682" lat="34.1220450" timestamp="2011-08-24T23:12:11Z" user="" id="-188" actor="0"/>
+  <node version="0" lon="-117.5578649" lat="34.1220431" timestamp="2011-08-24T23:12:11Z" user="" id="-189" actor="0"/>
+  <node version="0" lon="-117.5578615" lat="34.1220412" timestamp="2011-08-24T23:12:11Z" user="" id="-190" actor="0"/>
+  <node version="0" lon="-117.5578581" lat="34.1220394" timestamp="2011-08-24T23:12:11Z" user="" id="-191" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-192" actor="0">
+    <nd ref="-169"/>
+    <nd ref="-170"/>
+    <nd ref="-150"/>
+    <nd ref="-149"/>
+    <nd ref="-171"/>
+    <nd ref="-172"/>
+    <nd ref="-173"/>
+    <nd ref="-174"/>
+    <nd ref="-175"/>
+    <nd ref="-176"/>
+    <nd ref="-177"/>
+    <nd ref="-178"/>
+    <nd ref="-179"/>
+    <nd ref="-180"/>
+    <nd ref="-181"/>
+    <nd ref="-182"/>
+    <nd ref="-183"/>
+    <nd ref="-184"/>
+    <nd ref="-185"/>
+    <nd ref="-186"/>
+    <nd ref="-187"/>
+    <nd ref="-188"/>
+    <nd ref="-189"/>
+    <nd ref="-190"/>
+    <nd ref="-191"/>
+    <nd ref="-169"/>
+    <tag k="_NUMBER_" v="11331"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00127971379"/>
+    <tag k="_Shape_Area_" v="      0.00000008197"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11331"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5569476" lat="34.1227224" timestamp="2011-08-24T23:12:11Z" user="" id="-193" actor="0"/>
+  <node version="0" lon="-117.5570201" lat="34.1226350" timestamp="2011-08-24T23:12:11Z" user="" id="-194" actor="0"/>
+  <node version="0" lon="-117.5573635" lat="34.1226354" timestamp="2011-08-24T23:12:11Z" user="" id="-195" actor="0"/>
+  <node version="0" lon="-117.5569810" lat="34.1227692" timestamp="2011-08-24T23:12:11Z" user="" id="-196" actor="0"/>
+  <node version="0" lon="-117.5569795" lat="34.1227661" timestamp="2011-08-24T23:12:11Z" user="" id="-197" actor="0"/>
+  <node version="0" lon="-117.5569778" lat="34.1227630" timestamp="2011-08-24T23:12:11Z" user="" id="-198" actor="0"/>
+  <node version="0" lon="-117.5569761" lat="34.1227600" timestamp="2011-08-24T23:12:11Z" user="" id="-199" actor="0"/>
+  <node version="0" lon="-117.5569743" lat="34.1227570" timestamp="2011-08-24T23:12:11Z" user="" id="-200" actor="0"/>
+  <node version="0" lon="-117.5569725" lat="34.1227540" timestamp="2011-08-24T23:12:11Z" user="" id="-201" actor="0"/>
+  <node version="0" lon="-117.5569706" lat="34.1227510" timestamp="2011-08-24T23:12:11Z" user="" id="-202" actor="0"/>
+  <node version="0" lon="-117.5569686" lat="34.1227481" timestamp="2011-08-24T23:12:11Z" user="" id="-203" actor="0"/>
+  <node version="0" lon="-117.5569666" lat="34.1227452" timestamp="2011-08-24T23:12:11Z" user="" id="-204" actor="0"/>
+  <node version="0" lon="-117.5569645" lat="34.1227423" timestamp="2011-08-24T23:12:11Z" user="" id="-205" actor="0"/>
+  <node version="0" lon="-117.5569624" lat="34.1227395" timestamp="2011-08-24T23:12:11Z" user="" id="-206" actor="0"/>
+  <node version="0" lon="-117.5569602" lat="34.1227367" timestamp="2011-08-24T23:12:11Z" user="" id="-207" actor="0"/>
+  <node version="0" lon="-117.5569579" lat="34.1227339" timestamp="2011-08-24T23:12:11Z" user="" id="-208" actor="0"/>
+  <node version="0" lon="-117.5569556" lat="34.1227312" timestamp="2011-08-24T23:12:11Z" user="" id="-209" actor="0"/>
+  <node version="0" lon="-117.5569532" lat="34.1227285" timestamp="2011-08-24T23:12:11Z" user="" id="-210" actor="0"/>
+  <node version="0" lon="-117.5569508" lat="34.1227258" timestamp="2011-08-24T23:12:11Z" user="" id="-211" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-212" actor="0">
+    <nd ref="-193"/>
+    <nd ref="-194"/>
+    <nd ref="-195"/>
+    <nd ref="-41"/>
+    <nd ref="-40"/>
+    <nd ref="-196"/>
+    <nd ref="-197"/>
+    <nd ref="-198"/>
+    <nd ref="-199"/>
+    <nd ref="-200"/>
+    <nd ref="-201"/>
+    <nd ref="-202"/>
+    <nd ref="-203"/>
+    <nd ref="-204"/>
+    <nd ref="-205"/>
+    <nd ref="-206"/>
+    <nd ref="-207"/>
+    <nd ref="-208"/>
+    <nd ref="-209"/>
+    <nd ref="-210"/>
+    <nd ref="-211"/>
+    <nd ref="-193"/>
+    <tag k="_NUMBER_" v="7230"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00103597643"/>
+    <tag k="_Shape_Area_" v="      0.00000005293"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7230"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5568987" lat="34.1226847" timestamp="2011-08-24T23:12:11Z" user="" id="-213" actor="0"/>
+  <node version="0" lon="-117.5569451" lat="34.1227198" timestamp="2011-08-24T23:12:11Z" user="" id="-214" actor="0"/>
+  <node version="0" lon="-117.5569425" lat="34.1227173" timestamp="2011-08-24T23:12:11Z" user="" id="-215" actor="0"/>
+  <node version="0" lon="-117.5569398" lat="34.1227148" timestamp="2011-08-24T23:12:11Z" user="" id="-216" actor="0"/>
+  <node version="0" lon="-117.5569371" lat="34.1227123" timestamp="2011-08-24T23:12:11Z" user="" id="-217" actor="0"/>
+  <node version="0" lon="-117.5569343" lat="34.1227099" timestamp="2011-08-24T23:12:11Z" user="" id="-218" actor="0"/>
+  <node version="0" lon="-117.5569315" lat="34.1227075" timestamp="2011-08-24T23:12:11Z" user="" id="-219" actor="0"/>
+  <node version="0" lon="-117.5569286" lat="34.1227051" timestamp="2011-08-24T23:12:11Z" user="" id="-220" actor="0"/>
+  <node version="0" lon="-117.5569257" lat="34.1227028" timestamp="2011-08-24T23:12:11Z" user="" id="-221" actor="0"/>
+  <node version="0" lon="-117.5569228" lat="34.1227005" timestamp="2011-08-24T23:12:11Z" user="" id="-222" actor="0"/>
+  <node version="0" lon="-117.5569197" lat="34.1226983" timestamp="2011-08-24T23:12:11Z" user="" id="-223" actor="0"/>
+  <node version="0" lon="-117.5569167" lat="34.1226961" timestamp="2011-08-24T23:12:11Z" user="" id="-224" actor="0"/>
+  <node version="0" lon="-117.5569136" lat="34.1226940" timestamp="2011-08-24T23:12:11Z" user="" id="-225" actor="0"/>
+  <node version="0" lon="-117.5569104" lat="34.1226919" timestamp="2011-08-24T23:12:11Z" user="" id="-226" actor="0"/>
+  <node version="0" lon="-117.5569072" lat="34.1226898" timestamp="2011-08-24T23:12:11Z" user="" id="-227" actor="0"/>
+  <node version="0" lon="-117.5569040" lat="34.1226878" timestamp="2011-08-24T23:12:11Z" user="" id="-228" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-229" actor="0">
+    <nd ref="-213"/>
+    <nd ref="-34"/>
+    <nd ref="-25"/>
+    <nd ref="-29"/>
+    <nd ref="-195"/>
+    <nd ref="-194"/>
+    <nd ref="-193"/>
+    <nd ref="-214"/>
+    <nd ref="-215"/>
+    <nd ref="-216"/>
+    <nd ref="-217"/>
+    <nd ref="-218"/>
+    <nd ref="-219"/>
+    <nd ref="-220"/>
+    <nd ref="-221"/>
+    <nd ref="-222"/>
+    <nd ref="-223"/>
+    <nd ref="-224"/>
+    <nd ref="-225"/>
+    <nd ref="-226"/>
+    <nd ref="-227"/>
+    <nd ref="-228"/>
+    <nd ref="-213"/>
+    <tag k="_NUMBER_" v="7234"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00125837612"/>
+    <tag k="_Shape_Area_" v="      0.00000006796"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7234"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579318" lat="34.1225553" timestamp="2011-08-24T23:12:11Z" user="" id="-230" actor="0"/>
+  <node version="0" lon="-117.5583214" lat="34.1225558" timestamp="2011-08-24T23:12:11Z" user="" id="-231" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-232" actor="0">
+    <nd ref="-230"/>
+    <nd ref="-231"/>
+    <nd ref="-32"/>
+    <nd ref="-31"/>
+    <nd ref="-230"/>
+    <tag k="_NUMBER_" v="7236"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00106520816"/>
+    <tag k="_Shape_Area_" v="      0.00000005566"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7236"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577335" lat="34.1226358" timestamp="2011-08-24T23:12:11Z" user="" id="-233" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-234" actor="0">
+    <nd ref="-195"/>
+    <nd ref="-233"/>
+    <nd ref="-74"/>
+    <nd ref="-41"/>
+    <nd ref="-195"/>
+    <tag k="_NUMBER_" v="7235"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00101451314"/>
+    <tag k="_Shape_Area_" v="      0.00000005079"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7235"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5568102" lat="34.1226541" timestamp="2011-08-24T23:12:11Z" user="" id="-235" actor="0"/>
+  <node version="0" lon="-117.5568954" lat="34.1226828" timestamp="2011-08-24T23:12:11Z" user="" id="-236" actor="0"/>
+  <node version="0" lon="-117.5568920" lat="34.1226810" timestamp="2011-08-24T23:12:11Z" user="" id="-237" actor="0"/>
+  <node version="0" lon="-117.5568886" lat="34.1226792" timestamp="2011-08-24T23:12:11Z" user="" id="-238" actor="0"/>
+  <node version="0" lon="-117.5568851" lat="34.1226775" timestamp="2011-08-24T23:12:11Z" user="" id="-239" actor="0"/>
+  <node version="0" lon="-117.5568816" lat="34.1226758" timestamp="2011-08-24T23:12:11Z" user="" id="-240" actor="0"/>
+  <node version="0" lon="-117.5568781" lat="34.1226742" timestamp="2011-08-24T23:12:11Z" user="" id="-241" actor="0"/>
+  <node version="0" lon="-117.5568745" lat="34.1226726" timestamp="2011-08-24T23:12:11Z" user="" id="-242" actor="0"/>
+  <node version="0" lon="-117.5568710" lat="34.1226711" timestamp="2011-08-24T23:12:11Z" user="" id="-243" actor="0"/>
+  <node version="0" lon="-117.5568673" lat="34.1226696" timestamp="2011-08-24T23:12:11Z" user="" id="-244" actor="0"/>
+  <node version="0" lon="-117.5568637" lat="34.1226682" timestamp="2011-08-24T23:12:11Z" user="" id="-245" actor="0"/>
+  <node version="0" lon="-117.5568600" lat="34.1226668" timestamp="2011-08-24T23:12:11Z" user="" id="-246" actor="0"/>
+  <node version="0" lon="-117.5568563" lat="34.1226655" timestamp="2011-08-24T23:12:11Z" user="" id="-247" actor="0"/>
+  <node version="0" lon="-117.5568525" lat="34.1226642" timestamp="2011-08-24T23:12:11Z" user="" id="-248" actor="0"/>
+  <node version="0" lon="-117.5568488" lat="34.1226630" timestamp="2011-08-24T23:12:11Z" user="" id="-249" actor="0"/>
+  <node version="0" lon="-117.5568450" lat="34.1226619" timestamp="2011-08-24T23:12:11Z" user="" id="-250" actor="0"/>
+  <node version="0" lon="-117.5568412" lat="34.1226608" timestamp="2011-08-24T23:12:11Z" user="" id="-251" actor="0"/>
+  <node version="0" lon="-117.5568373" lat="34.1226597" timestamp="2011-08-24T23:12:11Z" user="" id="-252" actor="0"/>
+  <node version="0" lon="-117.5568335" lat="34.1226588" timestamp="2011-08-24T23:12:11Z" user="" id="-253" actor="0"/>
+  <node version="0" lon="-117.5568296" lat="34.1226578" timestamp="2011-08-24T23:12:11Z" user="" id="-254" actor="0"/>
+  <node version="0" lon="-117.5568257" lat="34.1226570" timestamp="2011-08-24T23:12:11Z" user="" id="-255" actor="0"/>
+  <node version="0" lon="-117.5568218" lat="34.1226561" timestamp="2011-08-24T23:12:11Z" user="" id="-256" actor="0"/>
+  <node version="0" lon="-117.5568179" lat="34.1226554" timestamp="2011-08-24T23:12:11Z" user="" id="-257" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-258" actor="0">
+    <nd ref="-235"/>
+    <nd ref="-104"/>
+    <nd ref="-103"/>
+    <nd ref="-35"/>
+    <nd ref="-34"/>
+    <nd ref="-213"/>
+    <nd ref="-236"/>
+    <nd ref="-237"/>
+    <nd ref="-238"/>
+    <nd ref="-239"/>
+    <nd ref="-240"/>
+    <nd ref="-241"/>
+    <nd ref="-242"/>
+    <nd ref="-243"/>
+    <nd ref="-244"/>
+    <nd ref="-245"/>
+    <nd ref="-246"/>
+    <nd ref="-247"/>
+    <nd ref="-248"/>
+    <nd ref="-249"/>
+    <nd ref="-250"/>
+    <nd ref="-251"/>
+    <nd ref="-252"/>
+    <nd ref="-253"/>
+    <nd ref="-254"/>
+    <nd ref="-255"/>
+    <nd ref="-256"/>
+    <nd ref="-257"/>
+    <nd ref="-235"/>
+    <tag k="_NUMBER_" v="11379"/>
+    <tag k="_STREETNAME_" v="WILLIAMS RIDGE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00100610358"/>
+    <tag k="_Shape_Area_" v="      0.00000005680"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="WILLIAMS RIDGE DR"/>
+    <tag k="_addr_house_" v="11379"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577609" lat="34.1220109" timestamp="2011-08-24T23:12:11Z" user="" id="-259" actor="0"/>
+  <node version="0" lon="-117.5577617" lat="34.1216778" timestamp="2011-08-24T23:12:11Z" user="" id="-260" actor="0"/>
+  <node version="0" lon="-117.5578488" lat="34.1220347" timestamp="2011-08-24T23:12:11Z" user="" id="-261" actor="0"/>
+  <node version="0" lon="-117.5578453" lat="34.1220331" timestamp="2011-08-24T23:12:11Z" user="" id="-262" actor="0"/>
+  <node version="0" lon="-117.5578417" lat="34.1220315" timestamp="2011-08-24T23:12:11Z" user="" id="-263" actor="0"/>
+  <node version="0" lon="-117.5578381" lat="34.1220300" timestamp="2011-08-24T23:12:11Z" user="" id="-264" actor="0"/>
+  <node version="0" lon="-117.5578345" lat="34.1220285" timestamp="2011-08-24T23:12:11Z" user="" id="-265" actor="0"/>
+  <node version="0" lon="-117.5578309" lat="34.1220271" timestamp="2011-08-24T23:12:11Z" user="" id="-266" actor="0"/>
+  <node version="0" lon="-117.5578272" lat="34.1220257" timestamp="2011-08-24T23:12:11Z" user="" id="-267" actor="0"/>
+  <node version="0" lon="-117.5578235" lat="34.1220244" timestamp="2011-08-24T23:12:11Z" user="" id="-268" actor="0"/>
+  <node version="0" lon="-117.5578197" lat="34.1220231" timestamp="2011-08-24T23:12:11Z" user="" id="-269" actor="0"/>
+  <node version="0" lon="-117.5578160" lat="34.1220219" timestamp="2011-08-24T23:12:11Z" user="" id="-270" actor="0"/>
+  <node version="0" lon="-117.5578122" lat="34.1220208" timestamp="2011-08-24T23:12:11Z" user="" id="-271" actor="0"/>
+  <node version="0" lon="-117.5578084" lat="34.1220197" timestamp="2011-08-24T23:12:11Z" user="" id="-272" actor="0"/>
+  <node version="0" lon="-117.5578045" lat="34.1220186" timestamp="2011-08-24T23:12:11Z" user="" id="-273" actor="0"/>
+  <node version="0" lon="-117.5578007" lat="34.1220176" timestamp="2011-08-24T23:12:11Z" user="" id="-274" actor="0"/>
+  <node version="0" lon="-117.5577968" lat="34.1220167" timestamp="2011-08-24T23:12:11Z" user="" id="-275" actor="0"/>
+  <node version="0" lon="-117.5577929" lat="34.1220158" timestamp="2011-08-24T23:12:11Z" user="" id="-276" actor="0"/>
+  <node version="0" lon="-117.5577890" lat="34.1220150" timestamp="2011-08-24T23:12:11Z" user="" id="-277" actor="0"/>
+  <node version="0" lon="-117.5577850" lat="34.1220143" timestamp="2011-08-24T23:12:11Z" user="" id="-278" actor="0"/>
+  <node version="0" lon="-117.5577811" lat="34.1220136" timestamp="2011-08-24T23:12:11Z" user="" id="-279" actor="0"/>
+  <node version="0" lon="-117.5577771" lat="34.1220129" timestamp="2011-08-24T23:12:11Z" user="" id="-280" actor="0"/>
+  <node version="0" lon="-117.5577732" lat="34.1220123" timestamp="2011-08-24T23:12:11Z" user="" id="-281" actor="0"/>
+  <node version="0" lon="-117.5577692" lat="34.1220118" timestamp="2011-08-24T23:12:11Z" user="" id="-282" actor="0"/>
+  <node version="0" lon="-117.5577652" lat="34.1220113" timestamp="2011-08-24T23:12:11Z" user="" id="-283" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-284" actor="0">
+    <nd ref="-259"/>
+    <nd ref="-260"/>
+    <nd ref="-170"/>
+    <nd ref="-169"/>
+    <nd ref="-261"/>
+    <nd ref="-262"/>
+    <nd ref="-263"/>
+    <nd ref="-264"/>
+    <nd ref="-265"/>
+    <nd ref="-266"/>
+    <nd ref="-267"/>
+    <nd ref="-268"/>
+    <nd ref="-269"/>
+    <nd ref="-270"/>
+    <nd ref="-271"/>
+    <nd ref="-272"/>
+    <nd ref="-273"/>
+    <nd ref="-274"/>
+    <nd ref="-275"/>
+    <nd ref="-276"/>
+    <nd ref="-277"/>
+    <nd ref="-278"/>
+    <nd ref="-279"/>
+    <nd ref="-280"/>
+    <nd ref="-281"/>
+    <nd ref="-282"/>
+    <nd ref="-283"/>
+    <nd ref="-259"/>
+    <tag k="_NUMBER_" v="11335"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00117840860"/>
+    <tag k="_Shape_Area_" v="      0.00000007246"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11335"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5574240" lat="34.1219932" timestamp="2011-08-24T23:12:11Z" user="" id="-285" actor="0"/>
+  <node version="0" lon="-117.5574247" lat="34.1216777" timestamp="2011-08-24T23:12:11Z" user="" id="-286" actor="0"/>
+  <node version="0" lon="-117.5574772" lat="34.1216801" timestamp="2011-08-24T23:12:11Z" user="" id="-287" actor="0"/>
+  <node version="0" lon="-117.5575302" lat="34.1216826" timestamp="2011-08-24T23:12:11Z" user="" id="-288" actor="0"/>
+  <node version="0" lon="-117.5575965" lat="34.1216813" timestamp="2011-08-24T23:12:11Z" user="" id="-289" actor="0"/>
+  <node version="0" lon="-117.5575957" lat="34.1220113" timestamp="2011-08-24T23:12:11Z" user="" id="-290" actor="0"/>
+  <node version="0" lon="-117.5575873" lat="34.1220114" timestamp="2011-08-24T23:12:11Z" user="" id="-291" actor="0"/>
+  <node version="0" lon="-117.5575821" lat="34.1220114" timestamp="2011-08-24T23:12:11Z" user="" id="-292" actor="0"/>
+  <node version="0" lon="-117.5575769" lat="34.1220113" timestamp="2011-08-24T23:12:11Z" user="" id="-293" actor="0"/>
+  <node version="0" lon="-117.5575717" lat="34.1220112" timestamp="2011-08-24T23:12:11Z" user="" id="-294" actor="0"/>
+  <node version="0" lon="-117.5575665" lat="34.1220110" timestamp="2011-08-24T23:12:11Z" user="" id="-295" actor="0"/>
+  <node version="0" lon="-117.5575613" lat="34.1220107" timestamp="2011-08-24T23:12:11Z" user="" id="-296" actor="0"/>
+  <node version="0" lon="-117.5575562" lat="34.1220104" timestamp="2011-08-24T23:12:11Z" user="" id="-297" actor="0"/>
+  <node version="0" lon="-117.5575510" lat="34.1220099" timestamp="2011-08-24T23:12:11Z" user="" id="-298" actor="0"/>
+  <node version="0" lon="-117.5575459" lat="34.1220094" timestamp="2011-08-24T23:12:11Z" user="" id="-299" actor="0"/>
+  <node version="0" lon="-117.5575407" lat="34.1220089" timestamp="2011-08-24T23:12:11Z" user="" id="-300" actor="0"/>
+  <node version="0" lon="-117.5575356" lat="34.1220082" timestamp="2011-08-24T23:12:11Z" user="" id="-301" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-302" actor="0">
+    <nd ref="-285"/>
+    <nd ref="-286"/>
+    <nd ref="-287"/>
+    <nd ref="-288"/>
+    <nd ref="-289"/>
+    <nd ref="-290"/>
+    <nd ref="-291"/>
+    <nd ref="-292"/>
+    <nd ref="-293"/>
+    <nd ref="-294"/>
+    <nd ref="-295"/>
+    <nd ref="-296"/>
+    <nd ref="-297"/>
+    <nd ref="-298"/>
+    <nd ref="-299"/>
+    <nd ref="-300"/>
+    <nd ref="-301"/>
+    <nd ref="-285"/>
+    <tag k="_NUMBER_" v="11347"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00099032334"/>
+    <tag k="_Shape_Area_" v="      0.00000005554"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11347"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577569" lat="34.1220105" timestamp="2011-08-24T23:12:11Z" user="" id="-303" actor="0"/>
+  <node version="0" lon="-117.5577529" lat="34.1220102" timestamp="2011-08-24T23:12:11Z" user="" id="-304" actor="0"/>
+  <node version="0" lon="-117.5577488" lat="34.1220100" timestamp="2011-08-24T23:12:11Z" user="" id="-305" actor="0"/>
+  <node version="0" lon="-117.5577448" lat="34.1220098" timestamp="2011-08-24T23:12:11Z" user="" id="-306" actor="0"/>
+  <node version="0" lon="-117.5577408" lat="34.1220097" timestamp="2011-08-24T23:12:11Z" user="" id="-307" actor="0"/>
+  <node version="0" lon="-117.5577367" lat="34.1220096" timestamp="2011-08-24T23:12:11Z" user="" id="-308" actor="0"/>
+  <node version="0" lon="-117.5577312" lat="34.1220096" timestamp="2011-08-24T23:12:11Z" user="" id="-309" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-310" actor="0">
+    <nd ref="-289"/>
+    <nd ref="-260"/>
+    <nd ref="-259"/>
+    <nd ref="-303"/>
+    <nd ref="-304"/>
+    <nd ref="-305"/>
+    <nd ref="-306"/>
+    <nd ref="-307"/>
+    <nd ref="-308"/>
+    <nd ref="-309"/>
+    <nd ref="-290"/>
+    <nd ref="-289"/>
+    <tag k="_NUMBER_" v="11341"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00099354593"/>
+    <tag k="_Shape_Area_" v="      0.00000005465"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11341"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5572589" lat="34.1219710" timestamp="2011-08-24T23:12:11Z" user="" id="-311" actor="0"/>
+  <node version="0" lon="-117.5572596" lat="34.1216696" timestamp="2011-08-24T23:12:11Z" user="" id="-312" actor="0"/>
+  <node version="0" lon="-117.5574161" lat="34.1216778" timestamp="2011-08-24T23:12:11Z" user="" id="-313" actor="0"/>
+  <node version="0" lon="-117.5574204" lat="34.1216777" timestamp="2011-08-24T23:12:11Z" user="" id="-314" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-315" actor="0">
+    <nd ref="-311"/>
+    <nd ref="-312"/>
+    <nd ref="-313"/>
+    <nd ref="-314"/>
+    <nd ref="-286"/>
+    <nd ref="-285"/>
+    <nd ref="-311"/>
+    <tag k="_NUMBER_" v="11357"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00094885193"/>
+    <tag k="_Shape_Area_" v="      0.00000005089"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11357"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5570938" lat="34.1219488" timestamp="2011-08-24T23:12:11Z" user="" id="-316" actor="0"/>
+  <node version="0" lon="-117.5570945" lat="34.1216629" timestamp="2011-08-24T23:12:11Z" user="" id="-317" actor="0"/>
+  <node version="0" lon="-117.5571314" lat="34.1216630" timestamp="2011-08-24T23:12:11Z" user="" id="-318" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-319" actor="0">
+    <nd ref="-316"/>
+    <nd ref="-317"/>
+    <nd ref="-318"/>
+    <nd ref="-312"/>
+    <nd ref="-311"/>
+    <nd ref="-316"/>
+    <tag k="_NUMBER_" v="11361"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00091923371"/>
+    <tag k="_Shape_Area_" v="      0.00000004862"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11361"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5569287" lat="34.1219367" timestamp="2011-08-24T23:12:11Z" user="" id="-320" actor="0"/>
+  <node version="0" lon="-117.5569293" lat="34.1216627" timestamp="2011-08-24T23:12:11Z" user="" id="-321" actor="0"/>
+  <node version="0" lon="-117.5570900" lat="34.1219483" timestamp="2011-08-24T23:12:11Z" user="" id="-322" actor="0"/>
+  <node version="0" lon="-117.5570711" lat="34.1219459" timestamp="2011-08-24T23:12:11Z" user="" id="-323" actor="0"/>
+  <node version="0" lon="-117.5570523" lat="34.1219438" timestamp="2011-08-24T23:12:11Z" user="" id="-324" actor="0"/>
+  <node version="0" lon="-117.5570334" lat="34.1219419" timestamp="2011-08-24T23:12:11Z" user="" id="-325" actor="0"/>
+  <node version="0" lon="-117.5570145" lat="34.1219404" timestamp="2011-08-24T23:12:11Z" user="" id="-326" actor="0"/>
+  <node version="0" lon="-117.5569955" lat="34.1219391" timestamp="2011-08-24T23:12:11Z" user="" id="-327" actor="0"/>
+  <node version="0" lon="-117.5569765" lat="34.1219381" timestamp="2011-08-24T23:12:11Z" user="" id="-328" actor="0"/>
+  <node version="0" lon="-117.5569575" lat="34.1219373" timestamp="2011-08-24T23:12:11Z" user="" id="-329" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-330" actor="0">
+    <nd ref="-320"/>
+    <nd ref="-321"/>
+    <nd ref="-317"/>
+    <nd ref="-316"/>
+    <nd ref="-322"/>
+    <nd ref="-323"/>
+    <nd ref="-324"/>
+    <nd ref="-325"/>
+    <nd ref="-326"/>
+    <nd ref="-327"/>
+    <nd ref="-328"/>
+    <nd ref="-329"/>
+    <nd ref="-320"/>
+    <tag k="_NUMBER_" v="11371"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00089075761"/>
+    <tag k="_Shape_Area_" v="      0.00000004595"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11371"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5564272" lat="34.1216620" timestamp="2011-08-24T23:12:11Z" user="" id="-331" actor="0"/>
+  <node version="0" lon="-117.5565924" lat="34.1216623" timestamp="2011-08-24T23:12:11Z" user="" id="-332" actor="0"/>
+  <node version="0" lon="-117.5565917" lat="34.1219362" timestamp="2011-08-24T23:12:11Z" user="" id="-333" actor="0"/>
+  <node version="0" lon="-117.5564266" lat="34.1219360" timestamp="2011-08-24T23:12:11Z" user="" id="-334" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-335" actor="0">
+    <nd ref="-331"/>
+    <nd ref="-332"/>
+    <nd ref="-333"/>
+    <nd ref="-334"/>
+    <nd ref="-331"/>
+    <tag k="_NUMBER_" v="11393"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00087822376"/>
+    <tag k="_Shape_Area_" v="      0.00000004525"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11393"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5567575" lat="34.1216625" timestamp="2011-08-24T23:12:11Z" user="" id="-336" actor="0"/>
+  <node version="0" lon="-117.5567569" lat="34.1219364" timestamp="2011-08-24T23:12:11Z" user="" id="-337" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-338" actor="0">
+    <nd ref="-332"/>
+    <nd ref="-336"/>
+    <nd ref="-337"/>
+    <nd ref="-333"/>
+    <nd ref="-332"/>
+    <tag k="_NUMBER_" v="11387"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00087822475"/>
+    <tag k="_Shape_Area_" v="      0.00000004525"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11387"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5569232" lat="34.1219367" timestamp="2011-08-24T23:12:11Z" user="" id="-339" actor="0"/>
+  <node version="0" lon="-117.5569176" lat="34.1219366" timestamp="2011-08-24T23:12:11Z" user="" id="-340" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-341" actor="0">
+    <nd ref="-336"/>
+    <nd ref="-321"/>
+    <nd ref="-320"/>
+    <nd ref="-339"/>
+    <nd ref="-340"/>
+    <nd ref="-337"/>
+    <nd ref="-336"/>
+    <tag k="_NUMBER_" v="11377"/>
+    <tag k="_STREETNAME_" v="BROKEN BRANCH"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00089149593"/>
+    <tag k="_Shape_Area_" v="      0.00000004706"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="BROKEN BRANCH DR"/>
+    <tag k="_addr_house_" v="11377"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5563504" lat="34.1235031" timestamp="2011-08-24T23:12:11Z" user="" id="-342" actor="0"/>
+  <node version="0" lon="-117.5567660" lat="34.1235035" timestamp="2011-08-24T23:12:11Z" user="" id="-343" actor="0"/>
+  <node version="0" lon="-117.5567657" lat="34.1236407" timestamp="2011-08-24T23:12:11Z" user="" id="-344" actor="0"/>
+  <node version="0" lon="-117.5563636" lat="34.1236403" timestamp="2011-08-24T23:12:11Z" user="" id="-345" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-346" actor="0">
+    <nd ref="-342"/>
+    <nd ref="-343"/>
+    <nd ref="-344"/>
+    <nd ref="-345"/>
+    <nd ref="-342"/>
+    <tag k="_NUMBER_" v="7185"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00109265301"/>
+    <tag k="_Shape_Area_" v="      0.00000005608"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7185"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5569642" lat="34.1234751" timestamp="2011-08-24T23:12:11Z" user="" id="-347" actor="0"/>
+  <node version="0" lon="-117.5573616" lat="34.1234755" timestamp="2011-08-24T23:12:11Z" user="" id="-348" actor="0"/>
+  <node version="0" lon="-117.5573612" lat="34.1236182" timestamp="2011-08-24T23:12:11Z" user="" id="-349" actor="0"/>
+  <node version="0" lon="-117.5569639" lat="34.1236178" timestamp="2011-08-24T23:12:11Z" user="" id="-350" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-351" actor="0">
+    <nd ref="-347"/>
+    <nd ref="-348"/>
+    <nd ref="-349"/>
+    <nd ref="-350"/>
+    <nd ref="-347"/>
+    <tag k="_NUMBER_" v="7184"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00108011620"/>
+    <tag k="_Shape_Area_" v="      0.00000005671"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7184"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577051" lat="34.1234759" timestamp="2011-08-24T23:12:11Z" user="" id="-352" actor="0"/>
+  <node version="0" lon="-117.5577048" lat="34.1236186" timestamp="2011-08-24T23:12:11Z" user="" id="-353" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-354" actor="0">
+    <nd ref="-348"/>
+    <nd ref="-352"/>
+    <nd ref="-353"/>
+    <nd ref="-349"/>
+    <nd ref="-348"/>
+    <tag k="_NUMBER_" v="7187"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00097258721"/>
+    <tag k="_Shape_Area_" v="      0.00000004904"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7187"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5563492" lat="34.1234902" timestamp="2011-08-24T23:12:11Z" user="" id="-355" actor="0"/>
+  <node version="0" lon="-117.5563807" lat="34.1233659" timestamp="2011-08-24T23:12:11Z" user="" id="-356" actor="0"/>
+  <node version="0" lon="-117.5567663" lat="34.1233663" timestamp="2011-08-24T23:12:11Z" user="" id="-357" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-358" actor="0">
+    <nd ref="-355"/>
+    <nd ref="-356"/>
+    <nd ref="-357"/>
+    <nd ref="-343"/>
+    <nd ref="-342"/>
+    <nd ref="-355"/>
+    <tag k="_NUMBER_" v="7191"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00107956311"/>
+    <tag k="_Shape_Area_" v="      0.00000005525"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7191"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5569646" lat="34.1233323" timestamp="2011-08-24T23:12:11Z" user="" id="-359" actor="0"/>
+  <node version="0" lon="-117.5573619" lat="34.1233327" timestamp="2011-08-24T23:12:11Z" user="" id="-360" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-361" actor="0">
+    <nd ref="-359"/>
+    <nd ref="-360"/>
+    <nd ref="-348"/>
+    <nd ref="-347"/>
+    <nd ref="-359"/>
+    <tag k="_NUMBER_" v="7194"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00108014318"/>
+    <tag k="_Shape_Area_" v="      0.00000005672"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7194"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577072" lat="34.1233331" timestamp="2011-08-24T23:12:11Z" user="" id="-362" actor="0"/>
+  <node version="0" lon="-117.5577063" lat="34.1233489" timestamp="2011-08-24T23:12:11Z" user="" id="-363" actor="0"/>
+  <node version="0" lon="-117.5577057" lat="34.1233647" timestamp="2011-08-24T23:12:11Z" user="" id="-364" actor="0"/>
+  <node version="0" lon="-117.5577053" lat="34.1233852" timestamp="2011-08-24T23:12:11Z" user="" id="-365" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-366" actor="0">
+    <nd ref="-360"/>
+    <nd ref="-362"/>
+    <nd ref="-363"/>
+    <nd ref="-364"/>
+    <nd ref="-365"/>
+    <nd ref="-352"/>
+    <nd ref="-348"/>
+    <nd ref="-360"/>
+    <tag k="_NUMBER_" v="7193"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00097443855"/>
+    <tag k="_Shape_Area_" v="      0.00000004907"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7193"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5563766" lat="34.1237747" timestamp="2011-08-24T23:12:11Z" user="" id="-367" actor="0"/>
+  <node version="0" lon="-117.5567655" lat="34.1236953" timestamp="2011-08-24T23:12:11Z" user="" id="-368" actor="0"/>
+  <node version="0" lon="-117.5567657" lat="34.1237111" timestamp="2011-08-24T23:12:11Z" user="" id="-369" actor="0"/>
+  <node version="0" lon="-117.5567661" lat="34.1237269" timestamp="2011-08-24T23:12:11Z" user="" id="-370" actor="0"/>
+  <node version="0" lon="-117.5567669" lat="34.1237427" timestamp="2011-08-24T23:12:11Z" user="" id="-371" actor="0"/>
+  <node version="0" lon="-117.5567681" lat="34.1237585" timestamp="2011-08-24T23:12:11Z" user="" id="-372" actor="0"/>
+  <node version="0" lon="-117.5567699" lat="34.1237780" timestamp="2011-08-24T23:12:11Z" user="" id="-373" actor="0"/>
+  <node version="0" lon="-117.5563771" lat="34.1237776" timestamp="2011-08-24T23:12:11Z" user="" id="-374" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-375" actor="0">
+    <nd ref="-367"/>
+    <nd ref="-345"/>
+    <nd ref="-344"/>
+    <nd ref="-368"/>
+    <nd ref="-369"/>
+    <nd ref="-370"/>
+    <nd ref="-371"/>
+    <nd ref="-372"/>
+    <nd ref="-373"/>
+    <nd ref="-374"/>
+    <nd ref="-367"/>
+    <tag k="_NUMBER_" v="7177"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00107020714"/>
+    <tag k="_Shape_Area_" v="      0.00000005438"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7177"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5573609" lat="34.1237610" timestamp="2011-08-24T23:12:11Z" user="" id="-376" actor="0"/>
+  <node version="0" lon="-117.5569670" lat="34.1237605" timestamp="2011-08-24T23:12:11Z" user="" id="-377" actor="0"/>
+  <node version="0" lon="-117.5569658" lat="34.1237472" timestamp="2011-08-24T23:12:11Z" user="" id="-378" actor="0"/>
+  <node version="0" lon="-117.5569649" lat="34.1237343" timestamp="2011-08-24T23:12:11Z" user="" id="-379" actor="0"/>
+  <node version="0" lon="-117.5569642" lat="34.1237214" timestamp="2011-08-24T23:12:11Z" user="" id="-380" actor="0"/>
+  <node version="0" lon="-117.5569639" lat="34.1237084" timestamp="2011-08-24T23:12:11Z" user="" id="-381" actor="0"/>
+  <node version="0" lon="-117.5569637" lat="34.1236955" timestamp="2011-08-24T23:12:11Z" user="" id="-382" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-383" actor="0">
+    <nd ref="-350"/>
+    <nd ref="-349"/>
+    <nd ref="-376"/>
+    <nd ref="-377"/>
+    <nd ref="-378"/>
+    <nd ref="-379"/>
+    <nd ref="-380"/>
+    <nd ref="-381"/>
+    <nd ref="-382"/>
+    <nd ref="-350"/>
+    <tag k="_NUMBER_" v="7178"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00107679722"/>
+    <tag k="_Shape_Area_" v="      0.00000005664"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7178"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577046" lat="34.1237186" timestamp="2011-08-24T23:12:11Z" user="" id="-384" actor="0"/>
+  <node version="0" lon="-117.5577047" lat="34.1237344" timestamp="2011-08-24T23:12:11Z" user="" id="-385" actor="0"/>
+  <node version="0" lon="-117.5577057" lat="34.1237614" timestamp="2011-08-24T23:12:11Z" user="" id="-386" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-387" actor="0">
+    <nd ref="-349"/>
+    <nd ref="-353"/>
+    <nd ref="-384"/>
+    <nd ref="-385"/>
+    <nd ref="-386"/>
+    <nd ref="-376"/>
+    <nd ref="-349"/>
+    <tag k="_NUMBER_" v="7179"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00097383975"/>
+    <tag k="_Shape_Area_" v="      0.00000004906"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7179"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5583497" lat="34.1237364" timestamp="2011-08-24T23:12:11Z" user="" id="-388" actor="0"/>
+  <node version="0" lon="-117.5579030" lat="34.1237358" timestamp="2011-08-24T23:12:11Z" user="" id="-389" actor="0"/>
+  <node version="0" lon="-117.5579028" lat="34.1237273" timestamp="2011-08-24T23:12:11Z" user="" id="-390" actor="0"/>
+  <node version="0" lon="-117.5579028" lat="34.1237188" timestamp="2011-08-24T23:12:11Z" user="" id="-391" actor="0"/>
+  <node version="0" lon="-117.5579030" lat="34.1236097" timestamp="2011-08-24T23:12:11Z" user="" id="-392" actor="0"/>
+  <node version="0" lon="-117.5579527" lat="34.1235684" timestamp="2011-08-24T23:12:11Z" user="" id="-393" actor="0"/>
+  <node version="0" lon="-117.5582786" lat="34.1235689" timestamp="2011-08-24T23:12:11Z" user="" id="-394" actor="0"/>
+  <node version="0" lon="-117.5583511" lat="34.1236327" timestamp="2011-08-24T23:12:11Z" user="" id="-395" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-396" actor="0">
+    <nd ref="-388"/>
+    <nd ref="-389"/>
+    <nd ref="-390"/>
+    <nd ref="-391"/>
+    <nd ref="-392"/>
+    <nd ref="-393"/>
+    <nd ref="-394"/>
+    <nd ref="-395"/>
+    <nd ref="-388"/>
+    <tag k="_NUMBER_" v="7178"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00116370657"/>
+    <tag k="_Shape_Area_" v="      0.00000007165"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7178"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5565667" lat="34.1228174" timestamp="2011-08-24T23:12:11Z" user="" id="-397" actor="0"/>
+  <node version="0" lon="-117.5565903" lat="34.1228184" timestamp="2011-08-24T23:12:11Z" user="" id="-398" actor="0"/>
+  <node version="0" lon="-117.5566058" lat="34.1228194" timestamp="2011-08-24T23:12:11Z" user="" id="-399" actor="0"/>
+  <node version="0" lon="-117.5566213" lat="34.1228205" timestamp="2011-08-24T23:12:11Z" user="" id="-400" actor="0"/>
+  <node version="0" lon="-117.5566368" lat="34.1228219" timestamp="2011-08-24T23:12:11Z" user="" id="-401" actor="0"/>
+  <node version="0" lon="-117.5566522" lat="34.1228235" timestamp="2011-08-24T23:12:11Z" user="" id="-402" actor="0"/>
+  <node version="0" lon="-117.5566676" lat="34.1228254" timestamp="2011-08-24T23:12:11Z" user="" id="-403" actor="0"/>
+  <node version="0" lon="-117.5566830" lat="34.1228274" timestamp="2011-08-24T23:12:11Z" user="" id="-404" actor="0"/>
+  <node version="0" lon="-117.5566983" lat="34.1228297" timestamp="2011-08-24T23:12:11Z" user="" id="-405" actor="0"/>
+  <node version="0" lon="-117.5567136" lat="34.1228322" timestamp="2011-08-24T23:12:11Z" user="" id="-406" actor="0"/>
+  <node version="0" lon="-117.5567288" lat="34.1228350" timestamp="2011-08-24T23:12:11Z" user="" id="-407" actor="0"/>
+  <node version="0" lon="-117.5567674" lat="34.1228751" timestamp="2011-08-24T23:12:11Z" user="" id="-408" actor="0"/>
+  <node version="0" lon="-117.5567670" lat="34.1230822" timestamp="2011-08-24T23:12:11Z" user="" id="-409" actor="0"/>
+  <node version="0" lon="-117.5565661" lat="34.1230820" timestamp="2011-08-24T23:12:11Z" user="" id="-410" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-411" actor="0">
+    <nd ref="-397"/>
+    <nd ref="-398"/>
+    <nd ref="-399"/>
+    <nd ref="-400"/>
+    <nd ref="-401"/>
+    <nd ref="-402"/>
+    <nd ref="-403"/>
+    <nd ref="-404"/>
+    <nd ref="-405"/>
+    <nd ref="-406"/>
+    <nd ref="-407"/>
+    <nd ref="-408"/>
+    <nd ref="-409"/>
+    <nd ref="-410"/>
+    <nd ref="-397"/>
+    <tag k="_NUMBER_" v="11386"/>
+    <tag k="_STREETNAME_" v="WILLIAMS RIDGE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00089150114"/>
+    <tag k="_Shape_Area_" v="      0.00000005063"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="WILLIAMS RIDGE DR"/>
+    <tag k="_addr_house_" v="11386"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579163" lat="34.1232472" timestamp="2011-08-24T23:12:11Z" user="" id="-412" actor="0"/>
+  <node version="0" lon="-117.5583200" lat="34.1232477" timestamp="2011-08-24T23:12:11Z" user="" id="-413" actor="0"/>
+  <node version="0" lon="-117.5583187" lat="34.1233413" timestamp="2011-08-24T23:12:11Z" user="" id="-414" actor="0"/>
+  <node version="0" lon="-117.5582459" lat="34.1234040" timestamp="2011-08-24T23:12:11Z" user="" id="-415" actor="0"/>
+  <node version="0" lon="-117.5579538" lat="34.1234037" timestamp="2011-08-24T23:12:11Z" user="" id="-416" actor="0"/>
+  <node version="0" lon="-117.5579041" lat="34.1233612" timestamp="2011-08-24T23:12:11Z" user="" id="-417" actor="0"/>
+  <node version="0" lon="-117.5579048" lat="34.1233476" timestamp="2011-08-24T23:12:11Z" user="" id="-418" actor="0"/>
+  <node version="0" lon="-117.5579057" lat="34.1233347" timestamp="2011-08-24T23:12:11Z" user="" id="-419" actor="0"/>
+  <node version="0" lon="-117.5579070" lat="34.1233218" timestamp="2011-08-24T23:12:11Z" user="" id="-420" actor="0"/>
+  <node version="0" lon="-117.5579085" lat="34.1233089" timestamp="2011-08-24T23:12:11Z" user="" id="-421" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-422" actor="0">
+    <nd ref="-412"/>
+    <nd ref="-413"/>
+    <nd ref="-414"/>
+    <nd ref="-415"/>
+    <nd ref="-416"/>
+    <nd ref="-417"/>
+    <nd ref="-418"/>
+    <nd ref="-419"/>
+    <nd ref="-420"/>
+    <nd ref="-421"/>
+    <nd ref="-412"/>
+    <tag k="_NUMBER_" v="7200"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00106558315"/>
+    <tag k="_Shape_Area_" v="      0.00000006097"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7200"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5563924" lat="34.1232232" timestamp="2011-08-24T23:12:11Z" user="" id="-423" actor="0"/>
+  <node version="0" lon="-117.5567666" lat="34.1232235" timestamp="2011-08-24T23:12:11Z" user="" id="-424" actor="0"/>
+  <node version="0" lon="-117.5563833" lat="34.1233559" timestamp="2011-08-24T23:12:11Z" user="" id="-425" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-426" actor="0">
+    <nd ref="-423"/>
+    <nd ref="-424"/>
+    <nd ref="-357"/>
+    <nd ref="-356"/>
+    <nd ref="-425"/>
+    <nd ref="-423"/>
+    <tag k="_NUMBER_" v="7203"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00104596735"/>
+    <tag k="_Shape_Area_" v="      0.00000005411"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7203"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5569649" lat="34.1231896" timestamp="2011-08-24T23:12:11Z" user="" id="-427" actor="0"/>
+  <node version="0" lon="-117.5573622" lat="34.1231900" timestamp="2011-08-24T23:12:11Z" user="" id="-428" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-429" actor="0">
+    <nd ref="-427"/>
+    <nd ref="-428"/>
+    <nd ref="-360"/>
+    <nd ref="-359"/>
+    <nd ref="-427"/>
+    <tag k="_NUMBER_" v="7202"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00108016816"/>
+    <tag k="_Shape_Area_" v="      0.00000005672"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7202"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577242" lat="34.1231904" timestamp="2011-08-24T23:12:11Z" user="" id="-430" actor="0"/>
+  <node version="0" lon="-117.5577114" lat="34.1232918" timestamp="2011-08-24T23:12:11Z" user="" id="-431" actor="0"/>
+  <node version="0" lon="-117.5577095" lat="34.1233075" timestamp="2011-08-24T23:12:11Z" user="" id="-432" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-433" actor="0">
+    <nd ref="-428"/>
+    <nd ref="-430"/>
+    <nd ref="-431"/>
+    <nd ref="-432"/>
+    <nd ref="-362"/>
+    <nd ref="-360"/>
+    <nd ref="-428"/>
+    <tag k="_NUMBER_" v="7205"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00099386091"/>
+    <tag k="_Shape_Area_" v="      0.00000005042"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7205"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579303" lat="34.1231099" timestamp="2011-08-24T23:12:11Z" user="" id="-434" actor="0"/>
+  <node version="0" lon="-117.5583217" lat="34.1231104" timestamp="2011-08-24T23:12:11Z" user="" id="-435" actor="0"/>
+  <node version="0" lon="-117.5583215" lat="34.1231344" timestamp="2011-08-24T23:12:11Z" user="" id="-436" actor="0"/>
+  <node version="0" lon="-117.5583212" lat="34.1231582" timestamp="2011-08-24T23:12:11Z" user="" id="-437" actor="0"/>
+  <node version="0" lon="-117.5579246" lat="34.1231817" timestamp="2011-08-24T23:12:11Z" user="" id="-438" actor="0"/>
+  <node version="0" lon="-117.5579265" lat="34.1231660" timestamp="2011-08-24T23:12:11Z" user="" id="-439" actor="0"/>
+  <node version="0" lon="-117.5579280" lat="34.1231502" timestamp="2011-08-24T23:12:11Z" user="" id="-440" actor="0"/>
+  <node version="0" lon="-117.5579291" lat="34.1231345" timestamp="2011-08-24T23:12:11Z" user="" id="-441" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-442" actor="0">
+    <nd ref="-434"/>
+    <nd ref="-435"/>
+    <nd ref="-436"/>
+    <nd ref="-437"/>
+    <nd ref="-413"/>
+    <nd ref="-412"/>
+    <nd ref="-438"/>
+    <nd ref="-439"/>
+    <nd ref="-440"/>
+    <nd ref="-441"/>
+    <nd ref="-434"/>
+    <tag k="_NUMBER_" v="7206"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00107038956"/>
+    <tag k="_Shape_Area_" v="      0.00000005442"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7206"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5564020" lat="34.1230818" timestamp="2011-08-24T23:12:11Z" user="" id="-443" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-444" actor="0">
+    <nd ref="-443"/>
+    <nd ref="-410"/>
+    <nd ref="-409"/>
+    <nd ref="-424"/>
+    <nd ref="-423"/>
+    <nd ref="-443"/>
+    <tag k="_NUMBER_" v="7209"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00102222033"/>
+    <tag k="_Shape_Area_" v="      0.00000005224"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7209"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-445" actor="0">
+    <nd ref="-4"/>
+    <nd ref="-3"/>
+    <nd ref="-428"/>
+    <nd ref="-427"/>
+    <nd ref="-4"/>
+    <tag k="_NUMBER_" v="7210"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00108016916"/>
+    <tag k="_Shape_Area_" v="      0.00000005672"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7210"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577324" lat="34.1230881" timestamp="2011-08-24T23:12:11Z" user="" id="-446" actor="0"/>
+  <node version="0" lon="-117.5577319" lat="34.1231129" timestamp="2011-08-24T23:12:11Z" user="" id="-447" actor="0"/>
+  <node version="0" lon="-117.5577312" lat="34.1231259" timestamp="2011-08-24T23:12:11Z" user="" id="-448" actor="0"/>
+  <node version="0" lon="-117.5577302" lat="34.1231388" timestamp="2011-08-24T23:12:11Z" user="" id="-449" actor="0"/>
+  <node version="0" lon="-117.5577290" lat="34.1231517" timestamp="2011-08-24T23:12:11Z" user="" id="-450" actor="0"/>
+  <node version="0" lon="-117.5577275" lat="34.1231645" timestamp="2011-08-24T23:12:11Z" user="" id="-451" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-452" actor="0">
+    <nd ref="-3"/>
+    <nd ref="-18"/>
+    <nd ref="-446"/>
+    <nd ref="-447"/>
+    <nd ref="-448"/>
+    <nd ref="-449"/>
+    <nd ref="-450"/>
+    <nd ref="-451"/>
+    <nd ref="-430"/>
+    <nd ref="-428"/>
+    <nd ref="-3"/>
+    <tag k="_NUMBER_" v="7211"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00101787359"/>
+    <tag k="_Shape_Area_" v="      0.00000005252"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7211"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5583222" lat="34.1229872" timestamp="2011-08-24T23:12:11Z" user="" id="-453" actor="0"/>
+  <node version="0" lon="-117.5583221" lat="34.1230491" timestamp="2011-08-24T23:12:11Z" user="" id="-454" actor="0"/>
+  <node version="0" lon="-117.5579305" lat="34.1230992" timestamp="2011-08-24T23:12:11Z" user="" id="-455" actor="0"/>
+  <node version="0" lon="-117.5579306" lat="34.1230884" timestamp="2011-08-24T23:12:11Z" user="" id="-456" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-457" actor="0">
+    <nd ref="-23"/>
+    <nd ref="-22"/>
+    <nd ref="-453"/>
+    <nd ref="-454"/>
+    <nd ref="-435"/>
+    <nd ref="-434"/>
+    <nd ref="-455"/>
+    <nd ref="-456"/>
+    <nd ref="-23"/>
+    <tag k="_NUMBER_" v="7216"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00105724174"/>
+    <tag k="_Shape_Area_" v="      0.00000005372"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7216"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5563878" lat="34.1230815" timestamp="2011-08-24T23:12:11Z" user="" id="-458" actor="0"/>
+  <node version="0" lon="-117.5563884" lat="34.1228167" timestamp="2011-08-24T23:12:11Z" user="" id="-459" actor="0"/>
+  <node version="0" lon="-117.5565340" lat="34.1228169" timestamp="2011-08-24T23:12:11Z" user="" id="-460" actor="0"/>
+  <node version="0" lon="-117.5565511" lat="34.1228170" timestamp="2011-08-24T23:12:11Z" user="" id="-461" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-462" actor="0">
+    <nd ref="-458"/>
+    <nd ref="-459"/>
+    <nd ref="-460"/>
+    <nd ref="-461"/>
+    <nd ref="-397"/>
+    <nd ref="-410"/>
+    <nd ref="-443"/>
+    <nd ref="-458"/>
+    <tag k="_NUMBER_" v="11394"/>
+    <tag k="_STREETNAME_" v="WILLIAMS RIDGE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00088600080"/>
+    <tag k="_Shape_Area_" v="      0.00000004726"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="WILLIAMS RIDGE DR"/>
+    <tag k="_addr_house_" v="11394"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5570193" lat="34.1244744" timestamp="2011-08-24T23:12:11Z" user="" id="-463" actor="0"/>
+  <node version="0" lon="-117.5573974" lat="34.1244749" timestamp="2011-08-24T23:12:11Z" user="" id="-464" actor="0"/>
+  <node version="0" lon="-117.5573970" lat="34.1246456" timestamp="2011-08-24T23:12:11Z" user="" id="-465" actor="0"/>
+  <node version="0" lon="-117.5570684" lat="34.1246452" timestamp="2011-08-24T23:12:11Z" user="" id="-466" actor="0"/>
+  <node version="0" lon="-117.5570190" lat="34.1246040" timestamp="2011-08-24T23:12:11Z" user="" id="-467" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-468" actor="0">
+    <nd ref="-463"/>
+    <nd ref="-464"/>
+    <nd ref="-465"/>
+    <nd ref="-466"/>
+    <nd ref="-467"/>
+    <nd ref="-463"/>
+    <tag k="_NUMBER_" v="7130"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00107133581"/>
+    <tag k="_Shape_Area_" v="      0.00000006354"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7130"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577442" lat="34.1244753" timestamp="2011-08-24T23:12:11Z" user="" id="-469" actor="0"/>
+  <node version="0" lon="-117.5577439" lat="34.1246049" timestamp="2011-08-24T23:12:11Z" user="" id="-470" actor="0"/>
+  <node version="0" lon="-117.5576943" lat="34.1246460" timestamp="2011-08-24T23:12:11Z" user="" id="-471" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-472" actor="0">
+    <nd ref="-464"/>
+    <nd ref="-469"/>
+    <nd ref="-470"/>
+    <nd ref="-471"/>
+    <nd ref="-465"/>
+    <nd ref="-464"/>
+    <tag k="_NUMBER_" v="7131"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00100899663"/>
+    <tag k="_Shape_Area_" v="      0.00000005821"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7131"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5563940" lat="34.1245962" timestamp="2011-08-24T23:12:11Z" user="" id="-473" actor="0"/>
+  <node version="0" lon="-117.5563987" lat="34.1244694" timestamp="2011-08-24T23:12:11Z" user="" id="-474" actor="0"/>
+  <node version="0" lon="-117.5568202" lat="34.1244699" timestamp="2011-08-24T23:12:11Z" user="" id="-475" actor="0"/>
+  <node version="0" lon="-117.5568194" lat="34.1244765" timestamp="2011-08-24T23:12:11Z" user="" id="-476" actor="0"/>
+  <node version="0" lon="-117.5568188" lat="34.1244808" timestamp="2011-08-24T23:12:11Z" user="" id="-477" actor="0"/>
+  <node version="0" lon="-117.5568181" lat="34.1244851" timestamp="2011-08-24T23:12:11Z" user="" id="-478" actor="0"/>
+  <node version="0" lon="-117.5568174" lat="34.1244894" timestamp="2011-08-24T23:12:11Z" user="" id="-479" actor="0"/>
+  <node version="0" lon="-117.5568165" lat="34.1244936" timestamp="2011-08-24T23:12:11Z" user="" id="-480" actor="0"/>
+  <node version="0" lon="-117.5567921" lat="34.1246072" timestamp="2011-08-24T23:12:11Z" user="" id="-481" actor="0"/>
+  <node version="0" lon="-117.5563937" lat="34.1246067" timestamp="2011-08-24T23:12:11Z" user="" id="-482" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-483" actor="0">
+    <nd ref="-473"/>
+    <nd ref="-474"/>
+    <nd ref="-475"/>
+    <nd ref="-476"/>
+    <nd ref="-477"/>
+    <nd ref="-478"/>
+    <nd ref="-479"/>
+    <nd ref="-480"/>
+    <nd ref="-481"/>
+    <nd ref="-482"/>
+    <nd ref="-473"/>
+    <tag k="_NUMBER_" v="7131"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00109752572"/>
+    <tag k="_Shape_Area_" v="      0.00000005638"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7131"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579426" lat="34.1244279" timestamp="2011-08-24T23:12:11Z" user="" id="-484" actor="0"/>
+  <node version="0" lon="-117.5583416" lat="34.1244284" timestamp="2011-08-24T23:12:11Z" user="" id="-485" actor="0"/>
+  <node version="0" lon="-117.5583418" lat="34.1245658" timestamp="2011-08-24T23:12:11Z" user="" id="-486" actor="0"/>
+  <node version="0" lon="-117.5579616" lat="34.1245652" timestamp="2011-08-24T23:12:11Z" user="" id="-487" actor="0"/>
+  <node version="0" lon="-117.5579469" lat="34.1244951" timestamp="2011-08-24T23:12:11Z" user="" id="-488" actor="0"/>
+  <node version="0" lon="-117.5579461" lat="34.1244908" timestamp="2011-08-24T23:12:11Z" user="" id="-489" actor="0"/>
+  <node version="0" lon="-117.5579453" lat="34.1244866" timestamp="2011-08-24T23:12:11Z" user="" id="-490" actor="0"/>
+  <node version="0" lon="-117.5579447" lat="34.1244823" timestamp="2011-08-24T23:12:11Z" user="" id="-491" actor="0"/>
+  <node version="0" lon="-117.5579441" lat="34.1244780" timestamp="2011-08-24T23:12:11Z" user="" id="-492" actor="0"/>
+  <node version="0" lon="-117.5579436" lat="34.1244737" timestamp="2011-08-24T23:12:11Z" user="" id="-493" actor="0"/>
+  <node version="0" lon="-117.5579432" lat="34.1244694" timestamp="2011-08-24T23:12:11Z" user="" id="-494" actor="0"/>
+  <node version="0" lon="-117.5579429" lat="34.1244651" timestamp="2011-08-24T23:12:11Z" user="" id="-495" actor="0"/>
+  <node version="0" lon="-117.5579427" lat="34.1244608" timestamp="2011-08-24T23:12:11Z" user="" id="-496" actor="0"/>
+  <node version="0" lon="-117.5579425" lat="34.1244565" timestamp="2011-08-24T23:12:11Z" user="" id="-497" actor="0"/>
+  <node version="0" lon="-117.5579425" lat="34.1244522" timestamp="2011-08-24T23:12:11Z" user="" id="-498" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-499" actor="0">
+    <nd ref="-484"/>
+    <nd ref="-485"/>
+    <nd ref="-486"/>
+    <nd ref="-487"/>
+    <nd ref="-488"/>
+    <nd ref="-489"/>
+    <nd ref="-490"/>
+    <nd ref="-491"/>
+    <nd ref="-492"/>
+    <nd ref="-493"/>
+    <nd ref="-494"/>
+    <nd ref="-495"/>
+    <nd ref="-496"/>
+    <nd ref="-497"/>
+    <nd ref="-498"/>
+    <nd ref="-484"/>
+    <tag k="_NUMBER_" v="7134"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00105571613"/>
+    <tag k="_Shape_Area_" v="      0.00000005393"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7134"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5563878" lat="34.1247664" timestamp="2011-08-24T23:12:11Z" user="" id="-500" actor="0"/>
+  <node version="0" lon="-117.5567912" lat="34.1246115" timestamp="2011-08-24T23:12:11Z" user="" id="-501" actor="0"/>
+  <node version="0" lon="-117.5567905" lat="34.1246148" timestamp="2011-08-24T23:12:11Z" user="" id="-502" actor="0"/>
+  <node version="0" lon="-117.5567899" lat="34.1246181" timestamp="2011-08-24T23:12:11Z" user="" id="-503" actor="0"/>
+  <node version="0" lon="-117.5567894" lat="34.1246214" timestamp="2011-08-24T23:12:11Z" user="" id="-504" actor="0"/>
+  <node version="0" lon="-117.5567889" lat="34.1246248" timestamp="2011-08-24T23:12:11Z" user="" id="-505" actor="0"/>
+  <node version="0" lon="-117.5567885" lat="34.1246281" timestamp="2011-08-24T23:12:11Z" user="" id="-506" actor="0"/>
+  <node version="0" lon="-117.5567882" lat="34.1246315" timestamp="2011-08-24T23:12:11Z" user="" id="-507" actor="0"/>
+  <node version="0" lon="-117.5567880" lat="34.1246348" timestamp="2011-08-24T23:12:11Z" user="" id="-508" actor="0"/>
+  <node version="0" lon="-117.5567878" lat="34.1246382" timestamp="2011-08-24T23:12:11Z" user="" id="-509" actor="0"/>
+  <node version="0" lon="-117.5567877" lat="34.1246415" timestamp="2011-08-24T23:12:11Z" user="" id="-510" actor="0"/>
+  <node version="0" lon="-117.5567876" lat="34.1246449" timestamp="2011-08-24T23:12:11Z" user="" id="-511" actor="0"/>
+  <node version="0" lon="-117.5567876" lat="34.1246482" timestamp="2011-08-24T23:12:11Z" user="" id="-512" actor="0"/>
+  <node version="0" lon="-117.5567877" lat="34.1246516" timestamp="2011-08-24T23:12:11Z" user="" id="-513" actor="0"/>
+  <node version="0" lon="-117.5567879" lat="34.1246549" timestamp="2011-08-24T23:12:11Z" user="" id="-514" actor="0"/>
+  <node version="0" lon="-117.5567881" lat="34.1246583" timestamp="2011-08-24T23:12:11Z" user="" id="-515" actor="0"/>
+  <node version="0" lon="-117.5567885" lat="34.1246616" timestamp="2011-08-24T23:12:11Z" user="" id="-516" actor="0"/>
+  <node version="0" lon="-117.5567888" lat="34.1246650" timestamp="2011-08-24T23:12:11Z" user="" id="-517" actor="0"/>
+  <node version="0" lon="-117.5567893" lat="34.1246683" timestamp="2011-08-24T23:12:11Z" user="" id="-518" actor="0"/>
+  <node version="0" lon="-117.5567898" lat="34.1246716" timestamp="2011-08-24T23:12:11Z" user="" id="-519" actor="0"/>
+  <node version="0" lon="-117.5567904" lat="34.1246750" timestamp="2011-08-24T23:12:11Z" user="" id="-520" actor="0"/>
+  <node version="0" lon="-117.5567911" lat="34.1246783" timestamp="2011-08-24T23:12:11Z" user="" id="-521" actor="0"/>
+  <node version="0" lon="-117.5567918" lat="34.1246816" timestamp="2011-08-24T23:12:11Z" user="" id="-522" actor="0"/>
+  <node version="0" lon="-117.5567926" lat="34.1246849" timestamp="2011-08-24T23:12:11Z" user="" id="-523" actor="0"/>
+  <node version="0" lon="-117.5567936" lat="34.1246888" timestamp="2011-08-24T23:12:11Z" user="" id="-524" actor="0"/>
+  <node version="0" lon="-117.5565900" lat="34.1247855" timestamp="2011-08-24T23:12:11Z" user="" id="-525" actor="0"/>
+  <node version="0" lon="-117.5563871" lat="34.1247852" timestamp="2011-08-24T23:12:11Z" user="" id="-526" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-527" actor="0">
+    <nd ref="-500"/>
+    <nd ref="-482"/>
+    <nd ref="-481"/>
+    <nd ref="-501"/>
+    <nd ref="-502"/>
+    <nd ref="-503"/>
+    <nd ref="-504"/>
+    <nd ref="-505"/>
+    <nd ref="-506"/>
+    <nd ref="-507"/>
+    <nd ref="-508"/>
+    <nd ref="-509"/>
+    <nd ref="-510"/>
+    <nd ref="-511"/>
+    <nd ref="-512"/>
+    <nd ref="-513"/>
+    <nd ref="-514"/>
+    <nd ref="-515"/>
+    <nd ref="-516"/>
+    <nd ref="-517"/>
+    <nd ref="-518"/>
+    <nd ref="-519"/>
+    <nd ref="-520"/>
+    <nd ref="-521"/>
+    <nd ref="-522"/>
+    <nd ref="-523"/>
+    <nd ref="-524"/>
+    <nd ref="-525"/>
+    <nd ref="-526"/>
+    <nd ref="-500"/>
+    <tag k="_NUMBER_" v="7125"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00108802992"/>
+    <tag k="_Shape_Area_" v="      0.00000006179"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7125"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579708" lat="34.1246827" timestamp="2011-08-24T23:12:11Z" user="" id="-528" actor="0"/>
+  <node version="0" lon="-117.5579716" lat="34.1246794" timestamp="2011-08-24T23:12:11Z" user="" id="-529" actor="0"/>
+  <node version="0" lon="-117.5579722" lat="34.1246761" timestamp="2011-08-24T23:12:11Z" user="" id="-530" actor="0"/>
+  <node version="0" lon="-117.5579728" lat="34.1246728" timestamp="2011-08-24T23:12:11Z" user="" id="-531" actor="0"/>
+  <node version="0" lon="-117.5579734" lat="34.1246695" timestamp="2011-08-24T23:12:11Z" user="" id="-532" actor="0"/>
+  <node version="0" lon="-117.5579738" lat="34.1246662" timestamp="2011-08-24T23:12:11Z" user="" id="-533" actor="0"/>
+  <node version="0" lon="-117.5579742" lat="34.1246628" timestamp="2011-08-24T23:12:11Z" user="" id="-534" actor="0"/>
+  <node version="0" lon="-117.5579745" lat="34.1246595" timestamp="2011-08-24T23:12:11Z" user="" id="-535" actor="0"/>
+  <node version="0" lon="-117.5579748" lat="34.1246561" timestamp="2011-08-24T23:12:11Z" user="" id="-536" actor="0"/>
+  <node version="0" lon="-117.5579750" lat="34.1246528" timestamp="2011-08-24T23:12:11Z" user="" id="-537" actor="0"/>
+  <node version="0" lon="-117.5579751" lat="34.1246494" timestamp="2011-08-24T23:12:11Z" user="" id="-538" actor="0"/>
+  <node version="0" lon="-117.5579751" lat="34.1246461" timestamp="2011-08-24T23:12:11Z" user="" id="-539" actor="0"/>
+  <node version="0" lon="-117.5579751" lat="34.1246427" timestamp="2011-08-24T23:12:11Z" user="" id="-540" actor="0"/>
+  <node version="0" lon="-117.5579750" lat="34.1246393" timestamp="2011-08-24T23:12:11Z" user="" id="-541" actor="0"/>
+  <node version="0" lon="-117.5579748" lat="34.1246360" timestamp="2011-08-24T23:12:11Z" user="" id="-542" actor="0"/>
+  <node version="0" lon="-117.5579745" lat="34.1246326" timestamp="2011-08-24T23:12:11Z" user="" id="-543" actor="0"/>
+  <node version="0" lon="-117.5579742" lat="34.1246293" timestamp="2011-08-24T23:12:11Z" user="" id="-544" actor="0"/>
+  <node version="0" lon="-117.5579738" lat="34.1246260" timestamp="2011-08-24T23:12:11Z" user="" id="-545" actor="0"/>
+  <node version="0" lon="-117.5579734" lat="34.1246226" timestamp="2011-08-24T23:12:11Z" user="" id="-546" actor="0"/>
+  <node version="0" lon="-117.5579728" lat="34.1246193" timestamp="2011-08-24T23:12:11Z" user="" id="-547" actor="0"/>
+  <node version="0" lon="-117.5579717" lat="34.1246130" timestamp="2011-08-24T23:12:11Z" user="" id="-548" actor="0"/>
+  <node version="0" lon="-117.5583422" lat="34.1247840" timestamp="2011-08-24T23:12:11Z" user="" id="-549" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-550" actor="0">
+    <nd ref="-528"/>
+    <nd ref="-529"/>
+    <nd ref="-530"/>
+    <nd ref="-531"/>
+    <nd ref="-532"/>
+    <nd ref="-533"/>
+    <nd ref="-534"/>
+    <nd ref="-535"/>
+    <nd ref="-536"/>
+    <nd ref="-537"/>
+    <nd ref="-538"/>
+    <nd ref="-539"/>
+    <nd ref="-540"/>
+    <nd ref="-541"/>
+    <nd ref="-542"/>
+    <nd ref="-543"/>
+    <nd ref="-544"/>
+    <nd ref="-545"/>
+    <nd ref="-546"/>
+    <nd ref="-547"/>
+    <nd ref="-548"/>
+    <nd ref="-487"/>
+    <nd ref="-486"/>
+    <nd ref="-549"/>
+    <nd ref="-528"/>
+    <tag k="_NUMBER_" v="7126"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00110247129"/>
+    <tag k="_Shape_Area_" v="      0.00000006230"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7126"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5570196" lat="34.1243316" timestamp="2011-08-24T23:12:11Z" user="" id="-551" actor="0"/>
+  <node version="0" lon="-117.5573977" lat="34.1243321" timestamp="2011-08-24T23:12:11Z" user="" id="-552" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-553" actor="0">
+    <nd ref="-551"/>
+    <nd ref="-552"/>
+    <nd ref="-464"/>
+    <nd ref="-463"/>
+    <nd ref="-551"/>
+    <tag k="_NUMBER_" v="7138"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00104178038"/>
+    <tag k="_Shape_Area_" v="      0.00000005399"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7138"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577446" lat="34.1243325" timestamp="2011-08-24T23:12:11Z" user="" id="-554" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-555" actor="0">
+    <nd ref="-552"/>
+    <nd ref="-554"/>
+    <nd ref="-469"/>
+    <nd ref="-464"/>
+    <nd ref="-552"/>
+    <tag k="_NUMBER_" v="7141"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00097937140"/>
+    <tag k="_Shape_Area_" v="      0.00000004954"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7141"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579429" lat="34.1242905" timestamp="2011-08-24T23:12:11Z" user="" id="-556" actor="0"/>
+  <node version="0" lon="-117.5583422" lat="34.1242911" timestamp="2011-08-24T23:12:11Z" user="" id="-557" actor="0"/>
+  <node version="0" lon="-117.5583417" lat="34.1243594" timestamp="2011-08-24T23:12:11Z" user="" id="-558" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-559" actor="0">
+    <nd ref="-556"/>
+    <nd ref="-557"/>
+    <nd ref="-558"/>
+    <nd ref="-485"/>
+    <nd ref="-484"/>
+    <nd ref="-556"/>
+    <tag k="_NUMBER_" v="7140"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00107302028"/>
+    <tag k="_Shape_Area_" v="      0.00000005480"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7140"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5564064" lat="34.1242627" timestamp="2011-08-24T23:12:11Z" user="" id="-560" actor="0"/>
+  <node version="0" lon="-117.5564089" lat="34.1241948" timestamp="2011-08-24T23:12:11Z" user="" id="-561" actor="0"/>
+  <node version="0" lon="-117.5568217" lat="34.1241953" timestamp="2011-08-24T23:12:11Z" user="" id="-562" actor="0"/>
+  <node version="0" lon="-117.5568214" lat="34.1243326" timestamp="2011-08-24T23:12:11Z" user="" id="-563" actor="0"/>
+  <node version="0" lon="-117.5564038" lat="34.1243321" timestamp="2011-08-24T23:12:11Z" user="" id="-564" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-565" actor="0">
+    <nd ref="-560"/>
+    <nd ref="-561"/>
+    <nd ref="-562"/>
+    <nd ref="-563"/>
+    <nd ref="-564"/>
+    <nd ref="-560"/>
+    <tag k="_NUMBER_" v="7145"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00110510347"/>
+    <tag k="_Shape_Area_" v="      0.00000005700"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7145"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5570199" lat="34.1241888" timestamp="2011-08-24T23:12:11Z" user="" id="-566" actor="0"/>
+  <node version="0" lon="-117.5573980" lat="34.1241893" timestamp="2011-08-24T23:12:11Z" user="" id="-567" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-568" actor="0">
+    <nd ref="-566"/>
+    <nd ref="-567"/>
+    <nd ref="-552"/>
+    <nd ref="-551"/>
+    <nd ref="-566"/>
+    <tag k="_NUMBER_" v="7146"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00104174035"/>
+    <tag k="_Shape_Area_" v="      0.00000005398"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7146"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577449" lat="34.1241897" timestamp="2011-08-24T23:12:11Z" user="" id="-569" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-570" actor="0">
+    <nd ref="-567"/>
+    <nd ref="-569"/>
+    <nd ref="-554"/>
+    <nd ref="-552"/>
+    <nd ref="-567"/>
+    <tag k="_NUMBER_" v="7147"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00097933036"/>
+    <tag k="_Shape_Area_" v="      0.00000004953"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7147"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579432" lat="34.1241477" timestamp="2011-08-24T23:12:11Z" user="" id="-571" actor="0"/>
+  <node version="0" lon="-117.5583441" lat="34.1241483" timestamp="2011-08-24T23:12:11Z" user="" id="-572" actor="0"/>
+  <node version="0" lon="-117.5583426" lat="34.1242568" timestamp="2011-08-24T23:12:11Z" user="" id="-573" actor="0"/>
+  <node version="0" lon="-117.5583424" lat="34.1242738" timestamp="2011-08-24T23:12:11Z" user="" id="-574" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-575" actor="0">
+    <nd ref="-571"/>
+    <nd ref="-572"/>
+    <nd ref="-573"/>
+    <nd ref="-574"/>
+    <nd ref="-557"/>
+    <nd ref="-556"/>
+    <nd ref="-571"/>
+    <tag k="_NUMBER_" v="7150"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00108586768"/>
+    <tag k="_Shape_Area_" v="      0.00000005714"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7150"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5564125" lat="34.1240954" timestamp="2011-08-24T23:12:11Z" user="" id="-576" actor="0"/>
+  <node version="0" lon="-117.5564105" lat="34.1240576" timestamp="2011-08-24T23:12:11Z" user="" id="-577" actor="0"/>
+  <node version="0" lon="-117.5568118" lat="34.1240580" timestamp="2011-08-24T23:12:11Z" user="" id="-578" actor="0"/>
+  <node version="0" lon="-117.5568147" lat="34.1240770" timestamp="2011-08-24T23:12:11Z" user="" id="-579" actor="0"/>
+  <node version="0" lon="-117.5568171" lat="34.1240940" timestamp="2011-08-24T23:12:11Z" user="" id="-580" actor="0"/>
+  <node version="0" lon="-117.5568185" lat="34.1241069" timestamp="2011-08-24T23:12:11Z" user="" id="-581" actor="0"/>
+  <node version="0" lon="-117.5568197" lat="34.1241198" timestamp="2011-08-24T23:12:11Z" user="" id="-582" actor="0"/>
+  <node version="0" lon="-117.5568207" lat="34.1241327" timestamp="2011-08-24T23:12:11Z" user="" id="-583" actor="0"/>
+  <node version="0" lon="-117.5568213" lat="34.1241457" timestamp="2011-08-24T23:12:11Z" user="" id="-584" actor="0"/>
+  <node version="0" lon="-117.5568217" lat="34.1241586" timestamp="2011-08-24T23:12:11Z" user="" id="-585" actor="0"/>
+  <node version="0" lon="-117.5568218" lat="34.1241715" timestamp="2011-08-24T23:12:11Z" user="" id="-586" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-587" actor="0">
+    <nd ref="-576"/>
+    <nd ref="-577"/>
+    <nd ref="-578"/>
+    <nd ref="-579"/>
+    <nd ref="-580"/>
+    <nd ref="-581"/>
+    <nd ref="-582"/>
+    <nd ref="-583"/>
+    <nd ref="-584"/>
+    <nd ref="-585"/>
+    <nd ref="-586"/>
+    <nd ref="-562"/>
+    <nd ref="-561"/>
+    <nd ref="-576"/>
+    <tag k="_NUMBER_" v="7155"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00108938811"/>
+    <tag k="_Shape_Area_" v="      0.00000005601"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7155"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5570098" lat="34.1240461" timestamp="2011-08-24T23:12:11Z" user="" id="-588" actor="0"/>
+  <node version="0" lon="-117.5573984" lat="34.1240465" timestamp="2011-08-24T23:12:11Z" user="" id="-589" actor="0"/>
+  <node version="0" lon="-117.5570200" lat="34.1241718" timestamp="2011-08-24T23:12:11Z" user="" id="-590" actor="0"/>
+  <node version="0" lon="-117.5570199" lat="34.1241559" timestamp="2011-08-24T23:12:11Z" user="" id="-591" actor="0"/>
+  <node version="0" lon="-117.5570194" lat="34.1241401" timestamp="2011-08-24T23:12:11Z" user="" id="-592" actor="0"/>
+  <node version="0" lon="-117.5570186" lat="34.1241243" timestamp="2011-08-24T23:12:11Z" user="" id="-593" actor="0"/>
+  <node version="0" lon="-117.5570175" lat="34.1241086" timestamp="2011-08-24T23:12:11Z" user="" id="-594" actor="0"/>
+  <node version="0" lon="-117.5570160" lat="34.1240928" timestamp="2011-08-24T23:12:11Z" user="" id="-595" actor="0"/>
+  <node version="0" lon="-117.5570142" lat="34.1240770" timestamp="2011-08-24T23:12:11Z" user="" id="-596" actor="0"/>
+  <node version="0" lon="-117.5570114" lat="34.1240562" timestamp="2011-08-24T23:12:11Z" user="" id="-597" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-598" actor="0">
+    <nd ref="-588"/>
+    <nd ref="-589"/>
+    <nd ref="-567"/>
+    <nd ref="-566"/>
+    <nd ref="-590"/>
+    <nd ref="-591"/>
+    <nd ref="-592"/>
+    <nd ref="-593"/>
+    <nd ref="-594"/>
+    <nd ref="-595"/>
+    <nd ref="-596"/>
+    <nd ref="-597"/>
+    <nd ref="-588"/>
+    <tag k="_NUMBER_" v="7152"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00105271410"/>
+    <tag k="_Shape_Area_" v="      0.00000005442"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7152"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577418" lat="34.1240470" timestamp="2011-08-24T23:12:11Z" user="" id="-599" actor="0"/>
+  <node version="0" lon="-117.5577430" lat="34.1240607" timestamp="2011-08-24T23:12:11Z" user="" id="-600" actor="0"/>
+  <node version="0" lon="-117.5577439" lat="34.1240736" timestamp="2011-08-24T23:12:11Z" user="" id="-601" actor="0"/>
+  <node version="0" lon="-117.5577446" lat="34.1240865" timestamp="2011-08-24T23:12:11Z" user="" id="-602" actor="0"/>
+  <node version="0" lon="-117.5577450" lat="34.1240995" timestamp="2011-08-24T23:12:11Z" user="" id="-603" actor="0"/>
+  <node version="0" lon="-117.5577451" lat="34.1241124" timestamp="2011-08-24T23:12:11Z" user="" id="-604" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-605" actor="0">
+    <nd ref="-589"/>
+    <nd ref="-599"/>
+    <nd ref="-600"/>
+    <nd ref="-601"/>
+    <nd ref="-602"/>
+    <nd ref="-603"/>
+    <nd ref="-604"/>
+    <nd ref="-569"/>
+    <nd ref="-567"/>
+    <nd ref="-589"/>
+    <tag k="_NUMBER_" v="7157"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00097590744"/>
+    <tag k="_Shape_Area_" v="      0.00000004944"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7157"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5564003" lat="34.1244274" timestamp="2011-08-24T23:12:11Z" user="" id="-606" actor="0"/>
+  <node version="0" lon="-117.5568211" lat="34.1244507" timestamp="2011-08-24T23:12:11Z" user="" id="-607" actor="0"/>
+  <node version="0" lon="-117.5568210" lat="34.1244570" timestamp="2011-08-24T23:12:11Z" user="" id="-608" actor="0"/>
+  <node version="0" lon="-117.5568208" lat="34.1244613" timestamp="2011-08-24T23:12:11Z" user="" id="-609" actor="0"/>
+  <node version="0" lon="-117.5568205" lat="34.1244656" timestamp="2011-08-24T23:12:11Z" user="" id="-610" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-611" actor="0">
+    <nd ref="-606"/>
+    <nd ref="-564"/>
+    <nd ref="-563"/>
+    <nd ref="-607"/>
+    <nd ref="-608"/>
+    <nd ref="-609"/>
+    <nd ref="-610"/>
+    <nd ref="-475"/>
+    <nd ref="-474"/>
+    <nd ref="-606"/>
+    <tag k="_NUMBER_" v="7141"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00111378712"/>
+    <tag k="_Shape_Area_" v="      0.00000005766"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7141"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5566285" lat="34.1226518" timestamp="2011-08-24T23:12:11Z" user="" id="-612" actor="0"/>
+  <node version="0" lon="-117.5568062" lat="34.1226535" timestamp="2011-08-24T23:12:11Z" user="" id="-613" actor="0"/>
+  <node version="0" lon="-117.5568022" lat="34.1226530" timestamp="2011-08-24T23:12:11Z" user="" id="-614" actor="0"/>
+  <node version="0" lon="-117.5567982" lat="34.1226525" timestamp="2011-08-24T23:12:11Z" user="" id="-615" actor="0"/>
+  <node version="0" lon="-117.5567942" lat="34.1226521" timestamp="2011-08-24T23:12:11Z" user="" id="-616" actor="0"/>
+  <node version="0" lon="-117.5567902" lat="34.1226517" timestamp="2011-08-24T23:12:11Z" user="" id="-617" actor="0"/>
+  <node version="0" lon="-117.5567862" lat="34.1226514" timestamp="2011-08-24T23:12:11Z" user="" id="-618" actor="0"/>
+  <node version="0" lon="-117.5567821" lat="34.1226512" timestamp="2011-08-24T23:12:11Z" user="" id="-619" actor="0"/>
+  <node version="0" lon="-117.5567781" lat="34.1226510" timestamp="2011-08-24T23:12:11Z" user="" id="-620" actor="0"/>
+  <node version="0" lon="-117.5567741" lat="34.1226509" timestamp="2011-08-24T23:12:11Z" user="" id="-621" actor="0"/>
+  <node version="0" lon="-117.5567700" lat="34.1226508" timestamp="2011-08-24T23:12:11Z" user="" id="-622" actor="0"/>
+  <node version="0" lon="-117.5567656" lat="34.1226508" timestamp="2011-08-24T23:12:11Z" user="" id="-623" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-624" actor="0">
+    <nd ref="-612"/>
+    <nd ref="-100"/>
+    <nd ref="-99"/>
+    <nd ref="-104"/>
+    <nd ref="-235"/>
+    <nd ref="-613"/>
+    <nd ref="-614"/>
+    <nd ref="-615"/>
+    <nd ref="-616"/>
+    <nd ref="-617"/>
+    <nd ref="-618"/>
+    <nd ref="-619"/>
+    <nd ref="-620"/>
+    <nd ref="-621"/>
+    <nd ref="-622"/>
+    <nd ref="-623"/>
+    <nd ref="-612"/>
+    <tag k="_NUMBER_" v="11383"/>
+    <tag k="_STREETNAME_" v="WILLIAMS RIDGE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00087336826"/>
+    <tag k="_Shape_Area_" v="      0.00000004604"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="WILLIAMS RIDGE DR"/>
+    <tag k="_addr_house_" v="11383"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5562247" lat="34.1223974" timestamp="2011-08-24T23:12:11Z" user="" id="-625" actor="0"/>
+  <node version="0" lon="-117.5564468" lat="34.1226520" timestamp="2011-08-24T23:12:11Z" user="" id="-626" actor="0"/>
+  <node version="0" lon="-117.5563048" lat="34.1226518" timestamp="2011-08-24T23:12:11Z" user="" id="-627" actor="0"/>
+  <node version="0" lon="-117.5562553" lat="34.1226107" timestamp="2011-08-24T23:12:11Z" user="" id="-628" actor="0"/>
+  <node version="0" lon="-117.5562552" lat="34.1225949" timestamp="2011-08-24T23:12:11Z" user="" id="-629" actor="0"/>
+  <node version="0" lon="-117.5562547" lat="34.1225791" timestamp="2011-08-24T23:12:11Z" user="" id="-630" actor="0"/>
+  <node version="0" lon="-117.5562538" lat="34.1225633" timestamp="2011-08-24T23:12:11Z" user="" id="-631" actor="0"/>
+  <node version="0" lon="-117.5562527" lat="34.1225475" timestamp="2011-08-24T23:12:11Z" user="" id="-632" actor="0"/>
+  <node version="0" lon="-117.5562512" lat="34.1225317" timestamp="2011-08-24T23:12:11Z" user="" id="-633" actor="0"/>
+  <node version="0" lon="-117.5562493" lat="34.1225159" timestamp="2011-08-24T23:12:11Z" user="" id="-634" actor="0"/>
+  <node version="0" lon="-117.5562472" lat="34.1225002" timestamp="2011-08-24T23:12:11Z" user="" id="-635" actor="0"/>
+  <node version="0" lon="-117.5562447" lat="34.1224845" timestamp="2011-08-24T23:12:11Z" user="" id="-636" actor="0"/>
+  <node version="0" lon="-117.5562419" lat="34.1224689" timestamp="2011-08-24T23:12:11Z" user="" id="-637" actor="0"/>
+  <node version="0" lon="-117.5562387" lat="34.1224533" timestamp="2011-08-24T23:12:11Z" user="" id="-638" actor="0"/>
+  <node version="0" lon="-117.5562353" lat="34.1224377" timestamp="2011-08-24T23:12:11Z" user="" id="-639" actor="0"/>
+  <node version="0" lon="-117.5562315" lat="34.1224222" timestamp="2011-08-24T23:12:11Z" user="" id="-640" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-641" actor="0">
+    <nd ref="-625"/>
+    <nd ref="-96"/>
+    <nd ref="-95"/>
+    <nd ref="-626"/>
+    <nd ref="-627"/>
+    <nd ref="-628"/>
+    <nd ref="-629"/>
+    <nd ref="-630"/>
+    <nd ref="-631"/>
+    <nd ref="-632"/>
+    <nd ref="-633"/>
+    <nd ref="-634"/>
+    <nd ref="-635"/>
+    <nd ref="-636"/>
+    <nd ref="-637"/>
+    <nd ref="-638"/>
+    <nd ref="-639"/>
+    <nd ref="-640"/>
+    <nd ref="-625"/>
+    <tag k="_NUMBER_" v="11399"/>
+    <tag k="_STREETNAME_" v="WILLIAMS RIDGE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00089971711"/>
+    <tag k="_Shape_Area_" v="      0.00000004994"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="WILLIAMS RIDGE DR"/>
+    <tag k="_addr_house_" v="11399"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5565765" lat="34.1226522" timestamp="2011-08-24T23:12:11Z" user="" id="-642" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-643" actor="0">
+    <nd ref="-95"/>
+    <nd ref="-94"/>
+    <nd ref="-100"/>
+    <nd ref="-612"/>
+    <nd ref="-642"/>
+    <nd ref="-626"/>
+    <nd ref="-95"/>
+    <tag k="_NUMBER_" v="11393"/>
+    <tag k="_STREETNAME_" v="WILLIAMS RIDGE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00087161391"/>
+    <tag k="_Shape_Area_" v="      0.00000004620"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="WILLIAMS RIDGE DR"/>
+    <tag k="_addr_house_" v="11393"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577338" lat="34.1224985" timestamp="2011-08-24T23:12:11Z" user="" id="-644" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-645" actor="0">
+    <nd ref="-29"/>
+    <nd ref="-644"/>
+    <nd ref="-233"/>
+    <nd ref="-195"/>
+    <nd ref="-29"/>
+    <tag k="_NUMBER_" v="7241"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00101453915"/>
+    <tag k="_Shape_Area_" v="      0.00000005080"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7241"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-646" actor="0">
+    <nd ref="-79"/>
+    <nd ref="-78"/>
+    <nd ref="-231"/>
+    <nd ref="-230"/>
+    <nd ref="-79"/>
+    <tag k="_NUMBER_" v="7246"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00105308313"/>
+    <tag k="_Shape_Area_" v="      0.00000005345"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7246"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-647" actor="0">
+    <nd ref="-28"/>
+    <nd ref="-117"/>
+    <nd ref="-644"/>
+    <nd ref="-29"/>
+    <nd ref="-28"/>
+    <tag k="_NUMBER_" v="7251"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00099627403"/>
+    <tag k="_Shape_Area_" v="      0.00000005047"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7251"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5576178" lat="34.1251095" timestamp="2011-08-24T23:12:11Z" user="" id="-648" actor="0"/>
+  <node version="0" lon="-117.5576185" lat="34.1248229" timestamp="2011-08-24T23:12:11Z" user="" id="-649" actor="0"/>
+  <node version="0" lon="-117.5577032" lat="34.1248354" timestamp="2011-08-24T23:12:11Z" user="" id="-650" actor="0"/>
+  <node version="0" lon="-117.5577072" lat="34.1248360" timestamp="2011-08-24T23:12:11Z" user="" id="-651" actor="0"/>
+  <node version="0" lon="-117.5577112" lat="34.1248365" timestamp="2011-08-24T23:12:11Z" user="" id="-652" actor="0"/>
+  <node version="0" lon="-117.5577152" lat="34.1248369" timestamp="2011-08-24T23:12:11Z" user="" id="-653" actor="0"/>
+  <node version="0" lon="-117.5577192" lat="34.1248373" timestamp="2011-08-24T23:12:11Z" user="" id="-654" actor="0"/>
+  <node version="0" lon="-117.5577232" lat="34.1248376" timestamp="2011-08-24T23:12:11Z" user="" id="-655" actor="0"/>
+  <node version="0" lon="-117.5577272" lat="34.1248379" timestamp="2011-08-24T23:12:11Z" user="" id="-656" actor="0"/>
+  <node version="0" lon="-117.5577313" lat="34.1248381" timestamp="2011-08-24T23:12:11Z" user="" id="-657" actor="0"/>
+  <node version="0" lon="-117.5577353" lat="34.1248383" timestamp="2011-08-24T23:12:11Z" user="" id="-658" actor="0"/>
+  <node version="0" lon="-117.5577393" lat="34.1248384" timestamp="2011-08-24T23:12:11Z" user="" id="-659" actor="0"/>
+  <node version="0" lon="-117.5577434" lat="34.1248384" timestamp="2011-08-24T23:12:11Z" user="" id="-660" actor="0"/>
+  <node version="0" lon="-117.5577474" lat="34.1248384" timestamp="2011-08-24T23:12:11Z" user="" id="-661" actor="0"/>
+  <node version="0" lon="-117.5577515" lat="34.1248383" timestamp="2011-08-24T23:12:11Z" user="" id="-662" actor="0"/>
+  <node version="0" lon="-117.5577555" lat="34.1248381" timestamp="2011-08-24T23:12:11Z" user="" id="-663" actor="0"/>
+  <node version="0" lon="-117.5577595" lat="34.1248379" timestamp="2011-08-24T23:12:11Z" user="" id="-664" actor="0"/>
+  <node version="0" lon="-117.5577635" lat="34.1248377" timestamp="2011-08-24T23:12:11Z" user="" id="-665" actor="0"/>
+  <node version="0" lon="-117.5577676" lat="34.1248374" timestamp="2011-08-24T23:12:11Z" user="" id="-666" actor="0"/>
+  <node version="0" lon="-117.5577716" lat="34.1248370" timestamp="2011-08-24T23:12:11Z" user="" id="-667" actor="0"/>
+  <node version="0" lon="-117.5577756" lat="34.1248366" timestamp="2011-08-24T23:12:11Z" user="" id="-668" actor="0"/>
+  <node version="0" lon="-117.5577796" lat="34.1248361" timestamp="2011-08-24T23:12:11Z" user="" id="-669" actor="0"/>
+  <node version="0" lon="-117.5577835" lat="34.1248355" timestamp="2011-08-24T23:12:11Z" user="" id="-670" actor="0"/>
+  <node version="0" lon="-117.5577883" lat="34.1248348" timestamp="2011-08-24T23:12:11Z" user="" id="-671" actor="0"/>
+  <node version="0" lon="-117.5577877" lat="34.1251122" timestamp="2011-08-24T23:12:11Z" user="" id="-672" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-673" actor="0">
+    <nd ref="-648"/>
+    <nd ref="-649"/>
+    <nd ref="-650"/>
+    <nd ref="-651"/>
+    <nd ref="-652"/>
+    <nd ref="-653"/>
+    <nd ref="-654"/>
+    <nd ref="-655"/>
+    <nd ref="-656"/>
+    <nd ref="-657"/>
+    <nd ref="-658"/>
+    <nd ref="-659"/>
+    <nd ref="-660"/>
+    <nd ref="-661"/>
+    <nd ref="-662"/>
+    <nd ref="-663"/>
+    <nd ref="-664"/>
+    <nd ref="-665"/>
+    <nd ref="-666"/>
+    <nd ref="-667"/>
+    <nd ref="-668"/>
+    <nd ref="-669"/>
+    <nd ref="-670"/>
+    <nd ref="-671"/>
+    <nd ref="-672"/>
+    <nd ref="-648"/>
+    <tag k="_NUMBER_" v="11340"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00090505059"/>
+    <tag k="_Shape_Area_" v="      0.00000004716"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11340"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5574526" lat="34.1251070" timestamp="2011-08-24T23:12:11Z" user="" id="-674" actor="0"/>
+  <node version="0" lon="-117.5574533" lat="34.1248105" timestamp="2011-08-24T23:12:11Z" user="" id="-675" actor="0"/>
+  <node version="0" lon="-117.5575098" lat="34.1248106" timestamp="2011-08-24T23:12:11Z" user="" id="-676" actor="0"/>
+  <node version="0" lon="-117.5575150" lat="34.1248106" timestamp="2011-08-24T23:12:11Z" user="" id="-677" actor="0"/>
+  <node version="0" lon="-117.5575202" lat="34.1248108" timestamp="2011-08-24T23:12:11Z" user="" id="-678" actor="0"/>
+  <node version="0" lon="-117.5575254" lat="34.1248109" timestamp="2011-08-24T23:12:11Z" user="" id="-679" actor="0"/>
+  <node version="0" lon="-117.5575306" lat="34.1248112" timestamp="2011-08-24T23:12:11Z" user="" id="-680" actor="0"/>
+  <node version="0" lon="-117.5575357" lat="34.1248116" timestamp="2011-08-24T23:12:11Z" user="" id="-681" actor="0"/>
+  <node version="0" lon="-117.5575409" lat="34.1248120" timestamp="2011-08-24T23:12:11Z" user="" id="-682" actor="0"/>
+  <node version="0" lon="-117.5575461" lat="34.1248125" timestamp="2011-08-24T23:12:11Z" user="" id="-683" actor="0"/>
+  <node version="0" lon="-117.5575512" lat="34.1248131" timestamp="2011-08-24T23:12:11Z" user="" id="-684" actor="0"/>
+  <node version="0" lon="-117.5575563" lat="34.1248137" timestamp="2011-08-24T23:12:11Z" user="" id="-685" actor="0"/>
+  <node version="0" lon="-117.5575615" lat="34.1248144" timestamp="2011-08-24T23:12:11Z" user="" id="-686" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-687" actor="0">
+    <nd ref="-674"/>
+    <nd ref="-675"/>
+    <nd ref="-676"/>
+    <nd ref="-677"/>
+    <nd ref="-678"/>
+    <nd ref="-679"/>
+    <nd ref="-680"/>
+    <nd ref="-681"/>
+    <nd ref="-682"/>
+    <nd ref="-683"/>
+    <nd ref="-684"/>
+    <nd ref="-685"/>
+    <nd ref="-686"/>
+    <nd ref="-649"/>
+    <nd ref="-648"/>
+    <nd ref="-674"/>
+    <tag k="_NUMBER_" v="11344"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00091430909"/>
+    <tag k="_Shape_Area_" v="      0.00000004865"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11344"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5572874" lat="34.1251044" timestamp="2011-08-24T23:12:11Z" user="" id="-688" actor="0"/>
+  <node version="0" lon="-117.5572881" lat="34.1248103" timestamp="2011-08-24T23:12:11Z" user="" id="-689" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-690" actor="0">
+    <nd ref="-688"/>
+    <nd ref="-689"/>
+    <nd ref="-675"/>
+    <nd ref="-674"/>
+    <nd ref="-688"/>
+    <tag k="_NUMBER_" v="11354"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91701"/>
+    <tag k="_Shape_Leng_" v="      0.00092098343"/>
+    <tag k="_Shape_Area_" v="      0.00000004878"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11354"/>
+    <tag k="_addr_postc_" v="91701"/>
+  </way>
+  <node version="0" lon="-117.5571157" lat="34.1251018" timestamp="2011-08-24T23:12:11Z" user="" id="-691" actor="0"/>
+  <node version="0" lon="-117.5571163" lat="34.1248262" timestamp="2011-08-24T23:12:11Z" user="" id="-692" actor="0"/>
+  <node version="0" lon="-117.5572004" lat="34.1248140" timestamp="2011-08-24T23:12:11Z" user="" id="-693" actor="0"/>
+  <node version="0" lon="-117.5572056" lat="34.1248132" timestamp="2011-08-24T23:12:11Z" user="" id="-694" actor="0"/>
+  <node version="0" lon="-117.5572107" lat="34.1248126" timestamp="2011-08-24T23:12:11Z" user="" id="-695" actor="0"/>
+  <node version="0" lon="-117.5572158" lat="34.1248121" timestamp="2011-08-24T23:12:11Z" user="" id="-696" actor="0"/>
+  <node version="0" lon="-117.5572210" lat="34.1248116" timestamp="2011-08-24T23:12:11Z" user="" id="-697" actor="0"/>
+  <node version="0" lon="-117.5572262" lat="34.1248112" timestamp="2011-08-24T23:12:11Z" user="" id="-698" actor="0"/>
+  <node version="0" lon="-117.5572313" lat="34.1248108" timestamp="2011-08-24T23:12:11Z" user="" id="-699" actor="0"/>
+  <node version="0" lon="-117.5572365" lat="34.1248106" timestamp="2011-08-24T23:12:11Z" user="" id="-700" actor="0"/>
+  <node version="0" lon="-117.5572417" lat="34.1248104" timestamp="2011-08-24T23:12:11Z" user="" id="-701" actor="0"/>
+  <node version="0" lon="-117.5572469" lat="34.1248103" timestamp="2011-08-24T23:12:11Z" user="" id="-702" actor="0"/>
+  <node version="0" lon="-117.5572521" lat="34.1248102" timestamp="2011-08-24T23:12:11Z" user="" id="-703" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-704" actor="0">
+    <nd ref="-691"/>
+    <nd ref="-692"/>
+    <nd ref="-693"/>
+    <nd ref="-694"/>
+    <nd ref="-695"/>
+    <nd ref="-696"/>
+    <nd ref="-697"/>
+    <nd ref="-698"/>
+    <nd ref="-699"/>
+    <nd ref="-700"/>
+    <nd ref="-701"/>
+    <nd ref="-702"/>
+    <nd ref="-703"/>
+    <nd ref="-689"/>
+    <nd ref="-688"/>
+    <nd ref="-691"/>
+    <tag k="_NUMBER_" v="11360"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00091438232"/>
+    <tag k="_Shape_Area_" v="      0.00000004941"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11360"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5569340" lat="34.1250990" timestamp="2011-08-24T23:12:11Z" user="" id="-705" actor="0"/>
+  <node version="0" lon="-117.5569346" lat="34.1248243" timestamp="2011-08-24T23:12:11Z" user="" id="-706" actor="0"/>
+  <node version="0" lon="-117.5569384" lat="34.1248255" timestamp="2011-08-24T23:12:11Z" user="" id="-707" actor="0"/>
+  <node version="0" lon="-117.5569422" lat="34.1248266" timestamp="2011-08-24T23:12:11Z" user="" id="-708" actor="0"/>
+  <node version="0" lon="-117.5569460" lat="34.1248277" timestamp="2011-08-24T23:12:11Z" user="" id="-709" actor="0"/>
+  <node version="0" lon="-117.5569499" lat="34.1248287" timestamp="2011-08-24T23:12:11Z" user="" id="-710" actor="0"/>
+  <node version="0" lon="-117.5569537" lat="34.1248297" timestamp="2011-08-24T23:12:11Z" user="" id="-711" actor="0"/>
+  <node version="0" lon="-117.5569576" lat="34.1248306" timestamp="2011-08-24T23:12:11Z" user="" id="-712" actor="0"/>
+  <node version="0" lon="-117.5569615" lat="34.1248314" timestamp="2011-08-24T23:12:11Z" user="" id="-713" actor="0"/>
+  <node version="0" lon="-117.5569654" lat="34.1248323" timestamp="2011-08-24T23:12:11Z" user="" id="-714" actor="0"/>
+  <node version="0" lon="-117.5569694" lat="34.1248330" timestamp="2011-08-24T23:12:11Z" user="" id="-715" actor="0"/>
+  <node version="0" lon="-117.5569733" lat="34.1248337" timestamp="2011-08-24T23:12:11Z" user="" id="-716" actor="0"/>
+  <node version="0" lon="-117.5569773" lat="34.1248343" timestamp="2011-08-24T23:12:11Z" user="" id="-717" actor="0"/>
+  <node version="0" lon="-117.5569813" lat="34.1248349" timestamp="2011-08-24T23:12:11Z" user="" id="-718" actor="0"/>
+  <node version="0" lon="-117.5569852" lat="34.1248354" timestamp="2011-08-24T23:12:11Z" user="" id="-719" actor="0"/>
+  <node version="0" lon="-117.5569892" lat="34.1248359" timestamp="2011-08-24T23:12:11Z" user="" id="-720" actor="0"/>
+  <node version="0" lon="-117.5569932" lat="34.1248363" timestamp="2011-08-24T23:12:11Z" user="" id="-721" actor="0"/>
+  <node version="0" lon="-117.5569973" lat="34.1248366" timestamp="2011-08-24T23:12:11Z" user="" id="-722" actor="0"/>
+  <node version="0" lon="-117.5570013" lat="34.1248369" timestamp="2011-08-24T23:12:11Z" user="" id="-723" actor="0"/>
+  <node version="0" lon="-117.5570053" lat="34.1248371" timestamp="2011-08-24T23:12:11Z" user="" id="-724" actor="0"/>
+  <node version="0" lon="-117.5570093" lat="34.1248373" timestamp="2011-08-24T23:12:11Z" user="" id="-725" actor="0"/>
+  <node version="0" lon="-117.5570134" lat="34.1248374" timestamp="2011-08-24T23:12:11Z" user="" id="-726" actor="0"/>
+  <node version="0" lon="-117.5570174" lat="34.1248374" timestamp="2011-08-24T23:12:11Z" user="" id="-727" actor="0"/>
+  <node version="0" lon="-117.5570214" lat="34.1248374" timestamp="2011-08-24T23:12:11Z" user="" id="-728" actor="0"/>
+  <node version="0" lon="-117.5570255" lat="34.1248374" timestamp="2011-08-24T23:12:11Z" user="" id="-729" actor="0"/>
+  <node version="0" lon="-117.5570295" lat="34.1248372" timestamp="2011-08-24T23:12:11Z" user="" id="-730" actor="0"/>
+  <node version="0" lon="-117.5570335" lat="34.1248370" timestamp="2011-08-24T23:12:11Z" user="" id="-731" actor="0"/>
+  <node version="0" lon="-117.5570376" lat="34.1248368" timestamp="2011-08-24T23:12:11Z" user="" id="-732" actor="0"/>
+  <node version="0" lon="-117.5570416" lat="34.1248365" timestamp="2011-08-24T23:12:11Z" user="" id="-733" actor="0"/>
+  <node version="0" lon="-117.5570456" lat="34.1248361" timestamp="2011-08-24T23:12:11Z" user="" id="-734" actor="0"/>
+  <node version="0" lon="-117.5570496" lat="34.1248357" timestamp="2011-08-24T23:12:11Z" user="" id="-735" actor="0"/>
+  <node version="0" lon="-117.5570536" lat="34.1248352" timestamp="2011-08-24T23:12:11Z" user="" id="-736" actor="0"/>
+  <node version="0" lon="-117.5570586" lat="34.1248346" timestamp="2011-08-24T23:12:11Z" user="" id="-737" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-738" actor="0">
+    <nd ref="-705"/>
+    <nd ref="-706"/>
+    <nd ref="-707"/>
+    <nd ref="-708"/>
+    <nd ref="-709"/>
+    <nd ref="-710"/>
+    <nd ref="-711"/>
+    <nd ref="-712"/>
+    <nd ref="-713"/>
+    <nd ref="-714"/>
+    <nd ref="-715"/>
+    <nd ref="-716"/>
+    <nd ref="-717"/>
+    <nd ref="-718"/>
+    <nd ref="-719"/>
+    <nd ref="-720"/>
+    <nd ref="-721"/>
+    <nd ref="-722"/>
+    <nd ref="-723"/>
+    <nd ref="-724"/>
+    <nd ref="-725"/>
+    <nd ref="-726"/>
+    <nd ref="-727"/>
+    <nd ref="-728"/>
+    <nd ref="-729"/>
+    <nd ref="-730"/>
+    <nd ref="-731"/>
+    <nd ref="-732"/>
+    <nd ref="-733"/>
+    <nd ref="-734"/>
+    <nd ref="-735"/>
+    <nd ref="-736"/>
+    <nd ref="-737"/>
+    <nd ref="-692"/>
+    <nd ref="-691"/>
+    <nd ref="-705"/>
+    <tag k="_NUMBER_" v="11368"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00091589648"/>
+    <tag k="_Shape_Area_" v="      0.00000004859"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11368"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5567622" lat="34.1250964" timestamp="2011-08-24T23:12:11Z" user="" id="-739" actor="0"/>
+  <node version="0" lon="-117.5567628" lat="34.1248588" timestamp="2011-08-24T23:12:11Z" user="" id="-740" actor="0"/>
+  <node version="0" lon="-117.5568556" lat="34.1247814" timestamp="2011-08-24T23:12:11Z" user="" id="-741" actor="0"/>
+  <node version="0" lon="-117.5568585" lat="34.1247837" timestamp="2011-08-24T23:12:11Z" user="" id="-742" actor="0"/>
+  <node version="0" lon="-117.5568614" lat="34.1247860" timestamp="2011-08-24T23:12:11Z" user="" id="-743" actor="0"/>
+  <node version="0" lon="-117.5568644" lat="34.1247883" timestamp="2011-08-24T23:12:11Z" user="" id="-744" actor="0"/>
+  <node version="0" lon="-117.5568674" lat="34.1247905" timestamp="2011-08-24T23:12:11Z" user="" id="-745" actor="0"/>
+  <node version="0" lon="-117.5568705" lat="34.1247927" timestamp="2011-08-24T23:12:11Z" user="" id="-746" actor="0"/>
+  <node version="0" lon="-117.5568736" lat="34.1247948" timestamp="2011-08-24T23:12:11Z" user="" id="-747" actor="0"/>
+  <node version="0" lon="-117.5568768" lat="34.1247969" timestamp="2011-08-24T23:12:11Z" user="" id="-748" actor="0"/>
+  <node version="0" lon="-117.5568800" lat="34.1247989" timestamp="2011-08-24T23:12:11Z" user="" id="-749" actor="0"/>
+  <node version="0" lon="-117.5568832" lat="34.1248009" timestamp="2011-08-24T23:12:11Z" user="" id="-750" actor="0"/>
+  <node version="0" lon="-117.5568865" lat="34.1248029" timestamp="2011-08-24T23:12:11Z" user="" id="-751" actor="0"/>
+  <node version="0" lon="-117.5568898" lat="34.1248048" timestamp="2011-08-24T23:12:11Z" user="" id="-752" actor="0"/>
+  <node version="0" lon="-117.5568932" lat="34.1248066" timestamp="2011-08-24T23:12:11Z" user="" id="-753" actor="0"/>
+  <node version="0" lon="-117.5568966" lat="34.1248084" timestamp="2011-08-24T23:12:11Z" user="" id="-754" actor="0"/>
+  <node version="0" lon="-117.5569001" lat="34.1248102" timestamp="2011-08-24T23:12:11Z" user="" id="-755" actor="0"/>
+  <node version="0" lon="-117.5569035" lat="34.1248119" timestamp="2011-08-24T23:12:11Z" user="" id="-756" actor="0"/>
+  <node version="0" lon="-117.5569071" lat="34.1248135" timestamp="2011-08-24T23:12:11Z" user="" id="-757" actor="0"/>
+  <node version="0" lon="-117.5569106" lat="34.1248151" timestamp="2011-08-24T23:12:11Z" user="" id="-758" actor="0"/>
+  <node version="0" lon="-117.5569142" lat="34.1248166" timestamp="2011-08-24T23:12:11Z" user="" id="-759" actor="0"/>
+  <node version="0" lon="-117.5569178" lat="34.1248181" timestamp="2011-08-24T23:12:11Z" user="" id="-760" actor="0"/>
+  <node version="0" lon="-117.5569214" lat="34.1248196" timestamp="2011-08-24T23:12:11Z" user="" id="-761" actor="0"/>
+  <node version="0" lon="-117.5569251" lat="34.1248210" timestamp="2011-08-24T23:12:11Z" user="" id="-762" actor="0"/>
+  <node version="0" lon="-117.5569288" lat="34.1248223" timestamp="2011-08-24T23:12:11Z" user="" id="-763" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-764" actor="0">
+    <nd ref="-739"/>
+    <nd ref="-740"/>
+    <nd ref="-741"/>
+    <nd ref="-742"/>
+    <nd ref="-743"/>
+    <nd ref="-744"/>
+    <nd ref="-745"/>
+    <nd ref="-746"/>
+    <nd ref="-747"/>
+    <nd ref="-748"/>
+    <nd ref="-749"/>
+    <nd ref="-750"/>
+    <nd ref="-751"/>
+    <nd ref="-752"/>
+    <nd ref="-753"/>
+    <nd ref="-754"/>
+    <nd ref="-755"/>
+    <nd ref="-756"/>
+    <nd ref="-757"/>
+    <nd ref="-758"/>
+    <nd ref="-759"/>
+    <nd ref="-760"/>
+    <nd ref="-761"/>
+    <nd ref="-762"/>
+    <nd ref="-763"/>
+    <nd ref="-706"/>
+    <nd ref="-705"/>
+    <nd ref="-739"/>
+    <tag k="_NUMBER_" v="11372"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00089543902"/>
+    <tag k="_Shape_Area_" v="      0.00000004880"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11372"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5565904" lat="34.1250938" timestamp="2011-08-24T23:12:11Z" user="" id="-765" actor="0"/>
+  <node version="0" lon="-117.5565910" lat="34.1248482" timestamp="2011-08-24T23:12:11Z" user="" id="-766" actor="0"/>
+  <node version="0" lon="-117.5568180" lat="34.1247405" timestamp="2011-08-24T23:12:11Z" user="" id="-767" actor="0"/>
+  <node version="0" lon="-117.5568200" lat="34.1247434" timestamp="2011-08-24T23:12:11Z" user="" id="-768" actor="0"/>
+  <node version="0" lon="-117.5568221" lat="34.1247463" timestamp="2011-08-24T23:12:11Z" user="" id="-769" actor="0"/>
+  <node version="0" lon="-117.5568243" lat="34.1247491" timestamp="2011-08-24T23:12:11Z" user="" id="-770" actor="0"/>
+  <node version="0" lon="-117.5568265" lat="34.1247519" timestamp="2011-08-24T23:12:11Z" user="" id="-771" actor="0"/>
+  <node version="0" lon="-117.5568287" lat="34.1247547" timestamp="2011-08-24T23:12:11Z" user="" id="-772" actor="0"/>
+  <node version="0" lon="-117.5568311" lat="34.1247574" timestamp="2011-08-24T23:12:11Z" user="" id="-773" actor="0"/>
+  <node version="0" lon="-117.5568334" lat="34.1247601" timestamp="2011-08-24T23:12:11Z" user="" id="-774" actor="0"/>
+  <node version="0" lon="-117.5568359" lat="34.1247628" timestamp="2011-08-24T23:12:11Z" user="" id="-775" actor="0"/>
+  <node version="0" lon="-117.5568384" lat="34.1247654" timestamp="2011-08-24T23:12:11Z" user="" id="-776" actor="0"/>
+  <node version="0" lon="-117.5568409" lat="34.1247680" timestamp="2011-08-24T23:12:11Z" user="" id="-777" actor="0"/>
+  <node version="0" lon="-117.5568435" lat="34.1247706" timestamp="2011-08-24T23:12:11Z" user="" id="-778" actor="0"/>
+  <node version="0" lon="-117.5568462" lat="34.1247731" timestamp="2011-08-24T23:12:11Z" user="" id="-779" actor="0"/>
+  <node version="0" lon="-117.5568489" lat="34.1247756" timestamp="2011-08-24T23:12:11Z" user="" id="-780" actor="0"/>
+  <node version="0" lon="-117.5568517" lat="34.1247780" timestamp="2011-08-24T23:12:11Z" user="" id="-781" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-782" actor="0">
+    <nd ref="-765"/>
+    <nd ref="-766"/>
+    <nd ref="-767"/>
+    <nd ref="-768"/>
+    <nd ref="-769"/>
+    <nd ref="-770"/>
+    <nd ref="-771"/>
+    <nd ref="-772"/>
+    <nd ref="-773"/>
+    <nd ref="-774"/>
+    <nd ref="-775"/>
+    <nd ref="-776"/>
+    <nd ref="-777"/>
+    <nd ref="-778"/>
+    <nd ref="-779"/>
+    <nd ref="-780"/>
+    <nd ref="-781"/>
+    <nd ref="-741"/>
+    <nd ref="-740"/>
+    <nd ref="-739"/>
+    <nd ref="-765"/>
+    <tag k="_NUMBER_" v="11374"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00108272949"/>
+    <tag k="_Shape_Area_" v="      0.00000005523"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11374"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5563758" lat="34.1250905" timestamp="2011-08-24T23:12:11Z" user="" id="-783" actor="0"/>
+  <node version="0" lon="-117.5563820" lat="34.1249229" timestamp="2011-08-24T23:12:11Z" user="" id="-784" actor="0"/>
+  <node version="0" lon="-117.5567946" lat="34.1246921" timestamp="2011-08-24T23:12:11Z" user="" id="-785" actor="0"/>
+  <node version="0" lon="-117.5567956" lat="34.1246953" timestamp="2011-08-24T23:12:11Z" user="" id="-786" actor="0"/>
+  <node version="0" lon="-117.5567967" lat="34.1246985" timestamp="2011-08-24T23:12:11Z" user="" id="-787" actor="0"/>
+  <node version="0" lon="-117.5567978" lat="34.1247018" timestamp="2011-08-24T23:12:11Z" user="" id="-788" actor="0"/>
+  <node version="0" lon="-117.5567991" lat="34.1247050" timestamp="2011-08-24T23:12:11Z" user="" id="-789" actor="0"/>
+  <node version="0" lon="-117.5568003" lat="34.1247081" timestamp="2011-08-24T23:12:11Z" user="" id="-790" actor="0"/>
+  <node version="0" lon="-117.5568017" lat="34.1247113" timestamp="2011-08-24T23:12:11Z" user="" id="-791" actor="0"/>
+  <node version="0" lon="-117.5568031" lat="34.1247144" timestamp="2011-08-24T23:12:11Z" user="" id="-792" actor="0"/>
+  <node version="0" lon="-117.5568046" lat="34.1247176" timestamp="2011-08-24T23:12:11Z" user="" id="-793" actor="0"/>
+  <node version="0" lon="-117.5568061" lat="34.1247207" timestamp="2011-08-24T23:12:11Z" user="" id="-794" actor="0"/>
+  <node version="0" lon="-117.5568078" lat="34.1247237" timestamp="2011-08-24T23:12:11Z" user="" id="-795" actor="0"/>
+  <node version="0" lon="-117.5568094" lat="34.1247268" timestamp="2011-08-24T23:12:11Z" user="" id="-796" actor="0"/>
+  <node version="0" lon="-117.5568112" lat="34.1247298" timestamp="2011-08-24T23:12:11Z" user="" id="-797" actor="0"/>
+  <node version="0" lon="-117.5568130" lat="34.1247328" timestamp="2011-08-24T23:12:11Z" user="" id="-798" actor="0"/>
+  <node version="0" lon="-117.5568149" lat="34.1247358" timestamp="2011-08-24T23:12:11Z" user="" id="-799" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-800" actor="0">
+    <nd ref="-783"/>
+    <nd ref="-784"/>
+    <nd ref="-526"/>
+    <nd ref="-525"/>
+    <nd ref="-524"/>
+    <nd ref="-785"/>
+    <nd ref="-786"/>
+    <nd ref="-787"/>
+    <nd ref="-788"/>
+    <nd ref="-789"/>
+    <nd ref="-790"/>
+    <nd ref="-791"/>
+    <nd ref="-792"/>
+    <nd ref="-793"/>
+    <nd ref="-794"/>
+    <nd ref="-795"/>
+    <nd ref="-796"/>
+    <nd ref="-797"/>
+    <nd ref="-798"/>
+    <nd ref="-799"/>
+    <nd ref="-767"/>
+    <nd ref="-766"/>
+    <nd ref="-765"/>
+    <nd ref="-783"/>
+    <tag k="_NUMBER_" v="11378"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00150265002"/>
+    <tag k="_Shape_Area_" v="      0.00000007773"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11378"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579179" lat="34.1238731" timestamp="2011-08-24T23:12:11Z" user="" id="-801" actor="0"/>
+  <node version="0" lon="-117.5583478" lat="34.1238737" timestamp="2011-08-24T23:12:11Z" user="" id="-802" actor="0"/>
+  <node version="0" lon="-117.5583460" lat="34.1240110" timestamp="2011-08-24T23:12:11Z" user="" id="-803" actor="0"/>
+  <node version="0" lon="-117.5579366" lat="34.1240104" timestamp="2011-08-24T23:12:11Z" user="" id="-804" actor="0"/>
+  <node version="0" lon="-117.5579365" lat="34.1240098" timestamp="2011-08-24T23:12:11Z" user="" id="-805" actor="0"/>
+  <node version="0" lon="-117.5579364" lat="34.1240091" timestamp="2011-08-24T23:12:11Z" user="" id="-806" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-807" actor="0">
+    <nd ref="-801"/>
+    <nd ref="-802"/>
+    <nd ref="-803"/>
+    <nd ref="-804"/>
+    <nd ref="-805"/>
+    <nd ref="-806"/>
+    <nd ref="-801"/>
+    <tag k="_NUMBER_" v="7162"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00111524075"/>
+    <tag k="_Shape_Area_" v="      0.00000005762"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7162"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5567718" lat="34.1237937" timestamp="2011-08-24T23:12:11Z" user="" id="-808" actor="0"/>
+  <node version="0" lon="-117.5567742" lat="34.1238108" timestamp="2011-08-24T23:12:11Z" user="" id="-809" actor="0"/>
+  <node version="0" lon="-117.5567901" lat="34.1239153" timestamp="2011-08-24T23:12:11Z" user="" id="-810" actor="0"/>
+  <node version="0" lon="-117.5564006" lat="34.1239149" timestamp="2011-08-24T23:12:11Z" user="" id="-811" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-812" actor="0">
+    <nd ref="-374"/>
+    <nd ref="-373"/>
+    <nd ref="-808"/>
+    <nd ref="-809"/>
+    <nd ref="-810"/>
+    <nd ref="-811"/>
+    <nd ref="-374"/>
+    <tag k="_NUMBER_" v="7171"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00106040421"/>
+    <tag k="_Shape_Area_" v="      0.00000005366"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7171"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5573796" lat="34.1239037" timestamp="2011-08-24T23:12:11Z" user="" id="-813" actor="0"/>
+  <node version="0" lon="-117.5569881" lat="34.1239033" timestamp="2011-08-24T23:12:11Z" user="" id="-814" actor="0"/>
+  <node version="0" lon="-117.5569708" lat="34.1237900" timestamp="2011-08-24T23:12:11Z" user="" id="-815" actor="0"/>
+  <node version="0" lon="-117.5569685" lat="34.1237734" timestamp="2011-08-24T23:12:11Z" user="" id="-816" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-817" actor="0">
+    <nd ref="-377"/>
+    <nd ref="-376"/>
+    <nd ref="-813"/>
+    <nd ref="-814"/>
+    <nd ref="-815"/>
+    <nd ref="-816"/>
+    <nd ref="-377"/>
+    <tag k="_NUMBER_" v="7168"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00107377331"/>
+    <tag k="_Shape_Area_" v="      0.00000005610"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7168"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577067" lat="34.1237772" timestamp="2011-08-24T23:12:11Z" user="" id="-818" actor="0"/>
+  <node version="0" lon="-117.5577081" lat="34.1237929" timestamp="2011-08-24T23:12:11Z" user="" id="-819" actor="0"/>
+  <node version="0" lon="-117.5577115" lat="34.1238221" timestamp="2011-08-24T23:12:11Z" user="" id="-820" actor="0"/>
+  <node version="0" lon="-117.5577226" lat="34.1239042" timestamp="2011-08-24T23:12:11Z" user="" id="-821" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-822" actor="0">
+    <nd ref="-376"/>
+    <nd ref="-386"/>
+    <nd ref="-818"/>
+    <nd ref="-819"/>
+    <nd ref="-820"/>
+    <nd ref="-821"/>
+    <nd ref="-813"/>
+    <nd ref="-376"/>
+    <tag k="_NUMBER_" v="7173"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00097558840"/>
+    <tag k="_Shape_Area_" v="      0.00000004897"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7173"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579084" lat="34.1238035" timestamp="2011-08-24T23:12:11Z" user="" id="-823" actor="0"/>
+  <node version="0" lon="-117.5579065" lat="34.1237875" timestamp="2011-08-24T23:12:11Z" user="" id="-824" actor="0"/>
+  <node version="0" lon="-117.5579052" lat="34.1237746" timestamp="2011-08-24T23:12:11Z" user="" id="-825" actor="0"/>
+  <node version="0" lon="-117.5579042" lat="34.1237617" timestamp="2011-08-24T23:12:11Z" user="" id="-826" actor="0"/>
+  <node version="0" lon="-117.5579034" lat="34.1237488" timestamp="2011-08-24T23:12:11Z" user="" id="-827" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-828" actor="0">
+    <nd ref="-389"/>
+    <nd ref="-388"/>
+    <nd ref="-802"/>
+    <nd ref="-801"/>
+    <nd ref="-823"/>
+    <nd ref="-824"/>
+    <nd ref="-825"/>
+    <nd ref="-826"/>
+    <nd ref="-827"/>
+    <nd ref="-389"/>
+    <tag k="_NUMBER_" v="7170"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00115214344"/>
+    <tag k="_Shape_Area_" v="      0.00000006034"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7170"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579433" lat="34.1241127" timestamp="2011-08-24T23:12:11Z" user="" id="-829" actor="0"/>
+  <node version="0" lon="-117.5579432" lat="34.1240969" timestamp="2011-08-24T23:12:11Z" user="" id="-830" actor="0"/>
+  <node version="0" lon="-117.5579427" lat="34.1240811" timestamp="2011-08-24T23:12:11Z" user="" id="-831" actor="0"/>
+  <node version="0" lon="-117.5579419" lat="34.1240652" timestamp="2011-08-24T23:12:11Z" user="" id="-832" actor="0"/>
+  <node version="0" lon="-117.5579408" lat="34.1240495" timestamp="2011-08-24T23:12:11Z" user="" id="-833" actor="0"/>
+  <node version="0" lon="-117.5579393" lat="34.1240337" timestamp="2011-08-24T23:12:11Z" user="" id="-834" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-835" actor="0">
+    <nd ref="-804"/>
+    <nd ref="-803"/>
+    <nd ref="-572"/>
+    <nd ref="-571"/>
+    <nd ref="-829"/>
+    <nd ref="-830"/>
+    <nd ref="-831"/>
+    <nd ref="-832"/>
+    <nd ref="-833"/>
+    <nd ref="-834"/>
+    <nd ref="-804"/>
+    <tag k="_NUMBER_" v="7154"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00108522688"/>
+    <tag k="_Shape_Area_" v="      0.00000005539"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7154"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5564040" lat="34.1239349" timestamp="2011-08-24T23:12:11Z" user="" id="-836" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-837" actor="0">
+    <nd ref="-836"/>
+    <nd ref="-811"/>
+    <nd ref="-810"/>
+    <nd ref="-578"/>
+    <nd ref="-577"/>
+    <nd ref="-836"/>
+    <tag k="_NUMBER_" v="7161"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00107837291"/>
+    <tag k="_Shape_Area_" v="      0.00000005628"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7161"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-838" actor="0">
+    <nd ref="-814"/>
+    <nd ref="-813"/>
+    <nd ref="-589"/>
+    <nd ref="-588"/>
+    <nd ref="-814"/>
+    <tag k="_NUMBER_" v="7162"/>
+    <tag k="_STREETNAME_" v="RAVENSWOOD"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00106857106"/>
+    <tag k="_Shape_Area_" v="      0.00000005569"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="RAVENSWOOD PL"/>
+    <tag k="_addr_house_" v="7162"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577394" lat="34.1240277" timestamp="2011-08-24T23:12:11Z" user="" id="-839" actor="0"/>
+  <node version="0" lon="-117.5577407" lat="34.1240374" timestamp="2011-08-24T23:12:11Z" user="" id="-840" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-841" actor="0">
+    <nd ref="-813"/>
+    <nd ref="-821"/>
+    <nd ref="-839"/>
+    <nd ref="-840"/>
+    <nd ref="-599"/>
+    <nd ref="-589"/>
+    <nd ref="-813"/>
+    <tag k="_NUMBER_" v="7163"/>
+    <tag k="_STREETNAME_" v="TURNING LEAF"/>
+    <tag k="_STREETTYPE_" v="PL"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00097445965"/>
+    <tag k="_Shape_Area_" v="      0.00000004902"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="TURNING LEAF PL"/>
+    <tag k="_addr_house_" v="7163"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5582606" lat="34.1251195" timestamp="2011-08-24T23:12:11Z" user="" id="-842" actor="0"/>
+  <node version="0" lon="-117.5583426" lat="34.1250522" timestamp="2011-08-24T23:12:11Z" user="" id="-843" actor="0"/>
+  <node version="0" lon="-117.5583427" lat="34.1251208" timestamp="2011-08-24T23:12:11Z" user="" id="-844" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-845" actor="0">
+    <nd ref="-842"/>
+    <nd ref="-843"/>
+    <nd ref="-844"/>
+    <nd ref="-842"/>
+    <tag k="_NUMBER_" v="0"/>
+    <tag k="_STREETNAME_" v=""/>
+    <tag k="_STREETTYPE_" v=""/>
+    <tag k="_CITY_" v=""/>
+    <tag k="_STATE_" v=""/>
+    <tag k="_ZIP_" v="00000"/>
+    <tag k="_Shape_Leng_" v="      0.00025661385"/>
+    <tag k="_Shape_Area_" v="      0.00000000281"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v=""/>
+    <tag k="_addr_house_" v="0"/>
+    <tag k="_addr_postc_" v="00000"/>
+  </way>
+  <node version="0" lon="-117.5581247" lat="34.1251174" timestamp="2011-08-24T23:12:11Z" user="" id="-846" actor="0"/>
+  <node version="0" lon="-117.5581254" lat="34.1247827" timestamp="2011-08-24T23:12:11Z" user="" id="-847" actor="0"/>
+  <node version="0" lon="-117.5579491" lat="34.1247346" timestamp="2011-08-24T23:12:11Z" user="" id="-848" actor="0"/>
+  <node version="0" lon="-117.5579509" lat="34.1247316" timestamp="2011-08-24T23:12:11Z" user="" id="-849" actor="0"/>
+  <node version="0" lon="-117.5579527" lat="34.1247286" timestamp="2011-08-24T23:12:11Z" user="" id="-850" actor="0"/>
+  <node version="0" lon="-117.5579544" lat="34.1247256" timestamp="2011-08-24T23:12:11Z" user="" id="-851" actor="0"/>
+  <node version="0" lon="-117.5579560" lat="34.1247225" timestamp="2011-08-24T23:12:11Z" user="" id="-852" actor="0"/>
+  <node version="0" lon="-117.5579576" lat="34.1247194" timestamp="2011-08-24T23:12:11Z" user="" id="-853" actor="0"/>
+  <node version="0" lon="-117.5579591" lat="34.1247163" timestamp="2011-08-24T23:12:11Z" user="" id="-854" actor="0"/>
+  <node version="0" lon="-117.5579605" lat="34.1247132" timestamp="2011-08-24T23:12:11Z" user="" id="-855" actor="0"/>
+  <node version="0" lon="-117.5579619" lat="34.1247100" timestamp="2011-08-24T23:12:11Z" user="" id="-856" actor="0"/>
+  <node version="0" lon="-117.5579632" lat="34.1247068" timestamp="2011-08-24T23:12:11Z" user="" id="-857" actor="0"/>
+  <node version="0" lon="-117.5579645" lat="34.1247037" timestamp="2011-08-24T23:12:11Z" user="" id="-858" actor="0"/>
+  <node version="0" lon="-117.5579656" lat="34.1247004" timestamp="2011-08-24T23:12:11Z" user="" id="-859" actor="0"/>
+  <node version="0" lon="-117.5579668" lat="34.1246972" timestamp="2011-08-24T23:12:11Z" user="" id="-860" actor="0"/>
+  <node version="0" lon="-117.5579678" lat="34.1246940" timestamp="2011-08-24T23:12:11Z" user="" id="-861" actor="0"/>
+  <node version="0" lon="-117.5579688" lat="34.1246907" timestamp="2011-08-24T23:12:11Z" user="" id="-862" actor="0"/>
+  <node version="0" lon="-117.5579697" lat="34.1246874" timestamp="2011-08-24T23:12:11Z" user="" id="-863" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-864" actor="0">
+    <nd ref="-846"/>
+    <nd ref="-847"/>
+    <nd ref="-848"/>
+    <nd ref="-849"/>
+    <nd ref="-850"/>
+    <nd ref="-851"/>
+    <nd ref="-852"/>
+    <nd ref="-853"/>
+    <nd ref="-854"/>
+    <nd ref="-855"/>
+    <nd ref="-856"/>
+    <nd ref="-857"/>
+    <nd ref="-858"/>
+    <nd ref="-859"/>
+    <nd ref="-860"/>
+    <nd ref="-861"/>
+    <nd ref="-862"/>
+    <nd ref="-863"/>
+    <nd ref="-528"/>
+    <nd ref="-549"/>
+    <nd ref="-843"/>
+    <nd ref="-842"/>
+    <nd ref="-846"/>
+    <tag k="_NUMBER_" v="11326"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00146905994"/>
+    <tag k="_Shape_Area_" v="      0.00000008591"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11326"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5579529" lat="34.1251147" timestamp="2011-08-24T23:12:11Z" user="" id="-865" actor="0"/>
+  <node version="0" lon="-117.5579535" lat="34.1248524" timestamp="2011-08-24T23:12:11Z" user="" id="-866" actor="0"/>
+  <node version="0" lon="-117.5578965" lat="34.1247905" timestamp="2011-08-24T23:12:11Z" user="" id="-867" actor="0"/>
+  <node version="0" lon="-117.5578995" lat="34.1247883" timestamp="2011-08-24T23:12:11Z" user="" id="-868" actor="0"/>
+  <node version="0" lon="-117.5579025" lat="34.1247860" timestamp="2011-08-24T23:12:11Z" user="" id="-869" actor="0"/>
+  <node version="0" lon="-117.5579054" lat="34.1247837" timestamp="2011-08-24T23:12:11Z" user="" id="-870" actor="0"/>
+  <node version="0" lon="-117.5579082" lat="34.1247813" timestamp="2011-08-24T23:12:11Z" user="" id="-871" actor="0"/>
+  <node version="0" lon="-117.5579111" lat="34.1247789" timestamp="2011-08-24T23:12:11Z" user="" id="-872" actor="0"/>
+  <node version="0" lon="-117.5579138" lat="34.1247764" timestamp="2011-08-24T23:12:11Z" user="" id="-873" actor="0"/>
+  <node version="0" lon="-117.5579165" lat="34.1247739" timestamp="2011-08-24T23:12:11Z" user="" id="-874" actor="0"/>
+  <node version="0" lon="-117.5579192" lat="34.1247714" timestamp="2011-08-24T23:12:11Z" user="" id="-875" actor="0"/>
+  <node version="0" lon="-117.5579218" lat="34.1247689" timestamp="2011-08-24T23:12:11Z" user="" id="-876" actor="0"/>
+  <node version="0" lon="-117.5579243" lat="34.1247663" timestamp="2011-08-24T23:12:11Z" user="" id="-877" actor="0"/>
+  <node version="0" lon="-117.5579268" lat="34.1247636" timestamp="2011-08-24T23:12:11Z" user="" id="-878" actor="0"/>
+  <node version="0" lon="-117.5579293" lat="34.1247609" timestamp="2011-08-24T23:12:11Z" user="" id="-879" actor="0"/>
+  <node version="0" lon="-117.5579317" lat="34.1247582" timestamp="2011-08-24T23:12:11Z" user="" id="-880" actor="0"/>
+  <node version="0" lon="-117.5579340" lat="34.1247555" timestamp="2011-08-24T23:12:11Z" user="" id="-881" actor="0"/>
+  <node version="0" lon="-117.5579363" lat="34.1247527" timestamp="2011-08-24T23:12:11Z" user="" id="-882" actor="0"/>
+  <node version="0" lon="-117.5579385" lat="34.1247499" timestamp="2011-08-24T23:12:11Z" user="" id="-883" actor="0"/>
+  <node version="0" lon="-117.5579406" lat="34.1247471" timestamp="2011-08-24T23:12:11Z" user="" id="-884" actor="0"/>
+  <node version="0" lon="-117.5579427" lat="34.1247442" timestamp="2011-08-24T23:12:11Z" user="" id="-885" actor="0"/>
+  <node version="0" lon="-117.5579447" lat="34.1247413" timestamp="2011-08-24T23:12:11Z" user="" id="-886" actor="0"/>
+  <node version="0" lon="-117.5579467" lat="34.1247384" timestamp="2011-08-24T23:12:11Z" user="" id="-887" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-888" actor="0">
+    <nd ref="-865"/>
+    <nd ref="-866"/>
+    <nd ref="-867"/>
+    <nd ref="-868"/>
+    <nd ref="-869"/>
+    <nd ref="-870"/>
+    <nd ref="-871"/>
+    <nd ref="-872"/>
+    <nd ref="-873"/>
+    <nd ref="-874"/>
+    <nd ref="-875"/>
+    <nd ref="-876"/>
+    <nd ref="-877"/>
+    <nd ref="-878"/>
+    <nd ref="-879"/>
+    <nd ref="-880"/>
+    <nd ref="-881"/>
+    <nd ref="-882"/>
+    <nd ref="-883"/>
+    <nd ref="-884"/>
+    <nd ref="-885"/>
+    <nd ref="-886"/>
+    <nd ref="-887"/>
+    <nd ref="-848"/>
+    <nd ref="-847"/>
+    <nd ref="-846"/>
+    <nd ref="-865"/>
+    <tag k="_NUMBER_" v="11328"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00111289539"/>
+    <tag k="_Shape_Area_" v="      0.00000006459"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11328"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5577923" lat="34.1248341" timestamp="2011-08-24T23:12:11Z" user="" id="-889" actor="0"/>
+  <node version="0" lon="-117.5577962" lat="34.1248334" timestamp="2011-08-24T23:12:11Z" user="" id="-890" actor="0"/>
+  <node version="0" lon="-117.5578001" lat="34.1248326" timestamp="2011-08-24T23:12:11Z" user="" id="-891" actor="0"/>
+  <node version="0" lon="-117.5578040" lat="34.1248317" timestamp="2011-08-24T23:12:11Z" user="" id="-892" actor="0"/>
+  <node version="0" lon="-117.5578079" lat="34.1248308" timestamp="2011-08-24T23:12:11Z" user="" id="-893" actor="0"/>
+  <node version="0" lon="-117.5578118" lat="34.1248299" timestamp="2011-08-24T23:12:11Z" user="" id="-894" actor="0"/>
+  <node version="0" lon="-117.5578156" lat="34.1248289" timestamp="2011-08-24T23:12:11Z" user="" id="-895" actor="0"/>
+  <node version="0" lon="-117.5578195" lat="34.1248278" timestamp="2011-08-24T23:12:11Z" user="" id="-896" actor="0"/>
+  <node version="0" lon="-117.5578233" lat="34.1248267" timestamp="2011-08-24T23:12:11Z" user="" id="-897" actor="0"/>
+  <node version="0" lon="-117.5578271" lat="34.1248255" timestamp="2011-08-24T23:12:11Z" user="" id="-898" actor="0"/>
+  <node version="0" lon="-117.5578308" lat="34.1248243" timestamp="2011-08-24T23:12:11Z" user="" id="-899" actor="0"/>
+  <node version="0" lon="-117.5578345" lat="34.1248230" timestamp="2011-08-24T23:12:11Z" user="" id="-900" actor="0"/>
+  <node version="0" lon="-117.5578382" lat="34.1248216" timestamp="2011-08-24T23:12:11Z" user="" id="-901" actor="0"/>
+  <node version="0" lon="-117.5578419" lat="34.1248202" timestamp="2011-08-24T23:12:11Z" user="" id="-902" actor="0"/>
+  <node version="0" lon="-117.5578455" lat="34.1248188" timestamp="2011-08-24T23:12:11Z" user="" id="-903" actor="0"/>
+  <node version="0" lon="-117.5578492" lat="34.1248173" timestamp="2011-08-24T23:12:11Z" user="" id="-904" actor="0"/>
+  <node version="0" lon="-117.5578527" lat="34.1248157" timestamp="2011-08-24T23:12:11Z" user="" id="-905" actor="0"/>
+  <node version="0" lon="-117.5578563" lat="34.1248141" timestamp="2011-08-24T23:12:11Z" user="" id="-906" actor="0"/>
+  <node version="0" lon="-117.5578598" lat="34.1248124" timestamp="2011-08-24T23:12:11Z" user="" id="-907" actor="0"/>
+  <node version="0" lon="-117.5578633" lat="34.1248107" timestamp="2011-08-24T23:12:11Z" user="" id="-908" actor="0"/>
+  <node version="0" lon="-117.5578667" lat="34.1248090" timestamp="2011-08-24T23:12:11Z" user="" id="-909" actor="0"/>
+  <node version="0" lon="-117.5578701" lat="34.1248072" timestamp="2011-08-24T23:12:11Z" user="" id="-910" actor="0"/>
+  <node version="0" lon="-117.5578735" lat="34.1248053" timestamp="2011-08-24T23:12:11Z" user="" id="-911" actor="0"/>
+  <node version="0" lon="-117.5578768" lat="34.1248034" timestamp="2011-08-24T23:12:11Z" user="" id="-912" actor="0"/>
+  <node version="0" lon="-117.5578801" lat="34.1248015" timestamp="2011-08-24T23:12:11Z" user="" id="-913" actor="0"/>
+  <node version="0" lon="-117.5578833" lat="34.1247995" timestamp="2011-08-24T23:12:11Z" user="" id="-914" actor="0"/>
+  <node version="0" lon="-117.5578865" lat="34.1247974" timestamp="2011-08-24T23:12:11Z" user="" id="-915" actor="0"/>
+  <node version="0" lon="-117.5578897" lat="34.1247953" timestamp="2011-08-24T23:12:11Z" user="" id="-916" actor="0"/>
+  <node version="0" lon="-117.5578928" lat="34.1247932" timestamp="2011-08-24T23:12:11Z" user="" id="-917" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-918" actor="0">
+    <nd ref="-672"/>
+    <nd ref="-671"/>
+    <nd ref="-889"/>
+    <nd ref="-890"/>
+    <nd ref="-891"/>
+    <nd ref="-892"/>
+    <nd ref="-893"/>
+    <nd ref="-894"/>
+    <nd ref="-895"/>
+    <nd ref="-896"/>
+    <nd ref="-897"/>
+    <nd ref="-898"/>
+    <nd ref="-899"/>
+    <nd ref="-900"/>
+    <nd ref="-901"/>
+    <nd ref="-902"/>
+    <nd ref="-903"/>
+    <nd ref="-904"/>
+    <nd ref="-905"/>
+    <nd ref="-906"/>
+    <nd ref="-907"/>
+    <nd ref="-908"/>
+    <nd ref="-909"/>
+    <nd ref="-910"/>
+    <nd ref="-911"/>
+    <nd ref="-912"/>
+    <nd ref="-913"/>
+    <nd ref="-914"/>
+    <nd ref="-915"/>
+    <nd ref="-916"/>
+    <nd ref="-917"/>
+    <nd ref="-867"/>
+    <nd ref="-866"/>
+    <nd ref="-865"/>
+    <nd ref="-672"/>
+    <tag k="_NUMBER_" v="11332"/>
+    <tag k="_STREETNAME_" v="HOLLOW TREE"/>
+    <tag k="_STREETTYPE_" v="DR"/>
+    <tag k="_CITY_" v="RANCHO CUCAMONGA"/>
+    <tag k="_STATE_" v="CA"/>
+    <tag k="_ZIP_" v="91739"/>
+    <tag k="_Shape_Leng_" v="      0.00090698173"/>
+    <tag k="_Shape_Area_" v="      0.00000004865"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v="HOLLOW TREE DR"/>
+    <tag k="_addr_house_" v="11332"/>
+    <tag k="_addr_postc_" v="91739"/>
+  </way>
+  <node version="0" lon="-117.5583431" lat="34.1253407" timestamp="2011-08-24T23:12:11Z" user="" id="-919" actor="0"/>
+  <node version="0" lon="-117.5580567" lat="34.1253362" timestamp="2011-08-24T23:12:11Z" user="" id="-920" actor="0"/>
+  <node version="0" lon="-117.5578585" lat="34.1253331" timestamp="2011-08-24T23:12:11Z" user="" id="-921" actor="0"/>
+  <node version="0" lon="-117.5576461" lat="34.1253298" timestamp="2011-08-24T23:12:11Z" user="" id="-922" actor="0"/>
+  <node version="0" lon="-117.5574472" lat="34.1253267" timestamp="2011-08-24T23:12:11Z" user="" id="-923" actor="0"/>
+  <node version="0" lon="-117.5572490" lat="34.1253237" timestamp="2011-08-24T23:12:11Z" user="" id="-924" actor="0"/>
+  <node version="0" lon="-117.5570508" lat="34.1253206" timestamp="2011-08-24T23:12:11Z" user="" id="-925" actor="0"/>
+  <node version="0" lon="-117.5568526" lat="34.1253176" timestamp="2011-08-24T23:12:11Z" user="" id="-926" actor="0"/>
+  <node version="0" lon="-117.5566545" lat="34.1253146" timestamp="2011-08-24T23:12:11Z" user="" id="-927" actor="0"/>
+  <node version="0" lon="-117.5564563" lat="34.1253116" timestamp="2011-08-24T23:12:11Z" user="" id="-928" actor="0"/>
+  <node version="0" lon="-117.5562581" lat="34.1253086" timestamp="2011-08-24T23:12:11Z" user="" id="-929" actor="0"/>
+  <node version="0" lon="-117.5560599" lat="34.1253056" timestamp="2011-08-24T23:12:11Z" user="" id="-930" actor="0"/>
+  <node version="0" lon="-117.5558618" lat="34.1253026" timestamp="2011-08-24T23:12:11Z" user="" id="-931" actor="0"/>
+  <node version="0" lon="-117.5556636" lat="34.1252996" timestamp="2011-08-24T23:12:11Z" user="" id="-932" actor="0"/>
+  <node version="0" lon="-117.5554654" lat="34.1252966" timestamp="2011-08-24T23:12:11Z" user="" id="-933" actor="0"/>
+  <node version="0" lon="-117.5552555" lat="34.1252935" timestamp="2011-08-24T23:12:11Z" user="" id="-934" actor="0"/>
+  <node version="0" lon="-117.5551202" lat="34.1252914" timestamp="2011-08-24T23:12:11Z" user="" id="-935" actor="0"/>
+  <node version="0" lon="-117.5549187" lat="34.1252884" timestamp="2011-08-24T23:12:11Z" user="" id="-936" actor="0"/>
+  <node version="0" lon="-117.5547073" lat="34.1252853" timestamp="2011-08-24T23:12:11Z" user="" id="-937" actor="0"/>
+  <node version="0" lon="-117.5545026" lat="34.1252822" timestamp="2011-08-24T23:12:11Z" user="" id="-938" actor="0"/>
+  <node version="0" lon="-117.5543044" lat="34.1252792" timestamp="2011-08-24T23:12:11Z" user="" id="-939" actor="0"/>
+  <node version="0" lon="-117.5543127" lat="34.1250594" timestamp="2011-08-24T23:12:11Z" user="" id="-940" actor="0"/>
+  <node version="0" lon="-117.5544856" lat="34.1250621" timestamp="2011-08-24T23:12:11Z" user="" id="-941" actor="0"/>
+  <node version="0" lon="-117.5548940" lat="34.1250682" timestamp="2011-08-24T23:12:11Z" user="" id="-942" actor="0"/>
+  <node version="0" lon="-117.5550262" lat="34.1250702" timestamp="2011-08-24T23:12:11Z" user="" id="-943" actor="0"/>
+  <node version="0" lon="-117.5554374" lat="34.1250763" timestamp="2011-08-24T23:12:11Z" user="" id="-944" actor="0"/>
+  <node version="0" lon="-117.5559035" lat="34.1250833" timestamp="2011-08-24T23:12:11Z" user="" id="-945" actor="0"/>
+  <node version="0" lon="-117.5585409" lat="34.1251239" timestamp="2011-08-24T23:12:11Z" user="" id="-946" actor="0"/>
+  <node version="0" lon="-117.5585409" lat="34.1251248" timestamp="2011-08-24T23:12:11Z" user="" id="-947" actor="0"/>
+  <node version="0" lon="-117.5585410" lat="34.1251570" timestamp="2011-08-24T23:12:11Z" user="" id="-948" actor="0"/>
+  <node version="0" lon="-117.5585411" lat="34.1252338" timestamp="2011-08-24T23:12:11Z" user="" id="-949" actor="0"/>
+  <node version="0" lon="-117.5585413" lat="34.1253428" timestamp="2011-08-24T23:12:11Z" user="" id="-950" actor="0"/>
+  <node version="0" lon="-117.5585413" lat="34.1253438" timestamp="2011-08-24T23:12:11Z" user="" id="-951" actor="0"/>
+  <way version="0" timestamp="2011-08-24T23:12:11Z" user="" id="-952" actor="0">
+    <nd ref="-919"/>
+    <nd ref="-920"/>
+    <nd ref="-921"/>
+    <nd ref="-922"/>
+    <nd ref="-923"/>
+    <nd ref="-924"/>
+    <nd ref="-925"/>
+    <nd ref="-926"/>
+    <nd ref="-927"/>
+    <nd ref="-928"/>
+    <nd ref="-929"/>
+    <nd ref="-930"/>
+    <nd ref="-931"/>
+    <nd ref="-932"/>
+    <nd ref="-933"/>
+    <nd ref="-934"/>
+    <nd ref="-935"/>
+    <nd ref="-936"/>
+    <nd ref="-937"/>
+    <nd ref="-938"/>
+    <nd ref="-939"/>
+    <nd ref="-940"/>
+    <nd ref="-941"/>
+    <nd ref="-942"/>
+    <nd ref="-943"/>
+    <nd ref="-944"/>
+    <nd ref="-945"/>
+    <nd ref="-783"/>
+    <nd ref="-765"/>
+    <nd ref="-739"/>
+    <nd ref="-705"/>
+    <nd ref="-691"/>
+    <nd ref="-688"/>
+    <nd ref="-674"/>
+    <nd ref="-648"/>
+    <nd ref="-672"/>
+    <nd ref="-865"/>
+    <nd ref="-846"/>
+    <nd ref="-842"/>
+    <nd ref="-844"/>
+    <nd ref="-946"/>
+    <nd ref="-947"/>
+    <nd ref="-948"/>
+    <nd ref="-949"/>
+    <nd ref="-950"/>
+    <nd ref="-951"/>
+    <nd ref="-919"/>
+    <tag k="_NUMBER_" v="0"/>
+    <tag k="_STREETNAME_" v=""/>
+    <tag k="_STREETTYPE_" v=""/>
+    <tag k="_CITY_" v=""/>
+    <tag k="_STATE_" v=""/>
+    <tag k="_ZIP_" v="00000"/>
+    <tag k="_Shape_Leng_" v="      0.00890599630"/>
+    <tag k="_Shape_Area_" v="      0.00000093055"/>
+    <tag k="_building_" v="house"/>
+    <tag k="_addr_stree_" v=""/>
+    <tag k="_addr_house_" v="0"/>
+    <tag k="_addr_postc_" v="00000"/>
+  </way>
+  <bound box="34.121662,-117.558541,34.125344,-117.554304" origin="http://www.openstreetmap.org/api/0.6"/>
+</osm>

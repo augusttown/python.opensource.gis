@@ -1,0 +1,934 @@
+<PAMDataset>
+  <SRS>PROJCS[&quot;NAD27 / UTM zone 13N&quot;,GEOGCS[&quot;NAD27&quot;,DATUM[&quot;North_American_Datum_1927&quot;,SPHEROID[&quot;Clarke 1866&quot;,6378206.4,294.9786982139006,AUTHORITY[&quot;EPSG&quot;,&quot;7008&quot;]],AUTHORITY[&quot;EPSG&quot;,&quot;6267&quot;]],PRIMEM[&quot;Greenwich&quot;,0],UNIT[&quot;degree&quot;,0.0174532925199433],AUTHORITY[&quot;EPSG&quot;,&quot;4267&quot;]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;latitude_of_origin&quot;,0],PARAMETER[&quot;central_meridian&quot;,-105],PARAMETER[&quot;scale_factor&quot;,0.9996],PARAMETER[&quot;false_easting&quot;,500000],PARAMETER[&quot;false_northing&quot;,0],UNIT[&quot;metre&quot;,1,AUTHORITY[&quot;EPSG&quot;,&quot;9001&quot;]],AUTHORITY[&quot;EPSG&quot;,&quot;26713&quot;]]</SRS>
+  <GeoTransform> 5.9001000000000000e+005, 3.0000000000000000e+001, 0.0000000000000000e+000, 4.9280000000000000e+006, 0.0000000000000000e+000,-3.0000000000000000e+001</GeoTransform>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+    <MDI key="AREA_OR_POINT">Area</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>OID</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>Value</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>Count</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>0</F>
+        <F>2</F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>1</F>
+        <F>3</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>2</F>
+        <F>4</F>
+      </Row>
+      <Row index="3">
+        <F>3</F>
+        <F>3</F>
+        <F>10</F>
+      </Row>
+      <Row index="4">
+        <F>4</F>
+        <F>4</F>
+        <F>20</F>
+      </Row>
+      <Row index="5">
+        <F>5</F>
+        <F>5</F>
+        <F>28</F>
+      </Row>
+      <Row index="6">
+        <F>6</F>
+        <F>6</F>
+        <F>31</F>
+      </Row>
+      <Row index="7">
+        <F>7</F>
+        <F>7</F>
+        <F>30</F>
+      </Row>
+      <Row index="8">
+        <F>8</F>
+        <F>8</F>
+        <F>36</F>
+      </Row>
+      <Row index="9">
+        <F>9</F>
+        <F>9</F>
+        <F>39</F>
+      </Row>
+      <Row index="10">
+        <F>10</F>
+        <F>10</F>
+        <F>32</F>
+      </Row>
+      <Row index="11">
+        <F>11</F>
+        <F>11</F>
+        <F>44</F>
+      </Row>
+      <Row index="12">
+        <F>12</F>
+        <F>12</F>
+        <F>40</F>
+      </Row>
+      <Row index="13">
+        <F>13</F>
+        <F>13</F>
+        <F>54</F>
+      </Row>
+      <Row index="14">
+        <F>14</F>
+        <F>14</F>
+        <F>44</F>
+      </Row>
+      <Row index="15">
+        <F>15</F>
+        <F>15</F>
+        <F>62</F>
+      </Row>
+      <Row index="16">
+        <F>16</F>
+        <F>16</F>
+        <F>57</F>
+      </Row>
+      <Row index="17">
+        <F>17</F>
+        <F>17</F>
+        <F>44</F>
+      </Row>
+      <Row index="18">
+        <F>18</F>
+        <F>18</F>
+        <F>69</F>
+      </Row>
+      <Row index="19">
+        <F>19</F>
+        <F>19</F>
+        <F>78</F>
+      </Row>
+      <Row index="20">
+        <F>20</F>
+        <F>20</F>
+        <F>64</F>
+      </Row>
+      <Row index="21">
+        <F>21</F>
+        <F>21</F>
+        <F>82</F>
+      </Row>
+      <Row index="22">
+        <F>22</F>
+        <F>22</F>
+        <F>70</F>
+      </Row>
+      <Row index="23">
+        <F>23</F>
+        <F>23</F>
+        <F>58</F>
+      </Row>
+      <Row index="24">
+        <F>24</F>
+        <F>24</F>
+        <F>72</F>
+      </Row>
+      <Row index="25">
+        <F>25</F>
+        <F>25</F>
+        <F>90</F>
+      </Row>
+      <Row index="26">
+        <F>26</F>
+        <F>26</F>
+        <F>90</F>
+      </Row>
+      <Row index="27">
+        <F>27</F>
+        <F>27</F>
+        <F>84</F>
+      </Row>
+      <Row index="28">
+        <F>28</F>
+        <F>28</F>
+        <F>122</F>
+      </Row>
+      <Row index="29">
+        <F>29</F>
+        <F>29</F>
+        <F>122</F>
+      </Row>
+      <Row index="30">
+        <F>30</F>
+        <F>30</F>
+        <F>127</F>
+      </Row>
+      <Row index="31">
+        <F>31</F>
+        <F>31</F>
+        <F>130</F>
+      </Row>
+      <Row index="32">
+        <F>32</F>
+        <F>32</F>
+        <F>155</F>
+      </Row>
+      <Row index="33">
+        <F>33</F>
+        <F>33</F>
+        <F>164</F>
+      </Row>
+      <Row index="34">
+        <F>34</F>
+        <F>34</F>
+        <F>191</F>
+      </Row>
+      <Row index="35">
+        <F>35</F>
+        <F>35</F>
+        <F>190</F>
+      </Row>
+      <Row index="36">
+        <F>36</F>
+        <F>36</F>
+        <F>220</F>
+      </Row>
+      <Row index="37">
+        <F>37</F>
+        <F>37</F>
+        <F>194</F>
+      </Row>
+      <Row index="38">
+        <F>38</F>
+        <F>38</F>
+        <F>209</F>
+      </Row>
+      <Row index="39">
+        <F>39</F>
+        <F>39</F>
+        <F>245</F>
+      </Row>
+      <Row index="40">
+        <F>40</F>
+        <F>40</F>
+        <F>241</F>
+      </Row>
+      <Row index="41">
+        <F>41</F>
+        <F>41</F>
+        <F>258</F>
+      </Row>
+      <Row index="42">
+        <F>42</F>
+        <F>42</F>
+        <F>289</F>
+      </Row>
+      <Row index="43">
+        <F>43</F>
+        <F>43</F>
+        <F>298</F>
+      </Row>
+      <Row index="44">
+        <F>44</F>
+        <F>44</F>
+        <F>292</F>
+      </Row>
+      <Row index="45">
+        <F>45</F>
+        <F>45</F>
+        <F>248</F>
+      </Row>
+      <Row index="46">
+        <F>46</F>
+        <F>46</F>
+        <F>296</F>
+      </Row>
+      <Row index="47">
+        <F>47</F>
+        <F>47</F>
+        <F>296</F>
+      </Row>
+      <Row index="48">
+        <F>48</F>
+        <F>48</F>
+        <F>340</F>
+      </Row>
+      <Row index="49">
+        <F>49</F>
+        <F>49</F>
+        <F>363</F>
+      </Row>
+      <Row index="50">
+        <F>50</F>
+        <F>50</F>
+        <F>396</F>
+      </Row>
+      <Row index="51">
+        <F>51</F>
+        <F>51</F>
+        <F>385</F>
+      </Row>
+      <Row index="52">
+        <F>52</F>
+        <F>52</F>
+        <F>473</F>
+      </Row>
+      <Row index="53">
+        <F>53</F>
+        <F>53</F>
+        <F>487</F>
+      </Row>
+      <Row index="54">
+        <F>54</F>
+        <F>54</F>
+        <F>598</F>
+      </Row>
+      <Row index="55">
+        <F>55</F>
+        <F>55</F>
+        <F>595</F>
+      </Row>
+      <Row index="56">
+        <F>56</F>
+        <F>56</F>
+        <F>615</F>
+      </Row>
+      <Row index="57">
+        <F>57</F>
+        <F>57</F>
+        <F>602</F>
+      </Row>
+      <Row index="58">
+        <F>58</F>
+        <F>58</F>
+        <F>664</F>
+      </Row>
+      <Row index="59">
+        <F>59</F>
+        <F>59</F>
+        <F>655</F>
+      </Row>
+      <Row index="60">
+        <F>60</F>
+        <F>60</F>
+        <F>675</F>
+      </Row>
+      <Row index="61">
+        <F>61</F>
+        <F>61</F>
+        <F>750</F>
+      </Row>
+      <Row index="62">
+        <F>62</F>
+        <F>62</F>
+        <F>727</F>
+      </Row>
+      <Row index="63">
+        <F>63</F>
+        <F>63</F>
+        <F>750</F>
+      </Row>
+      <Row index="64">
+        <F>64</F>
+        <F>64</F>
+        <F>772</F>
+      </Row>
+      <Row index="65">
+        <F>65</F>
+        <F>65</F>
+        <F>741</F>
+      </Row>
+      <Row index="66">
+        <F>66</F>
+        <F>66</F>
+        <F>728</F>
+      </Row>
+      <Row index="67">
+        <F>67</F>
+        <F>67</F>
+        <F>774</F>
+      </Row>
+      <Row index="68">
+        <F>68</F>
+        <F>68</F>
+        <F>820</F>
+      </Row>
+      <Row index="69">
+        <F>69</F>
+        <F>69</F>
+        <F>704</F>
+      </Row>
+      <Row index="70">
+        <F>70</F>
+        <F>70</F>
+        <F>726</F>
+      </Row>
+      <Row index="71">
+        <F>71</F>
+        <F>71</F>
+        <F>738</F>
+      </Row>
+      <Row index="72">
+        <F>72</F>
+        <F>72</F>
+        <F>733</F>
+      </Row>
+      <Row index="73">
+        <F>73</F>
+        <F>73</F>
+        <F>827</F>
+      </Row>
+      <Row index="74">
+        <F>74</F>
+        <F>74</F>
+        <F>814</F>
+      </Row>
+      <Row index="75">
+        <F>75</F>
+        <F>75</F>
+        <F>789</F>
+      </Row>
+      <Row index="76">
+        <F>76</F>
+        <F>76</F>
+        <F>710</F>
+      </Row>
+      <Row index="77">
+        <F>77</F>
+        <F>77</F>
+        <F>775</F>
+      </Row>
+      <Row index="78">
+        <F>78</F>
+        <F>78</F>
+        <F>854</F>
+      </Row>
+      <Row index="79">
+        <F>79</F>
+        <F>79</F>
+        <F>841</F>
+      </Row>
+      <Row index="80">
+        <F>80</F>
+        <F>80</F>
+        <F>839</F>
+      </Row>
+      <Row index="81">
+        <F>81</F>
+        <F>81</F>
+        <F>842</F>
+      </Row>
+      <Row index="82">
+        <F>82</F>
+        <F>82</F>
+        <F>854</F>
+      </Row>
+      <Row index="83">
+        <F>83</F>
+        <F>83</F>
+        <F>904</F>
+      </Row>
+      <Row index="84">
+        <F>84</F>
+        <F>84</F>
+        <F>906</F>
+      </Row>
+      <Row index="85">
+        <F>85</F>
+        <F>85</F>
+        <F>926</F>
+      </Row>
+      <Row index="86">
+        <F>86</F>
+        <F>86</F>
+        <F>909</F>
+      </Row>
+      <Row index="87">
+        <F>87</F>
+        <F>87</F>
+        <F>909</F>
+      </Row>
+      <Row index="88">
+        <F>88</F>
+        <F>88</F>
+        <F>927</F>
+      </Row>
+      <Row index="89">
+        <F>89</F>
+        <F>89</F>
+        <F>930</F>
+      </Row>
+      <Row index="90">
+        <F>90</F>
+        <F>90</F>
+        <F>901</F>
+      </Row>
+      <Row index="91">
+        <F>91</F>
+        <F>91</F>
+        <F>955</F>
+      </Row>
+      <Row index="92">
+        <F>92</F>
+        <F>92</F>
+        <F>921</F>
+      </Row>
+      <Row index="93">
+        <F>93</F>
+        <F>93</F>
+        <F>962</F>
+      </Row>
+      <Row index="94">
+        <F>94</F>
+        <F>94</F>
+        <F>936</F>
+      </Row>
+      <Row index="95">
+        <F>95</F>
+        <F>95</F>
+        <F>901</F>
+      </Row>
+      <Row index="96">
+        <F>96</F>
+        <F>96</F>
+        <F>908</F>
+      </Row>
+      <Row index="97">
+        <F>97</F>
+        <F>97</F>
+        <F>981</F>
+      </Row>
+      <Row index="98">
+        <F>98</F>
+        <F>98</F>
+        <F>971</F>
+      </Row>
+      <Row index="99">
+        <F>99</F>
+        <F>99</F>
+        <F>912</F>
+      </Row>
+      <Row index="100">
+        <F>100</F>
+        <F>100</F>
+        <F>930</F>
+      </Row>
+      <Row index="101">
+        <F>101</F>
+        <F>101</F>
+        <F>935</F>
+      </Row>
+      <Row index="102">
+        <F>102</F>
+        <F>102</F>
+        <F>966</F>
+      </Row>
+      <Row index="103">
+        <F>103</F>
+        <F>103</F>
+        <F>948</F>
+      </Row>
+      <Row index="104">
+        <F>104</F>
+        <F>104</F>
+        <F>925</F>
+      </Row>
+      <Row index="105">
+        <F>105</F>
+        <F>105</F>
+        <F>1028</F>
+      </Row>
+      <Row index="106">
+        <F>106</F>
+        <F>106</F>
+        <F>1060</F>
+      </Row>
+      <Row index="107">
+        <F>107</F>
+        <F>107</F>
+        <F>1028</F>
+      </Row>
+      <Row index="108">
+        <F>108</F>
+        <F>108</F>
+        <F>1035</F>
+      </Row>
+      <Row index="109">
+        <F>109</F>
+        <F>109</F>
+        <F>1061</F>
+      </Row>
+      <Row index="110">
+        <F>110</F>
+        <F>110</F>
+        <F>1044</F>
+      </Row>
+      <Row index="111">
+        <F>111</F>
+        <F>111</F>
+        <F>1084</F>
+      </Row>
+      <Row index="112">
+        <F>112</F>
+        <F>112</F>
+        <F>1152</F>
+      </Row>
+      <Row index="113">
+        <F>113</F>
+        <F>113</F>
+        <F>1126</F>
+      </Row>
+      <Row index="114">
+        <F>114</F>
+        <F>114</F>
+        <F>1148</F>
+      </Row>
+      <Row index="115">
+        <F>115</F>
+        <F>115</F>
+        <F>1225</F>
+      </Row>
+      <Row index="116">
+        <F>116</F>
+        <F>116</F>
+        <F>1355</F>
+      </Row>
+      <Row index="117">
+        <F>117</F>
+        <F>117</F>
+        <F>1395</F>
+      </Row>
+      <Row index="118">
+        <F>118</F>
+        <F>118</F>
+        <F>1493</F>
+      </Row>
+      <Row index="119">
+        <F>119</F>
+        <F>119</F>
+        <F>1457</F>
+      </Row>
+      <Row index="120">
+        <F>120</F>
+        <F>120</F>
+        <F>1541</F>
+      </Row>
+      <Row index="121">
+        <F>121</F>
+        <F>121</F>
+        <F>1613</F>
+      </Row>
+      <Row index="122">
+        <F>122</F>
+        <F>122</F>
+        <F>1581</F>
+      </Row>
+      <Row index="123">
+        <F>123</F>
+        <F>123</F>
+        <F>1568</F>
+      </Row>
+      <Row index="124">
+        <F>124</F>
+        <F>124</F>
+        <F>1721</F>
+      </Row>
+      <Row index="125">
+        <F>125</F>
+        <F>125</F>
+        <F>1544</F>
+      </Row>
+      <Row index="126">
+        <F>126</F>
+        <F>126</F>
+        <F>1594</F>
+      </Row>
+      <Row index="127">
+        <F>127</F>
+        <F>127</F>
+        <F>1617</F>
+      </Row>
+      <Row index="128">
+        <F>128</F>
+        <F>128</F>
+        <F>1609</F>
+      </Row>
+      <Row index="129">
+        <F>129</F>
+        <F>129</F>
+        <F>1652</F>
+      </Row>
+      <Row index="130">
+        <F>130</F>
+        <F>130</F>
+        <F>1650</F>
+      </Row>
+      <Row index="131">
+        <F>131</F>
+        <F>131</F>
+        <F>1793</F>
+      </Row>
+      <Row index="132">
+        <F>132</F>
+        <F>132</F>
+        <F>1743</F>
+      </Row>
+      <Row index="133">
+        <F>133</F>
+        <F>133</F>
+        <F>1649</F>
+      </Row>
+      <Row index="134">
+        <F>134</F>
+        <F>134</F>
+        <F>1735</F>
+      </Row>
+      <Row index="135">
+        <F>135</F>
+        <F>135</F>
+        <F>1797</F>
+      </Row>
+      <Row index="136">
+        <F>136</F>
+        <F>136</F>
+        <F>1713</F>
+      </Row>
+      <Row index="137">
+        <F>137</F>
+        <F>137</F>
+        <F>1757</F>
+      </Row>
+      <Row index="138">
+        <F>138</F>
+        <F>138</F>
+        <F>1716</F>
+      </Row>
+      <Row index="139">
+        <F>139</F>
+        <F>139</F>
+        <F>1815</F>
+      </Row>
+      <Row index="140">
+        <F>140</F>
+        <F>140</F>
+        <F>1808</F>
+      </Row>
+      <Row index="141">
+        <F>141</F>
+        <F>141</F>
+        <F>1769</F>
+      </Row>
+      <Row index="142">
+        <F>142</F>
+        <F>142</F>
+        <F>1793</F>
+      </Row>
+      <Row index="143">
+        <F>143</F>
+        <F>143</F>
+        <F>1794</F>
+      </Row>
+      <Row index="144">
+        <F>144</F>
+        <F>144</F>
+        <F>1866</F>
+      </Row>
+      <Row index="145">
+        <F>145</F>
+        <F>145</F>
+        <F>1798</F>
+      </Row>
+      <Row index="146">
+        <F>146</F>
+        <F>146</F>
+        <F>1808</F>
+      </Row>
+      <Row index="147">
+        <F>147</F>
+        <F>147</F>
+        <F>1807</F>
+      </Row>
+      <Row index="148">
+        <F>148</F>
+        <F>148</F>
+        <F>1825</F>
+      </Row>
+      <Row index="149">
+        <F>149</F>
+        <F>149</F>
+        <F>1838</F>
+      </Row>
+      <Row index="150">
+        <F>150</F>
+        <F>150</F>
+        <F>1749</F>
+      </Row>
+      <Row index="151">
+        <F>151</F>
+        <F>151</F>
+        <F>1894</F>
+      </Row>
+      <Row index="152">
+        <F>152</F>
+        <F>152</F>
+        <F>1876</F>
+      </Row>
+      <Row index="153">
+        <F>153</F>
+        <F>153</F>
+        <F>1961</F>
+      </Row>
+      <Row index="154">
+        <F>154</F>
+        <F>154</F>
+        <F>1944</F>
+      </Row>
+      <Row index="155">
+        <F>155</F>
+        <F>155</F>
+        <F>1986</F>
+      </Row>
+      <Row index="156">
+        <F>156</F>
+        <F>156</F>
+        <F>1939</F>
+      </Row>
+      <Row index="157">
+        <F>157</F>
+        <F>157</F>
+        <F>1887</F>
+      </Row>
+      <Row index="158">
+        <F>158</F>
+        <F>158</F>
+        <F>1959</F>
+      </Row>
+      <Row index="159">
+        <F>159</F>
+        <F>159</F>
+        <F>1892</F>
+      </Row>
+      <Row index="160">
+        <F>160</F>
+        <F>160</F>
+        <F>1963</F>
+      </Row>
+      <Row index="161">
+        <F>161</F>
+        <F>161</F>
+        <F>1961</F>
+      </Row>
+      <Row index="162">
+        <F>162</F>
+        <F>162</F>
+        <F>1984</F>
+      </Row>
+      <Row index="163">
+        <F>163</F>
+        <F>163</F>
+        <F>2139</F>
+      </Row>
+      <Row index="164">
+        <F>164</F>
+        <F>164</F>
+        <F>2066</F>
+      </Row>
+      <Row index="165">
+        <F>165</F>
+        <F>165</F>
+        <F>2186</F>
+      </Row>
+      <Row index="166">
+        <F>166</F>
+        <F>166</F>
+        <F>2186</F>
+      </Row>
+      <Row index="167">
+        <F>167</F>
+        <F>167</F>
+        <F>2281</F>
+      </Row>
+      <Row index="168">
+        <F>168</F>
+        <F>168</F>
+        <F>2429</F>
+      </Row>
+      <Row index="169">
+        <F>169</F>
+        <F>169</F>
+        <F>2571</F>
+      </Row>
+      <Row index="170">
+        <F>170</F>
+        <F>170</F>
+        <F>2523</F>
+      </Row>
+      <Row index="171">
+        <F>171</F>
+        <F>171</F>
+        <F>2490</F>
+      </Row>
+      <Row index="172">
+        <F>172</F>
+        <F>172</F>
+        <F>2442</F>
+      </Row>
+      <Row index="173">
+        <F>173</F>
+        <F>173</F>
+        <F>2458</F>
+      </Row>
+      <Row index="174">
+        <F>174</F>
+        <F>174</F>
+        <F>2500</F>
+      </Row>
+      <Row index="175">
+        <F>175</F>
+        <F>175</F>
+        <F>2664</F>
+      </Row>
+      <Row index="176">
+        <F>176</F>
+        <F>176</F>
+        <F>3094</F>
+      </Row>
+      <Row index="177">
+        <F>177</F>
+        <F>177</F>
+        <F>4206</F>
+      </Row>
+      <Row index="178">
+        <F>178</F>
+        <F>178</F>
+        <F>7034</F>
+      </Row>
+      <Row index="179">
+        <F>179</F>
+        <F>179</F>
+        <F>105466</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">76</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">222.47544901654</MDI>
+      <MDI key="STATISTICS_STDDEV">39.463842656712</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

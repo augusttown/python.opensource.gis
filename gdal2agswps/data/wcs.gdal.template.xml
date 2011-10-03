@@ -1,0 +1,73 @@
+<WCS_GDAL>
+  <ServiceURL>http://char:6080/arcgis/services/haiti_3857/MapServer/WCSServer?</ServiceURL>
+  <CoverageName>1</CoverageName>
+  <CoverageOffering>
+    <name>1</name>
+    <label>elevation_1</label>
+    <lonLatEnvelope srsName="WGS84(DD)">
+      <pos dimension="2">-72.346791006506265 18.549845821171957</pos>
+      <pos dimension="2">-72.342595874129429 18.553899604837881</pos>
+    </lonLatEnvelope>
+    <domainSet>
+      <spatialDomain>
+        <Envelope srsName="EPSG:3857">
+          <pos dimension="2">-8053607.9353716616 2102008.5699503249</pos>
+          <pos dimension="2">-8053140.9353716616 2102484.5699503249</pos>
+        </Envelope>
+        <RectifiedGrid srsName="EPSG:3857" dimension="2">
+          <limits>
+            <GridEnvelope>
+              <low>0 0</low>
+              <high>466 475</high>
+            </GridEnvelope>
+          </limits>
+          <axisName>Raster_Pixel_Columns(X-axis)</axisName>
+          <axisName>Raster_Pixel_Rows(Y-axis)</axisName>
+          <origin>
+            <pos>-8053607.4353716616 2102484.0699503249</pos>
+          </origin>
+          <offsetVector>1 0</offsetVector>
+          <offsetVector>0 -1</offsetVector>
+        </RectifiedGrid>
+      </spatialDomain>
+    </domainSet>
+    <rangeSet>
+      <RangeSet>
+        <name>RangeSet_1</name>
+        <label>elevation_1 RangeSet</label>
+        <axisDescription>
+          <AxisDescription>
+            <name>Band</name>
+            <label>Band Numbers</label>
+            <values>
+              <singleValue>1</singleValue>
+            </values>
+          </AxisDescription>
+        </axisDescription>
+        <nullValues>
+          <singleValue>-9999</singleValue>
+        </nullValues>
+      </RangeSet>
+    </rangeSet>
+    <supportedCRSs>
+      <requestResponseCRSs>EPSG:4326</requestResponseCRSs>
+      <requestResponseCRSs>EPSG:3857</requestResponseCRSs>
+      <nativeCRSs>EPSG:3857</nativeCRSs>
+    </supportedCRSs>
+    <supportedFormats nativeFormat="GeoTIFF">
+      <formats>GeoTIFF</formats>
+      <formats>NITF</formats>
+      <formats>HDF</formats>
+    </supportedFormats>
+    <supportedInterpolations default="nearest neighbor">
+      <interpolationMethod>nearest neighbor</interpolationMethod>
+      <interpolationMethod>bilinear</interpolationMethod>
+      <interpolationMethod>bicubic</interpolationMethod>
+    </supportedInterpolations>
+  </CoverageOffering>
+  <PreferredFormat>GeoTIFF</PreferredFormat>
+  <NoDataValue>-9999</NoDataValue>
+  <BandIdentifier>Band</BandIdentifier>
+  <BandCount>1</BandCount>
+  <BandType>Float32</BandType>
+</WCS_GDAL>

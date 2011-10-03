@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 1.8.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="90.000000000000000" minlon="-13636768.088600000000000" maxlat="4551483.813799999700000" maxlon="-180.000000000000000"/></metadata>    
+<wpt lat="4541582.9130999967" lon="-13624578.047699999">
+  <name>Bus</name>
+  <type>Bus</type>
+  <extensions>
+    <ogr:ADDRESS>100 Latona St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4547314.1181999967" lon="-13629600.1153">
+  <name>School</name>
+  <type>School</type>
+  <extensions>
+    <ogr:ADDRESS>1050 Page St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4549303.5372999981" lon="-13627749.2061">
+  <name>Hospital</name>
+  <type>Hospital</type>
+  <extensions>
+    <ogr:ADDRESS>1150 Van Ness Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4539907.384199999" lon="-13630033.816">
+  <name>Hospital</name>
+  <type>Hospital</type>
+  <extensions>
+    <ogr:ADDRESS>1180 Cayuga Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548679.1356" lon="-13628959.6943">
+  <name>School</name>
+  <type>School</type>
+  <extensions>
+    <ogr:ADDRESS>1350 Fillmore St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4547835.2035999969" lon="-13629689.1709">
+  <name>Bus</name>
+  <type>Bus</type>
+  <extensions>
+    <ogr:ADDRESS>1350 Grove St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4545641.1877000034" lon="-13634514.091499999">
+  <name>Bus</name>
+  <type>Bus</type>
+  <extensions>
+    <ogr:ADDRESS>1450 24th Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4549807.1142000034" lon="-13627574.2119">
+  <name>Bus</name>
+  <type>Bus</type>
+  <extensions>
+    <ogr:ADDRESS>1450 Pine St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4550314.0965000018" lon="-13625176.167399999">
+  <name>Bus</name>
+  <type>Bus</type>
+  <extensions>
+    <ogr:ADDRESS>150 California St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548786.0403999984" lon="-13631547.427099999">
+  <name>Bus</name>
+  <type>Bus</type>
+  <extensions>
+    <ogr:ADDRESS>150 Commonwealth Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548488.2871999964" lon="-13630607.111400001">
+  <name>School</name>
+  <type>School</type>
+  <extensions>
+    <ogr:ADDRESS>150 Masonic Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4539258.0749000013" lon="-13632911.3135">
+  <name>Hospital</name>
+  <type>Hospital</type>
+  <extensions>
+    <ogr:ADDRESS>150 Vernon St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548867.452200003" lon="-13628915.1664">
+  <name>School</name>
+  <type>School</type>
+  <extensions>
+    <ogr:ADDRESS>1561 Ofarrell St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548733.6442999989" lon="-13628947.783">
+  <name>Bus</name>
+  <type>Bus</type>
+  <extensions>
+    <ogr:ADDRESS>1575 Ellis St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4546525.7796000019" lon="-13627816.4431">
+  <name>Hospital</name>
+  <type>Hospital</type>
+  <extensions>
+    <ogr:ADDRESS>1688 15th St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4550348.4689999968" lon="-13627735.1799">
+  <name>Bus</name>
+  <type>Bus</type>
+  <extensions>
+    <ogr:ADDRESS>1850 Polk St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4550982.9733999968" lon="-13629267.604">
+  <name>School</name>
+  <type>School</type>
+  <extensions>
+    <ogr:ADDRESS>2150 Filbert St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4547454.9494" lon="-13631136.3243">
+  <name>School</name>
+  <type>School</type>
+  <extensions>
+    <ogr:ADDRESS>2150 Hayes St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4543058.6712" lon="-13628143.7223">
+  <name>School</name>
+  <type>School</type>
+  <extensions>
+    <ogr:ADDRESS>225 30th St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4547581.276799999" lon="-13628057.2271">
+  <name>Bus</name>
+  <type>Bus</type>
+  <extensions>
+    <ogr:ADDRESS>225 Octavia St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4542192.1094999984" lon="-13629080.6985">
+  <name>School</name>
+  <type>School</type>
+  <extensions>
+    <ogr:ADDRESS>23 Sussex St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4543023.1965000033" lon="-13634119.129999999">
+  <name>School</name>
+  <type>School</type>
+  <extensions>
+    <ogr:ADDRESS>2450 22nd Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4544914.3633999974" lon="-13626437.7512">
+  <name>School</name>
+  <type>School</type>
+  <extensions>
+    <ogr:ADDRESS>2450 Bryant St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4543308.4052999988" lon="-13628196.0425">
+  <name>Museum</name>
+  <type>Museum</type>
+  <extensions>
+    <ogr:ADDRESS>250 29th St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4546342.4338999987" lon="-13631337.033300001">
+  <name>Bus</name>
+  <type>Bus</type>
+  <extensions>
+    <ogr:ADDRESS>250 Carl St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4541351.2364" lon="-13631527.166999999">
+  <name>Museum</name>
+  <type>Museum</type>
+  <extensions>
+    <ogr:ADDRESS>250 Montecito Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4542677.6061" lon="-13635638.5298">
+  <name>Museum</name>
+  <type>Museum</type>
+  <extensions>
+    <ogr:ADDRESS>2550 35th Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548687.304899998" lon="-13631118.847100001">
+  <name>Museum</name>
+  <type>Museum</type>
+  <extensions>
+    <ogr:ADDRESS>3050 Geary Blvd</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4541511.8330999985" lon="-13632788.750799999">
+  <name>Hospital</name>
+  <type>Hospital</type>
+  <extensions>
+    <ogr:ADDRESS>323 San Benito Way</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4544283.467" lon="-13627023.180399999">
+  <name>Museum</name>
+  <type>Museum</type>
+  <extensions>
+    <ogr:ADDRESS>3237 25th St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548647.1630000025" lon="-13632095.787">
+  <name>Airport</name>
+  <type>Airport</type>
+  <extensions>
+    <ogr:ADDRESS>350 Park Presidio Blvd</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4542910.860799998" lon="-13627778.037900001">
+  <name>Airport</name>
+  <type>Airport</type>
+  <extensions>
+    <ogr:ADDRESS>369 Coleridge St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4542571.0454000011" lon="-13626887.927200001">
+  <name>Museum</name>
+  <type>Museum</type>
+  <extensions>
+    <ogr:ADDRESS>3850 Folsom St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4544382.1608999968" lon="-13628587.4419">
+  <name>Museum</name>
+  <type>Museum</type>
+  <extensions>
+    <ogr:ADDRESS>3875 24th St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4544160.1362999976" lon="-13629020.808699999">
+  <name>Airport</name>
+  <type>Airport</type>
+  <extensions>
+    <ogr:ADDRESS>4150 25th St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4545927.0314000025" lon="-13636768.0886">
+  <name>Restaurant</name>
+  <type>Restaurant</type>
+  <extensions>
+    <ogr:ADDRESS>4150 Irving St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548287.8649" lon="-13634542.0327">
+  <name>Museum</name>
+  <type>Museum</type>
+  <extensions>
+    <ogr:ADDRESS>450 23rd Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548842.2399" lon="-13632482.2882">
+  <name>Restaurant</name>
+  <type>Restaurant</type>
+  <extensions>
+    <ogr:ADDRESS>450 Clement St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4547159.2058999985" lon="-13628826.444800001">
+  <name>Airport</name>
+  <type>Airport</type>
+  <extensions>
+    <ogr:ADDRESS>450 Waller St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4540450.1952000037" lon="-13629356.3256">
+  <name>Airport</name>
+  <type>Airport</type>
+  <extensions>
+    <ogr:ADDRESS>4674 Mission St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4546043.2016" lon="-13628519.6483">
+  <name>Restaurant</name>
+  <type>Restaurant</type>
+  <extensions>
+    <ogr:ADDRESS>475 Church St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4551483.8138" lon="-13626226.3554">
+  <name>Restaurant</name>
+  <type>Restaurant</type>
+  <extensions>
+    <ogr:ADDRESS>490 Filbert St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4546033.063000001" lon="-13627683.638900001">
+  <name>Restaurant</name>
+  <type>Restaurant</type>
+  <extensions>
+    <ogr:ADDRESS>50 Clarion Aly</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4545272.2779000029" lon="-13627857.186000001">
+  <name>Museum</name>
+  <type>Museum</type>
+  <extensions>
+    <ogr:ADDRESS>50 Liberty St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4539932.2934999987" lon="-13630069.772300001">
+  <name>Gas</name>
+  <type>Gas</type>
+  <extensions>
+    <ogr:ADDRESS>50 Rousseau St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4542150.0221000016" lon="-13629083.370200001">
+  <name>Restaurant</name>
+  <type>Restaurant</type>
+  <extensions>
+    <ogr:ADDRESS>50 Surrey St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548104.7699000016" lon="-13633072.615499999">
+  <name>Museum</name>
+  <type>Museum</type>
+  <extensions>
+    <ogr:ADDRESS>550 11th Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4549170.1462000012" lon="-13627089.749499999">
+  <name>Restaurant</name>
+  <type>Restaurant</type>
+  <extensions>
+    <ogr:ADDRESS>643 Ofarrell St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4548644.0644000024" lon="-13630667.557799999">
+  <name>Restaurant</name>
+  <type>Restaurant</type>
+  <extensions>
+    <ogr:ADDRESS>65 Masonic Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4547654.0882000029" lon="-13636189.5612">
+  <name>Gas</name>
+  <type>Gas</type>
+  <extensions>
+    <ogr:ADDRESS>750 37th Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4542808.9432" lon="-13627794.179099999">
+  <name>Restaurant</name>
+  <type>Restaurant</type>
+  <extensions>
+    <ogr:ADDRESS>77 Santa Marina St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4546680.6824000031" lon="-13628806.5186">
+  <name>Restaurant</name>
+  <type>Restaurant</type>
+  <extensions>
+    <ogr:ADDRESS>786 14th St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4547673.8052000031" lon="-13626772.7116">
+  <name>Gas</name>
+  <type>Gas</type>
+  <extensions>
+    <ogr:ADDRESS>786 Tehama St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4539497.3043000028" lon="-13629940.752900001">
+  <name>Gas</name>
+  <type>Gas</type>
+  <extensions>
+    <ogr:ADDRESS>875 Geneva Ave</ogr:ADDRESS>
+  </extensions>
+</wpt>
+<wpt lat="4539308.7347000018" lon="-13629551.913899999">
+  <name>Gas</name>
+  <type>Gas</type>
+  <extensions>
+    <ogr:ADDRESS>950 Madrid St</ogr:ADDRESS>
+  </extensions>
+</wpt>
+</gpx>

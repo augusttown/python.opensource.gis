@@ -1,0 +1,69 @@
+<feed xmlns="http://www.w3.org/2005/Atom" 
+   xmlns:georss="http://www.georss.org/georss" 
+   xmlns:gml="http://www.opengis.net/gml">
+   <title>Cambridge Calendar of Events</title>
+   <subtitle>Goings on around Cambridge</subtitle>
+   <link href="http://example.org/"/>
+   <updated>2005-12-13T18:30:02Z</updated>
+   <author>
+     <name>Arty "the one man party" Collins</name>
+     <email>apcollins@cambridgema.gov</email>
+   </author>
+   <id>http://www.cambridgema.gov/calendar</id>
+   <georss:where>
+     <gml:Polygon>
+       <gml:exterior><gml:LinearRing>
+         45.256 -110.45 46.46 -109.48 43.84 -109.86 
+         45.8 -109.2 45.256 -110.45
+       </gml:LinearRing></gml:exterior>
+     </gml:Polygon>
+   </georss:where>
+   <entry>
+     <title>City Council Meeting</title>
+     <link href="http://www.cambridgema.gov/calendar/2005/09/09/evt01"/>
+     <id>http://www.cambridgema.gov/calendar/2005/09/09/evt01</id>
+     <updated>2005-08-17T07:02:32Z</updated>
+     <content>Regular weekly meeting</content>
+     <georss:where>
+       <gml:Point>
+         <gml:pos>45.256 -110.45</gml:pos>
+       </gml:Point>
+     </georss:where>
+   </entry>
+   <entry>
+     <title>NoCa Arts Open House</title>
+     <link href="http://www.cambridgema.gov/calendar/2005/09/12/evt02"/>
+     <id>http://www.cambridgema.gov/calendar/2005/09/12/evt02</id>
+     <updated>2005-08-15T07:02:32Z</updated>
+     <content>North Cambridge arts festival featuring local artists</content>
+     <georss:where>
+       <gml:Point>
+         <gml:pos>45.94 -74.377</gml:pos>
+       </gml:Point>
+     </georss:where> 
+   </entry>
+   <entry>
+     <title>Setting off</title>
+     <link href="http://www.myisp.com/dbv/1"/>
+     <id>http://www.myisp.com/dbv/1</id>
+     <updated>2005-08-17T07:02:32Z</updated>
+     <content>getting ready to take the mountain!</content>
+     <georss:where>
+       <gml:Point>
+         <gml:pos>45.256 -110.45</gml:pos>
+       </gml:Point>
+     </georss:where>
+   </entry>
+   <entry>
+     <title>Crossing Muddy Creek</title>
+     <link href="http://www.myisp.com/dbv/2"/>
+     <id>http://www.myisp.com/dbv/2</id>
+     <updated>2005-08-15T07:02:32Z</updated>
+     <content>Check out the salamanders here</content>
+     <georss:where>
+       <gml:Point>
+         <gml:pos>45.94 -74.377</gml:pos>
+       </gml:Point>
+     </georss:where>
+   </entry>
+ </feed>

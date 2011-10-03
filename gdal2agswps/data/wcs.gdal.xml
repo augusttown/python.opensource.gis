@@ -1,0 +1,4 @@
+<WCS_GDAL>
+	<ServiceURL>http://char:6080/arcgis/services/haiti_3857/MapServer/WCSServer?</ServiceURL>
+	<CoverageName>1</CoverageName>
+</WCS_GDAL>
