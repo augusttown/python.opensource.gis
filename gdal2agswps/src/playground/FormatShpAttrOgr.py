@@ -1,7 +1,7 @@
 # import system modules
 import os
 import sys
-import string
+
 #
 # import gdal/ogr modules
 from osgeo import ogr
@@ -17,7 +17,155 @@ driverTypeToFileSuffix = {
     'SVG':                '.svg'
     # TODO: to add more
 };
-        
+
+global streetNameToZipcode;
+streetNameToZipcode = {};
+
+global streetNameToStreetType;
+streetNameToStreetType = {};
+
+global streetNameToCity;
+streetNameToCity = {};
+
+# the mapping is based on U.S. State and Street Postal Abbreviations 
+#     http://www.realifewebdesigns.com/web-marketing/abbreviations-states-streets.asp
+#     http://pe.usps.com/text/pub28/28apc_001.html
+def formatStreetTypeValue(originalValue):
+    originalValue = originalValue.upper().replace(' ', '');
+    streetTypeValue = "";
+    if originalValue.find('AVE') != -1:
+        streetTypeValue = 'Avenue';                            
+    elif originalValue.find('BLVD') != -1:
+        streetTypeValue = 'Boulevard';
+    elif originalValue.find('CIR') != -1:
+        streetTypeValue = 'Circle';
+    elif originalValue.find('CT') != -1:
+        streetTypeValue = 'Court';
+    elif originalValue.find('CTR') != -1:
+        streetTypeValue = 'Center';
+    elif originalValue.find('DR') != -1:
+        streetTypeValue = 'Drive';
+    elif originalValue.find('EXPY') != -1:
+        streetTypeValue = 'Expressway';
+    elif originalValue.find('FWY') != -1:
+        streetTypeValue = 'Freeway';
+    elif originalValue.find('HWY') != -1:
+        streetTypeValue = 'Highway';
+    elif originalValue.find('LN') != -1:
+        streetTypeValue = 'Lane';
+    elif originalValue.find('PKWY') != -1:
+        streetTypeValue = 'Parkway';
+    elif originalValue.find('PL') != -1:
+        streetTypeValue = 'Place';
+    elif originalValue.find('RD') != -1:
+        streetTypeValue = 'Road';
+    elif originalValue.find('RTE') != -1:
+        streetTypeValue = 'Route';
+    elif originalValue.find('ST') != -1:
+        streetTypeValue = 'Street';
+    elif originalValue.find('TER') != -1:
+        streetTypeValue = 'Terrace';
+    elif originalValue.find('WY') != -1:
+        streetTypeValue = 'Way';
+    else:   
+        streetTypeValue = '';
+    return streetTypeValue;
+
+#
+def formatCityValue(originalValue):
+    return originalValue.rstrip().lstrip().title();
+
+#
+def formatZipValue(originalValue):
+    return originalValue.lower().replace(' ', '');
+
+#
+def formatStreetNameValue(originalValue):
+    formatttedOriginalValue = originalValue.lower().replace(' ', '');    
+    if formatttedOriginalValue.find('40th')!=-1:
+        streetNameValue = '40th';
+    elif formatttedOriginalValue.find('39th') != -1:
+        streetNameValue = '39th';
+    elif formatttedOriginalValue.find('38th') != -1:
+        streetNameValue = '38th';
+    elif formatttedOriginalValue.find('37th') != -1:
+        streetNameValue = '37th';
+    elif formatttedOriginalValue.find('36th') != -1:
+        streetNameValue = '36th';
+    elif formatttedOriginalValue.find('35th') != -1:
+        streetNameValue = '35th';
+    elif formatttedOriginalValue.find('34th') != -1:
+        streetNameValue = '34th';
+    elif formatttedOriginalValue.find('33rd') != -1:
+        streetNameValue = '33rd';
+    elif formatttedOriginalValue.find('32nd') != -1:
+        streetNameValue = '32nd';
+    elif formatttedOriginalValue.find('31st') != -1:
+        streetNameValue = '31st';
+    elif formatttedOriginalValue.find('30th')!=-1:
+        streetNameValue = '30th';
+    elif formatttedOriginalValue.find('29th') != -1:
+        streetNameValue = '29th';
+    elif formatttedOriginalValue.find('28th') != -1:
+        streetNameValue = '28th';
+    elif formatttedOriginalValue.find('27th') != -1:
+        streetNameValue = '27th';
+    elif formatttedOriginalValue.find('26th') != -1:
+        streetNameValue = '26th';
+    elif formatttedOriginalValue.find('25th') != -1:
+        streetNameValue = '25th';
+    elif formatttedOriginalValue.find('24th') != -1:
+        streetNameValue = '24th';
+    elif formatttedOriginalValue.find('23rd') != -1:
+        streetNameValue = '23rd';
+    elif formatttedOriginalValue.find('22nd') != -1:
+        streetNameValue = '22nd';
+    elif formatttedOriginalValue.find('21st') != -1:
+        streetNameValue = '21st';
+    elif formatttedOriginalValue.find('20th') != -1:
+        streetNameValue = '20th';
+    elif formatttedOriginalValue.find('19th') != -1:
+        streetNameValue = '19th';
+    elif formatttedOriginalValue.find('18th') != -1:
+        streetNameValue = '18th';
+    elif formatttedOriginalValue.find('17th') != -1:
+        streetNameValue = '17th';
+    elif formatttedOriginalValue.find('16th') != -1:
+        streetNameValue = '16th';
+    elif formatttedOriginalValue.find('15th') != -1:
+        streetNameValue = '15th';
+    elif formatttedOriginalValue.find('14th') != -1:
+        streetNameValue = '14th';
+    elif formatttedOriginalValue.find('13th') != -1:
+        streetNameValue = '13th';
+    elif formatttedOriginalValue.find('12th') != -1:
+        streetNameValue = '12th';
+    elif formatttedOriginalValue.find('11th') != -1:
+        streetNameValue = '11th';
+    elif formatttedOriginalValue.find('10th') != -1:
+        streetNameValue = '10th';
+    elif formatttedOriginalValue.find('9th') != -1:
+        streetNameValue = '9th';
+    elif formatttedOriginalValue.find('8th') != -1:
+        streetNameValue = '8th';
+    elif formatttedOriginalValue.find('7th') != -1:
+        streetNameValue = '7th';
+    elif formatttedOriginalValue.find('6th') != -1:
+        streetNameValue = '6th';
+    elif formatttedOriginalValue.find('5th') != -1:
+        streetNameValue = '5th';
+    elif formatttedOriginalValue.find('4th') != -1:                            
+        streetNameValue = '4th';
+    elif formatttedOriginalValue.find('3rd') != -1:
+        streetNameValue = '3rd';
+    elif formatttedOriginalValue.find('2nd') != -1:
+        streetNameValue = '2nd';
+    elif formatttedOriginalValue.find('1st') != -1:
+        streetNameValue = '1st';
+    else:
+        streetNameValue = originalValue.lstrip().rstrip().title();
+    return streetNameValue;
+
 def copy_shp_ogr(inputDataPath, inputDriverType, inputFeatureTypeName, outputDriverType, outputFeatureTypeName, outputDataSourceOpts):        
     # input ogr driver
     inputDriver = ogr.GetDriverByName(inputDriverType)    
@@ -26,13 +174,6 @@ def copy_shp_ogr(inputDataPath, inputDriverType, inputFeatureTypeName, outputDri
     # output ogr driver
     outputDriver = ogr.GetDriverByName(outputDriverType);
     print('ogr driver for output dataset: ' + outputDriverType);
-
-    # output shapefile driver
-    # always output as shapefile
-    outputShpDriver = ogr.GetDriverByName('ESRI Shapefile');       
-    # output fgdb driver
-    # always output as fgdb
-    outputFgdbDriver = ogr.GetDriverByName('FileGDB');
     
     # open input data        
     inputDataSource = inputDriver.Open(inputDataPath, 0);                 
@@ -125,14 +266,69 @@ def copy_shp_ogr(inputDataPath, inputDriverType, inputFeatureTypeName, outputDri
             featureTypeFieldCount = featureTypeDef.GetFieldCount();
             for featureTypeFieldIdx in range(featureTypeFieldCount):
                 featureTypeField = featureTypeDef.GetFieldDefn(featureTypeFieldIdx);
+                # if you want change the type or other aspects of a field here is a good place
                 # create output feature type field
-                outputFeatureType.CreateField(featureTypeField);                
+                outputFeatureType.CreateField(featureTypeField);
+                
+                if str(featureTypeField.GetName()) == 'streetname':
+                    streetNameFieldIdx = featureTypeFieldIdx;
+                #if str(featureTypeField.GetName()) == 'streettype':
+                #    streetTypeFieldIdx = featureTypeFieldIdx;
+                #if str(featureTypeField.GetName()) == 'zip':
+                #    zipFieldIdx = featureTypeFieldIdx;
+                    
                 print('create output feature type field: ' + str(featureTypeField.GetName()) + '[' + str(featureTypeField.GetType()) + ']'); 
             # output feature type definition
             outputFeatureTypeDef = outputFeatureType.GetLayerDefn();
+            
+            count = 0;
+            feature = featureType.GetNextFeature();
+            while feature:
+                for featureTypeFieldIdx in range(featureTypeFieldCount):
+                    fieldName = str((featureTypeDef.GetFieldDefn(featureTypeFieldIdx)).GetName());
+                    streetNameKey = formatStreetNameValue(str(feature.GetField(streetNameFieldIdx)));
+                    if fieldName == 'streettype':
+                        fieldValue = str(feature.GetField(featureTypeFieldIdx));                                            
+                        streetTypeValue = formatStreetTypeValue(fieldValue);
+                        # main a dictionary to fixing streettype fields with missing values                         
+                        if streetTypeValue == '':
+                            if streetNameKey in streetNameToStreetType:
+                                streetTypeValue = streetNameToStreetType.get(streetNameKey);
+                        else:
+                            if streetNameKey not in streetNameToStreetType:
+                                streetNameToStreetType.update({streetNameKey: streetTypeValue});                                                                                     
+                    if fieldName == 'zip':
+                        fieldValue = str(feature.GetField(featureTypeFieldIdx));                                                                    
+                        zipValue = formatZipValue(fieldValue);
+                        # main a dictionary to fixing zip fields with missing values                        
+                        if zipValue == '' or zipValue == '00000':
+                            if streetNameKey in streetNameToZipcode:
+                                zipValue = streetNameToZipcode.get(streetNameKey);
+                        else:
+                            if streetNameKey not in streetNameToZipcode:
+                                streetNameToZipcode.update({streetNameKey: zipValue}); 
+                    if fieldName == 'city':
+                        fieldValue = str(feature.GetField(featureTypeFieldIdx));                                                                    
+                        # main a dictionary to fixing city fields with missing values
+                        cityValue = formatCityValue(fieldValue); 
+                        if cityValue == '':
+                            if streetNameKey in streetNameToCity:
+                                cityValue = streetNameToCity.get(streetNameKey);
+                        else:
+                            if streetNameKey not in streetNameToCity:
+                                streetNameToCity.update({streetNameKey: cityValue});
+                feature.Destroy;
+                # loop to the next feature
+                feature = featureType.GetNextFeature();
+                count = count + 1;
+            print(count);
+            
+            # set the cursor back to the beginning
+            featureType.SetNextByIndex(-1);                            
+            
             # loop through each feature
             feature = featureType.GetNextFeature();
-            
+            count = 0;
             while feature:
                 outputFeature = ogr.Feature(outputFeatureTypeDef);                
                 # TODO: you may need to create geometry field manually from non-spatial fields
@@ -144,142 +340,48 @@ def copy_shp_ogr(inputDataPath, inputDriverType, inputFeatureTypeName, outputDri
                 outputFeature.SetGeometry(outputFeatureGeom);                                                
                 #print('set output feature geometry type');                 
                 # loop through attributes for each feature 
-                for featureTypeFieldIdx in range(featureTypeFieldCount):
-                    
+                for featureTypeFieldIdx in range(featureTypeFieldCount):                    
                     fieldName = str((featureTypeDef.GetFieldDefn(featureTypeFieldIdx)).GetName());
+                    streetNameKey = formatStreetNameValue(str(feature.GetField(streetNameFieldIdx))); 
                     # really need a regular expression
                     if fieldName == 'streetname':
                         # 
-                        fieldValue = str(feature.GetField(featureTypeFieldIdx)).lower().replace(' ', '');
-                        #
-                        if fieldValue.find('40th')!=-1:
-                            streetNameValue = '40th';
-                        elif fieldValue.find('39th') != -1:
-                            streetNameValue = '39th';
-                        elif fieldValue.find('38th') != -1:
-                            streetNameValue = '38th';
-                        elif fieldValue.find('37th') != -1:
-                            streetNameValue = '37th';
-                        elif fieldValue.find('36th') != -1:
-                            streetNameValue = '36th';
-                        elif fieldValue.find('35th') != -1:
-                            streetNameValue = '35th';
-                        elif fieldValue.find('34th') != -1:
-                            streetNameValue = '34th';
-                        elif fieldValue.find('33rd') != -1:
-                            streetNameValue = '33rd';
-                        elif fieldValue.find('32nd') != -1:
-                            streetNameValue = '32nd';
-                        elif fieldValue.find('31st') != -1:
-                            streetNameValue = '31st';
-                        elif fieldValue.find('30th')!=-1:
-                            streetNameValue = '30th';
-                        elif fieldValue.find('29th') != -1:
-                            streetNameValue = '29th';
-                        elif fieldValue.find('28th') != -1:
-                            streetNameValue = '28th';
-                        elif fieldValue.find('27th') != -1:
-                            streetNameValue = '27th';
-                        elif fieldValue.find('26th') != -1:
-                            streetNameValue = '26th';
-                        elif fieldValue.find('25th') != -1:
-                            streetNameValue = '25th';
-                        elif fieldValue.find('24th') != -1:
-                            streetNameValue = '24th';
-                        elif fieldValue.find('23rd') != -1:
-                            streetNameValue = '23rd';
-                        elif fieldValue.find('22nd') != -1:
-                            streetNameValue = '22nd';
-                        elif fieldValue.find('21st') != -1:
-                            streetNameValue = '21st';
-                        elif fieldValue.find('20th') != -1:
-                            streetNameValue = '20th';
-                        elif fieldValue.find('19th') != -1:
-                            streetNameValue = '19th';
-                        elif fieldValue.find('18th') != -1:
-                            streetNameValue = '18th';
-                        elif fieldValue.find('17th') != -1:
-                            streetNameValue = '17th';
-                        elif fieldValue.find('16th') != -1:
-                            streetNameValue = '16th';
-                        elif fieldValue.find('15th') != -1:
-                            streetNameValue = '15th';
-                        elif fieldValue.find('14th') != -1:
-                            streetNameValue = '14th';
-                        elif fieldValue.find('13th') != -1:
-                            streetNameValue = '13th';
-                        elif fieldValue.find('12th') != -1:
-                            streetNameValue = '12th';
-                        elif fieldValue.find('11th') != -1:
-                            streetNameValue = '11th';
-                        elif fieldValue.find('10th') != -1:
-                            streetNameValue = '10th';
-                        elif fieldValue.find('9th') != -1:
-                            streetNameValue = '9th';
-                        elif fieldValue.find('8th') != -1:
-                            streetNameValue = '8th';
-                        elif fieldValue.find('7th') != -1:
-                            streetNameValue = '7th';
-                        elif fieldValue.find('6th') != -1:
-                            streetNameValue = '6th';
-                        elif fieldValue.find('5th') != -1:
-                            streetNameValue = '5th';
-                        elif fieldValue.find('4th') != -1:                            
-                            streetNameValue = '4th';
-                        elif fieldValue.find('3rd') != -1:
-                            streetNameValue = '3rd';
-                        elif fieldValue.find('2nd') != -1:
-                            streetNameValue = '2nd';
-                        elif fieldValue.find('1st') != -1:
-                            streetNameValue = '1st';
-                        else:
-                            streetNameValue = feature.GetField(featureTypeFieldIdx);
-                        #        
-                        outputFeature.SetField(featureTypeFieldIdx, streetNameValue);                       
-                        #print (fieldValue + ' , ' + streetNameValue);
+                        fieldValue = str(feature.GetField(featureTypeFieldIdx));
+                        streetNameValue = formatStreetNameValue(fieldValue);                              
+                        outputFeature.SetField(featureTypeFieldIdx, streetNameValue);                                                
                     elif fieldName == 'streettype':
                         # 
-                        fieldValue = str(feature.GetField(featureTypeFieldIdx)).upper().replace(' ', '');
-                        # the mapping is based on U.S. State and Street Postal Abbreviations 
-                        #     http://www.realifewebdesigns.com/web-marketing/abbreviations-states-streets.asp
-                        #     http://pe.usps.com/text/pub28/28apc_001.html
-                        if fieldValue.find('AVE') != -1:
-                            streetTypeValue = 'Avenue';
-                        elif fieldValue.find('BLVD') != -1:
-                            streetTypeValue = 'Boulevard';
-                        elif fieldValue.find('CIR') != -1:
-                            streetTypeValue = 'Circle';
-                        elif fieldValue.find('CT') != -1:
-                            streetTypeValue = 'Court';
-                        elif fieldValue.find('CTR') != -1:
-                            streetTypeValue = 'Center';
-                        elif fieldValue.find('DR') != -1:
-                            streetTypeValue = 'Drive';
-                        elif fieldValue.find('EXPY') != -1:
-                            streetTypeValue = 'Expressway';
-                        elif fieldValue.find('FWY') != -1:
-                            streetTypeValue = 'Freeway';
-                        elif fieldValue.find('HWY') != -1:
-                            streetTypeValue = 'Highway';
-                        elif fieldValue.find('LN') != -1:
-                            streetTypeValue = 'Lane';
-                        elif fieldValue.find('PKWY') != -1:
-                            streetTypeValue = 'Parkway';
-                        elif fieldValue.find('PL') != -1:
-                            streetTypeValue = 'Place';
-                        elif fieldValue.find('RD') != -1:
-                            streetTypeValue = 'Road';
-                        elif fieldValue.find('RTE') != -1:
-                            streetTypeValue = 'Route';
-                        elif fieldValue.find('ST') != -1:
-                            streetTypeValue = 'Street';
-                        elif fieldValue.find('TER') != -1:
-                            streetTypeValue = 'Terrace';
-                        elif fieldValue.find('WY') != -1:
-                            streetTypeValue = 'Way';
-                        else:  
-                            # 
-                            streetTypeValue = '';  
+                        fieldValue = str(feature.GetField(featureTypeFieldIdx));                                            
+                        streetTypeValue = formatStreetTypeValue(fieldValue);                                                 
+                        if streetTypeValue == '':
+                            if streetNameKey in streetNameToStreetType:
+                                streetTypeValue = streetNameToStreetType.get(streetNameKey);
+                        else:
+                            if streetNameKey not in streetNameToStreetType:
+                                streetNameToStreetType.update({streetNameKey: streetTypeValue}); 
+                        outputFeature.SetField(featureTypeFieldIdx, streetTypeValue);
+                    elif fieldName == 'city':
+                        fieldValue = str(feature.GetField(featureTypeFieldIdx));                                                                    
+                        # main a dictionary to fixing city fields with missing values
+                        cityValue = formatCityValue(fieldValue);                          
+                        if cityValue == '':
+                            if streetNameKey in streetNameToCity:
+                                cityValue = streetNameToCity.get(streetNameKey);
+                        else:
+                            if streetNameKey not in streetNameToCity:
+                                streetNameToCity.update({streetNameKey: cityValue});
+                        outputFeature.SetField(featureTypeFieldIdx, cityValue);
+                    elif fieldName == 'zip':
+                        fieldValue = str(feature.GetField(featureTypeFieldIdx));                                                                    
+                        zipValue = formatZipValue(fieldValue);
+                        # main a dictionary to fixing zip fields with missing values                         
+                        if zipValue == '' or zipValue == '00000':
+                            if streetNameKey in streetNameToZipcode:
+                                zipValue = streetNameToZipcode.get(streetNameKey);
+                        else:
+                            if streetNameKey not in streetNameToZipcode:
+                                streetNameToZipcode.update({streetNameKey: zipValue});
+                        outputFeature.SetField(featureTypeFieldIdx, zipValue); 
                     else:
                         outputFeature.SetField(featureTypeFieldIdx, feature.GetField(featureTypeFieldIdx));
                                                                         
@@ -292,7 +394,9 @@ def copy_shp_ogr(inputDataPath, inputDriverType, inputFeatureTypeName, outputDri
                 feature.Destroy;
                 # loop to the next feature
                 feature = featureType.GetNextFeature();                            
-                                    
+                count = count + 1;
+            print(count);
+                               
             # morph to be ESRI compatible
             outputCrs.MorphToESRI(); 
             #arcpy.AddMessage('convert projection wkt to esri format');
@@ -339,11 +443,8 @@ if __name__ == '__main__':
     #arcpy.AddMessage(os.environ);
     print(os.environ);
     
-    # set current workspace
-    #os.chdir(r'E:/data/dropbox/Dropbox/Projects/gdal2agswps.python/scratch/');
-    #os.chdir(r'E:/data/dropbox/Dropbox/Projects/gdal2agswps.python/data/');
-    #os.chdir(r'/home/ying4682/Dropbox/Projects/gdal2agswps.python/data/');    
-    os.chdir(r'/home/ying4682/Dropbox/Projects/osm.contribution/shp/rancho.cucamonga/');
+    # set current workspace 
+    os.chdir(r'/home/ying4682/Data/Dropbox/projects/osm.contribution/shp/rancho.cucamonga/');
     
     ##arcpy.AddMessage('os.curdir: ' + os.curdir);
     #print('os.curdir: ' + os.curdir);
@@ -367,7 +468,7 @@ if __name__ == '__main__':
     # since gdal/ogr 1.8.0 JSON from Esri GeoService REST service is supported
     #inputDataPath = 'http://char:6080/arcgis/rest/services/playground/sanfrancisco/MapServer/0/query?where=TYPE%3D%27Restaurant+%27&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=&returnGeometry=true&maxAllowableOffset=&outSR=4326&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&f=json';
     #inputDataPath = 'http://char:6080/arcgis/services/playground/sanfrancisco/mapserver/wfsserver?SERVICE=WFS'; # OGC WFS        
-    inputDataPath = 'parcel_4326_1m_simplified_ags.shp';
+    inputDataPath = 'parcel_4326_1m_simplified_kai.shp';
     #inputDataPath = 'csv.csv';
     #inputDataPath = 'gpx.tracks.gpx';
     #inputDataPath = 'georss.simple.xml';
@@ -427,3 +528,4 @@ if __name__ == '__main__':
     outputPath = outputPaths[0];
     #arcpy.AddMessage('outputShpPath: ' + outputShpPath);
     print('outputPath: ' + outputPath);
+    
