@@ -329,10 +329,10 @@ if __name__ == '__main__':
     print(os.environ);
     
     # set current workspace
-    #os.chdir(r'E:/data/dropbox/Dropbox/Projects/gdal2agswps.python/scratch/');
-    #os.chdir(r'E:/data/dropbox/Dropbox/Projects/gdal2agswps.python/data/');
+    #os.chdir(r'C:/yingqi/nightingale/projects/python.opensource.gis/src/github/python.opensource.gis/gdal2agswps/data/scratch/');
+    os.chdir(r'C:/yingqi/nightingale/projects/python.opensource.gis/src/github/python.opensource.gis/gdal2agswps/data/');
     #os.chdir(r'/home/ying4682/Dropbox/Projects/gdal2agswps.python/data/');    
-    os.chdir(r'/home/ying4682/Dropbox/Projects/osm.contribution/shp/rancho.cucamonga/');
+    #os.chdir(r'/home/ying4682/Dropbox/Projects/osm.contribution/shp/rancho.cucamonga/');
     
     ##arcpy.AddMessage('os.curdir: ' + os.curdir);
     #print('os.curdir: ' + os.curdir);

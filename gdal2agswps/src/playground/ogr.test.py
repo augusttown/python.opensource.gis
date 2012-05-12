@@ -26,8 +26,8 @@ DRIVERTYPE_TO_SUFFIX = {
 if __name__ == '__main__':
     
     # set current workspace    
-    #os.chdir(r'E:/data/dropbox/Dropbox/Projects/gdal2agswps.python/data/');
-    os.chdir(r'/home/ying4682/Dropbox/Projects/gdal2agswps.python/data/');    
+    os.chdir(r'C:/yingqi/nightingale/projects/python.opensource.gis/src/github/python.opensource.gis/gdal2agswps/data/');
+    #os.chdir(r'/home/ying4682/Dropbox/Projects/gdal2agswps.python/data/');    
     print('os.curdir: ' + os.curdir);
     
     ogr.UseExceptions();
